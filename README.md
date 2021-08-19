@@ -24,10 +24,10 @@ Un ejercicio interesante!!!
 | 1 | nociones básicas de **Python** 1 | variables, listas, ciclo for, if/else |
 | 2 | nociones básicas de **Python** 2 | diccionarios, funciones, manejo básico de strings |
 | 3 | frecuencias de palabras | types/tokens, ejemplos con corpus paralelos, visualización básica: [gráficos](https://matplotlib.org/) | 
-| 4 | manejo de datos (lingüísticos) | texto, archivos tabulados, información lingüística | instrucciones entrega 1 |
+| 4 | manejo de datos (lingüísticos) | texto, archivos tabulados | instrucciones entrega 1 |
 | 5 | herramientas de análisis | frecuencias/entropías, distancia de Hamming, herramientas básicas de estadística |
 | 6 | bases de datos lingüísticas | Glottolog, Sails, Wals, corpus textuales, repositorios digitales de información lingüística | entrega 1
 | 7 | acercamiento computacional a problemas lingüísticos | [entropías](https://www.mdpi.com/1099-4300/19/6/275), [medidas de complejidad morfológica](https://aclanthology.org/W16-4117.pdf) |
-| 8 | xxx | xxx |
+| 8 | distancias entre lenguas | [distancias léxicas](https://watermark.silverchair.com/coli_a_00073.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqAwggKcBgkqhkiG9w0BBwagggKNMIICiQIBADCCAoIGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMbfZMpGdg1bg-1FJbAgEQgIICUxsAf6P1rop5QGTdPZXH_PeC83zLFBpZoCoDl_9g5RisYc7n2lJr1A3PnQpClblVxPdaRSxs0-PTBl_cPlqgaEz3Z6-xLuImJ4V5xTLmJH4DwsVXDI7unZfcYe9IU3hDXbthvnM_5dAHqO-9_ZKraooA_AbHSHbWs4dijil5es9lwRzzHkS7v4J_oUBJhPsQ_QJdFYjVr8HxLvs1zx8bvwHsdBTDFrdUcp8Vwp5MfVc7plA_f1olgjfKD8WFKqvoftv2yyO_mHYeWeMdi0-g4a1_Xe3Y4NR2pqEokMRTvE307ZZ6dZc1Oky8flHJj2D036NXNH0qo9qqd-Yy-xYkWeg_B8UL6yf64RpDoGqj9f9ur8JBVlBe1WgKDPbZy5oXv-Mt2zsoqnWo20vAuwZQCxXQBufa9t7ioV5EPdjYbmKyZRsf9aqxdf7PG82SZh5CUJDtnfLzac2xmDCXfG8LyVHr638uZz7jRSrbGkLTdlzuGLutWCUfVlTG3HAhQeGsWrigYYAs6hbEOb6ILfd0i1p0LGuwscSFPTdizXVwyHzqDprpcMk_7ZXRg7BLJIOPSkID6lbCMiB-APSJHIINr_2zMWW3j9Q4dE2YJfQtVGuZhacZEzl8PCd7nlh5DD1YHQEYDe-pSGV7ssqHES8bx1A8dEfITa9d66kc_QJljTorox29vANZWGsGZWxv1cRPXUHLuP9VFzZOV2HLrK7rguodDBc5ZNW5hJ1L-gN7w5iFiPrDBoIBYjBl9Yp-vJyrJit6cBnqbS5W4UnI5DDCruiu8NA), [distancias tipológicas](https://cl.lingfil.uu.se/~harald/hhpub/vangijnetal_south-america-river2017.pdf) |
 | 9 | xxx | xxx |
 | 10 | xxx | xxx |
