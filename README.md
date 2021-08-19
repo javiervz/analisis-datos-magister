@@ -21,4 +21,6 @@ Calendario (tentativo)
 
 | # clase | tema | contenidos | tareas |
 | :-: | :-: | :-: | :-: |
-| 1 | nociones básicas de **Python** | listas, ciclo for, if/else |
+| 1 | nociones básicas de **Python** | variables, listas, ciclo for, if/else |
+| :-: | :-: | :-: | :-: |
+| 2 | nociones básicas de **Python** | variables, listas, ciclo for, if/else |
