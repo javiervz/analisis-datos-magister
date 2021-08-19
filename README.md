@@ -16,3 +16,9 @@ Un ejercicio interesante!!!
 1. Mantengan **jupyter notebook** abierto!
 2. Vayan a [link a repositorio](https://github.com/javiervz/analisis-datos-magister). Ahí aprieten **Code -> Download ZIP**. Luego de descomprimir, abran el **notebook** que está en la carpeta. Hagan esto desde el navegador donde abrieron **jupyter** (**no** haciendo doble click directamente en la carpeta descomprimida!!!). En **linux:** [link útil](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 3. Vean si funciona :) Si funciona, pueden probar el código apretando el símbolo **play** o **run**. Vayan viendo que entrega cada celda, eso puede servir mucho para partir.
+
+Calendario (tentativo)
+
+| # clase | tema | contenidos | tareas |
+| :-: | :-: | :-: | :-: |
+| 1 | nociones básicas de **Python** | listas, ciclo for, if/else |
