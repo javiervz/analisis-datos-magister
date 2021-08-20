@@ -32,4 +32,4 @@ Un ejercicio interesante!!!
 | 9 | recapitulación | apoyo al desarrollo de los proyectos | mini exposisiones alumnos |
 | 10 | visualización de información lingüística | [mapas](https://geopandas.org/) e información espacial, [gráficos](https://matplotlib.org/) |
 | 11 | fundamentos de análisis automático de datos | detección de patrones, regresiones lineales, agrupamiento |
-| 12 | exposiciones alumxs | | entrega trabajo final
+| 12 | exposiciones alumnxs | | entrega trabajo final
