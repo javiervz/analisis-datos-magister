@@ -9,4 +9,4 @@ Para la **primera entrega**, el propósito es esbozar qué tipo de datos quieren
     
 Pueden elegir (o modificar) alguna de las propuestas que les propongo. También pueden proponer otro tema. Siéntanse libres de proponer temas. Esta entrega **NO tiene nota, pero será evaluada.** **Plazo de entrega: lunes 6 de septiembre!** 
 
-**Sugerencia!** traten de proponer (en lo posible) problemas simples. Por ejemplo, es razonable trabajar con datos que sean fácilmente accesibles en un marco muy acotado de preguntas de investigación. 
+**Sugerencia!** traten de proponer (en lo posible) problemas simples. Tomen en cuenta que deben implementarlos en **Python.** Por ejemplo, es razonable trabajar con datos que sean fácilmente accesibles en un marco muy acotado de preguntas de investigación. 
