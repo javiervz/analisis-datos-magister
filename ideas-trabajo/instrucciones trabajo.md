@@ -1,5 +1,5 @@
 ## Instrucciones entrega 1
-Para la primera entrega, el propósito es esbozar qué tipo de datos quieren analizar, con qué tipo de técnicas computacionales y qué preguntas lingüísticas quieren abordar. En términos precisos, deben presentar por escrito:
+Para la primera entrega, el propósito es esbozar qué tipo de datos quieren analizar, con qué tipo de técnicas computacionales pretenden trabajar y qué preguntas lingüísticas quieren abordar. En términos precisos, deben presentar por escrito:
 
 1. 1 página máximo. 
 2. La respuesta a las siguientes preguntas (de la forma más precisa posible):
@@ -7,4 +7,4 @@ Para la primera entrega, el propósito es esbozar qué tipo de datos quieren ana
     - ¿Qué técnicas computacionales espera utilizar para analizar los datos?
     - ¿Qué problemas lingüísticos pretende abordar? 
     
-Esta entrega NO tiene nota, pero será evaluada. Plazo de entrega: lunes 6 de septiembre. 
+Pueden elegir (o modificar) alguna de las propuestas que les propongo. Esta entrega NO tiene nota, pero será evaluada. Plazo de entrega: lunes 6 de septiembre. 
