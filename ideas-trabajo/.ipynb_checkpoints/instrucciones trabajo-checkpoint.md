@@ -7,4 +7,4 @@ Para la primera entrega, el propósito es esbozar qué tipo de datos quieren ana
     - ¿Qué técnicas computacionales espera utilizar para analizar los datos?
     - ¿Qué problemas lingüísticos pretende abordar? 
     
-Pueden elegir (o modificar) alguna de las propuestas que les propongo. Esta entrega NO tiene nota, pero será evaluada. Plazo de entrega: lunes 6 de septiembre. 
+Pueden elegir (o modificar) alguna de las propuestas que les propongo. También pueden proponer otro tema. Siéntanse libres de proponer temas. Esta entrega NO tiene nota, pero será evaluada. Plazo de entrega: lunes 6 de septiembre. 
