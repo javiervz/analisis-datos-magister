@@ -1,0 +1,1342 @@
+,LanguageId,LanguageName,Latitude,Longitude,WordId,WordModernName1,Phonetic,SpellingAltv1,source_csv
+0,28001000000,Ref. Spelling,-40.0,-75.5,1070,ellos,fëjëŋɘn,feyengün,12-feyengün.csv
+1,28131006609,Santa Bárbara,-37.67405,-71.80186,1070,ellos,ˌvë.jë.ˈŋɘn,,12-feyengün.csv
+2,28131007109,Cañete,-37.96722,-73.39282,1070,ellos,cʰɪ.ˈðwɪ.ŋɘn,,12-feyengün.csv
+3,28131009109,Tirúa,-38.3699,-73.49067,1070,ellos,ˈɸë.jë.ɣ̞ɐ̝,,12-feyengün.csv
+4,28131009809,Alto Bío Bío,-38.04457,-71.36344,1070,ellos,m̩.ˌvë.jë.ˈŋɘn,,12-feyengün.csv
+5,28141001409,Ercilla,-38.04926,-72.44544,1070,ellos,ˌfɪ.ë.ˈŋɘn,,12-feyengün.csv
+6,28141002309,Galvarino,-38.40865,-72.78342,1070,ellos,fë.jë.ˈŋɘn,,12-feyengün.csv
+7,28141002509,Victoria,-38.35303,-72.19395,1070,ellos,ˈvëj.ŋʊ,,12-feyengün.csv
+8,28141002809,Lonquimay,-38.42587,-71.37014,1070,ellos,ˌfëj.ˈë.ŋɘn,,12-feyengün.csv
+9,28141003209,Chol Chol,-38.51661,-72.97454,1070,ellos,ˌfë.jë.ˈŋɘn,,12-feyengün.csv
+10,28141005109,Puerto Saavedra,-38.78431,-73.39912,1070,ellos,fë.jë.ˈŋɘn,,12-feyengün.csv
+11,28141005409,Truf Truf,-38.75576,-72.43983,1070,ellos,ˌɸë.jë.ˈŋɘn,,12-feyengün.csv
+12,28141005909,Icalma,-38.72338,-71.1847,1070,ellos,ˈfëj.mɘn,,12-feyengün.csv
+13,28141006309,Freire,-38.99144,-72.8833,1070,ellos,ˌfë.jë.ˈŋɘn,,12-feyengün.csv
+14,28141006609,Cunco,-38.97601,-72.01425,1070,ellos,ë.ˈŋɘn,,12-feyengün.csv
+15,28141007209,Nueva Toltén,-39.20931,-73.1312,1070,ellos,fë.ˈjɪ.ŋɘn,,12-feyengün.csv
+16,28141008509,Villarrica,-39.48612,-72.3038,1070,ellos,ˌfë.jë.ˈŋɘn,,12-feyengün.csv
+17,28141008909,Curarrehue,-39.46788,-71.55193,1070,ellos,ˌfëj.ˈjë.ŋɘn,,12-feyengün.csv
+18,28151000109,Mariquina,-39.45147,-73.26457,1070,ellos,ˌfë.jë.ˈŋɘn,,12-feyengün.csv
+19,28151000409,Lanco,-39.5046,-72.44441,1070,ellos,hë.ˈjɘ.ŋɘn,,12-feyengün.csv
+20,28151000709,Panguipulli,-39.54399,-72.12614,1070,ellos,fëj.ˈɣɘŋ,,12-feyengün.csv
+21,28151002309,Valdivia,-39.81291,-72.95438,1070,ellos,ˌfë.ˈjɘ.ŋɘn,,12-feyengün.csv
+22,28161000309,San Pablo,-40.38308,-73.34988,1070,ellos,ˈëj.t̪ɘn,,12-feyengün.csv
+23,28161001209,S. Juan de la Costa,-40.51004,-73.52129,1070,ellos,ˈfëj.ŋɘn,,12-feyengün.csv
+24,28221005509,Chalileo,-36.42252,-66.47321,1070,ellos,ëj.ˈŋɘn,,12-feyengün.csv
+25,28261005509,Zapala,-38.85047,-69.74997,1070,ellos,ëj.ˈmɘn,,12-feyengün.csv
+26,28261007109,Junín de los Andes,-39.82386,-71.28742,1070,ellos,fɪ.ˈŋɘn,,12-feyengün.csv
+27,28261007209,Huiliches,-39.63992,-71.18686,1070,ellos,f̞ë.jë.ˈŋɘn,,12-feyengün.csv
+28,28271006509,Jacobacci,-41.28813,-69.55719,1070,ellos,ëj.ˈmɘn,,12-feyengün.csv
+29,28001000000,Ref. Spelling,-40.0,-75.5,5130,estrella,wɐ̝ŋɘlën,wangülen,7-wangülen.csv
+30,28131006609,Santa Bárbara,-37.67405,-71.80186,5130,estrella,ˌwɐ̝ŋ.ˈɡlën,,7-wangülen.csv
+31,28131007109,Cañete,-37.96722,-73.39282,5130,estrella,ˌwɐ̝ŋ.ɡɘ̆.ˈlën,,7-wangülen.csv
+32,28131009109,Tirúa,-38.3699,-73.49067,5130,estrella,ˌwɐ̝.ŋɘ.ˈlën,,7-wangülen.csv
+33,28131009809,Alto Bío Bío,-38.04457,-71.36344,5130,estrella,ˌwɐ̝.ŋɘ̆.ˈlën,,7-wangülen.csv
+34,28141000309,Angol,-37.86289,-72.68304,5130,estrella,ˌwɐ̝ŋ.ɡɘ.ˈlën,,7-wangülen.csv
+35,28141001209,Lumaco,-38.17584,-72.89947,5130,estrella,ˌwɐ̝.ŋɘ.ˈlën,,7-wangülen.csv
+36,28141001409,Ercilla,-38.04926,-72.44544,5130,estrella,ˌwɐ̝.ŋɘ.ˈlën,,7-wangülen.csv
+37,28141002309,Galvarino,-38.40865,-72.78342,5130,estrella,ˌwɐ̝.ŋɘ.ˈlën,,7-wangülen.csv
+38,28141002509,Victoria,-38.35303,-72.19395,5130,estrella,ˈwɐ̝ŋ.ɡlën,,7-wangülen.csv
+39,28141002809,Lonquimay,-38.42587,-71.37014,5130,estrella,wɐ̝ŋ.ˈɡlën,,7-wangülen.csv
+40,28141003209,Chol Chol,-38.51661,-72.97454,5130,estrella,ˌwɐ̝ŋ.ɡɘ.ˈlën,,7-wangülen.csv
+41,28141004309,Dollinco,-38.67157,-72.82837,5130,estrella,ˈwɐ̝.ŋɘ̆.ˌlën,,7-wangülen.csv
+42,28141004509,Vilcún,-38.59695,-72.31239,5130,estrella,ˌwɐ̝.ŋɘ.ˈlën,,7-wangülen.csv
+43,28141005109,Puerto Saavedra,-38.78431,-73.39912,5130,estrella,wɐ̝.ˌŋɘ.ˈlën,,7-wangülen.csv
+44,28141005409,Truf Truf,-38.75576,-72.43983,5130,estrella,wɐ̝.ŋɘ.ˈlën,,7-wangülen.csv
+45,28141005909,Icalma,-38.72338,-71.1847,5130,estrella,ˌwɐ̝ŋ.ɡɘ.ˈlën,,7-wangülen.csv
+46,28141006309,Freire,-38.99144,-72.8833,5130,estrella,wɐ̝ŋ.ˈlën,,7-wangülen.csv
+47,28141006609,Cunco,-38.97601,-72.01425,5130,estrella,wɐ̝ŋ.ˈɡlën,,7-wangülen.csv
+48,28141007209,Nueva Toltén,-39.20931,-73.1312,5130,estrella,ˈwɐ̝.ŋɘ.lën,,7-wangülen.csv
+49,28141008509,Villarrica,-39.48612,-72.3038,5130,estrella,ˌwɐ̝.ŋɘ.ˈlën,,7-wangülen.csv
+50,28141008909,Curarrehue,-39.46788,-71.55193,5130,estrella,ˌwɐ̝.ŋɘ.ˈlën,,7-wangülen.csv
+51,28151000109,Mariquina,-39.45147,-73.26457,5130,estrella,ˌwɐ̝ŋ.ˈɡlëŋ,,7-wangülen.csv
+52,28151000409,Lanco,-39.5046,-72.44441,5130,estrella,ˌwɐ̝.ɣɘ.ˈlën,,7-wangülen.csv
+53,28151000709,Panguipulli,-39.54399,-72.12614,5130,estrella,ˌwɐ̝.ŋɘ.ˈlën,,7-wangülen.csv
+54,28151002309,Valdivia,-39.81291,-72.95438,5130,estrella,ˌwɐ̝ŋ.ɡɘ.ˈlën,,7-wangülen.csv
+55,28221005509,Chalileo,-36.42252,-66.47321,5130,estrella,wɐ̝ŋ.ˈɡlën,,7-wangülen.csv
+56,28261005309,Picunches,-38.78279,-70.22884,5130,estrella,wɐ̝ŋ.ˈlën,,7-wangülen.csv
+57,28261005509,Zapala,-38.85047,-69.74997,5130,estrella,wɐ̝.ŋɘ.ˈlën,,7-wangülen.csv
+58,28261006109,Aluminé,-39.19681,-71.05406,5130,estrella,wɐ̝ŋ.ˈlën,,7-wangülen.csv
+59,28261007109,Junín de los Andes,-39.82386,-71.28742,5130,estrella,wɐ̝ŋ.ˈɡlën,,7-wangülen.csv
+60,28261007209,Huiliches,-39.63992,-71.18686,5130,estrella,wɐ̝ŋ.ˈɟ͡ʝën,,7-wangülen.csv
+61,28271006509,Jacobacci,-41.28813,-69.55719,5130,estrella,wɐ̝ŋ.ˈlën,,7-wangülen.csv
+62,28281000209,Cushamen,-42.23392,-71.34994,5130,estrella,ˌwɐ̝.ŋɘ.ˈɮën,,7-wangülen.csv
+63,28281002209,Futaleufú,-42.95052,-71.18351,5130,estrella,ˌwɐ̝.ŋɘ.ˈʝë,,7-wangülen.csv
+64,28281003209,Lago Rosario,-43.24408,-71.32581,5130,estrella,ˌwɐ̝.ŋɘ.ˈljë,,7-wangülen.csv
+65,28001000000,Ref. Spelling,-40.0,-75.5,8590,llorar,ŋɘmɐ̝n,ngüman,11-ngüman.csv
+66,28131006609,Santa Bárbara,-37.67405,-71.80186,8590,llorar,ˌŋɘ.ˈmɐ̝.pën,,11-ngüman.csv
+67,28131007109,Cañete,-37.96722,-73.39282,8590,llorar,ŋ̩.ˈmɐ̝l,,11-ngüman.csv
+68,28131009109,Tirúa,-38.3699,-73.49067,8590,llorar,ŋɘ.ˈmɐ̝j,,11-ngüman.csv
+69,28131009809,Alto Bío Bío,-38.04457,-71.36344,8590,llorar,ŋʊ.ˈmɐ̝n,,11-ngüman.csv
+70,28141000309,Angol,-37.86289,-72.68304,8590,llorar,ŋɘ.ˈmɐ̝n,,11-ngüman.csv
+71,28141001209,Lumaco,-38.17584,-72.89947,8590,llorar,ŋɘ.ˈmɐ̝j,,11-ngüman.csv
+72,28141001409,Ercilla,-38.04926,-72.44544,8590,llorar,ŋɘ.ˈmɐ̝j,,11-ngüman.csv
+73,28141002309,Galvarino,-38.40865,-72.78342,8590,llorar,ŋɘ.ˈmɐ̝n,,11-ngüman.csv
+74,28141002509,Victoria,-38.35303,-72.19395,8590,llorar,ŋɘ.ˈmɐ̝j,,11-ngüman.csv
+75,28141002809,Lonquimay,-38.42587,-71.37014,8590,llorar,ŋɘ.ˈmɐ̝n,,11-ngüman.csv
+76,28141003209,Chol Chol,-38.51661,-72.97454,8590,llorar,nɘ.ˈmɐ̝n,,11-ngüman.csv
+77,28141004309,Dollinco,-38.67157,-72.82837,8590,llorar,ɣɘ.ˈmɐ̝n,,11-ngüman.csv
+78,28141004509,Vilcún,-38.59695,-72.31239,8590,llorar,ŋɘ.ˈmɐ̝.lö,,11-ngüman.csv
+79,28141005109,Puerto Saavedra,-38.78431,-73.39912,8590,llorar,ŋɘ.ˈmɐ̝n,,11-ngüman.csv
+80,28141005409,Truf Truf,-38.75576,-72.43983,8590,llorar,ŋɘ.ˈmɐ̝n,,11-ngüman.csv
+81,28141005909,Icalma,-38.72338,-71.1847,8590,llorar,ŋɘ.ˈmɐ̝n,,11-ngüman.csv
+82,28141006309,Freire,-38.99144,-72.8833,8590,llorar,ŋɘ.ˈmɐ̝n,,11-ngüman.csv
+83,28141006609,Cunco,-38.97601,-72.01425,8590,llorar,ŋɘ.ˈmɐ̝n,,11-ngüman.csv
+84,28141007209,Nueva Toltén,-39.20931,-73.1312,8590,llorar,ŋɘ.ˈmɐ̝n,,11-ngüman.csv
+85,28141008509,Villarrica,-39.48612,-72.3038,8590,llorar,ŋɘ.ˈmɐ̝n,,11-ngüman.csv
+86,28141008909,Curarrehue,-39.46788,-71.55193,8590,llorar,ŋɘ.ˈmɐ̝n,,11-ngüman.csv
+87,28151000109,Mariquina,-39.45147,-73.26457,8590,llorar,ŋɘ.ˈmɐ̝j,,11-ngüman.csv
+88,28151000409,Lanco,-39.5046,-72.44441,8590,llorar,ŋɘ.ˈmɐ̝n,,11-ngüman.csv
+89,28151000709,Panguipulli,-39.54399,-72.12614,8590,llorar,ŋɘ.ˈmɐ̝n,,11-ngüman.csv
+90,28151002309,Valdivia,-39.81291,-72.95438,8590,llorar,ŋɘ.ˈmɐ̝n,,11-ngüman.csv
+91,28161000309,San Pablo,-40.38308,-73.34988,8590,llorar,ŋɘ.ˈmɐ̝n,,11-ngüman.csv
+92,28161001209,S. Juan de la Costa,-40.51004,-73.52129,8590,llorar,ŋɘ.ˈmɐ̝n,,11-ngüman.csv
+93,28221005509,Chalileo,-36.42252,-66.47321,8590,llorar,ŋɘ.ˈmɐ̝,,11-ngüman.csv
+94,28261005309,Picunches,-38.78279,-70.22884,8590,llorar,ŋɘ.ˈmɐ̝j,,11-ngüman.csv
+95,28261005509,Zapala,-38.85047,-69.74997,8590,llorar,ŋɘ.ˈmɐ̝n,,11-ngüman.csv
+96,28261006109,Aluminé,-39.19681,-71.05406,8590,llorar,ŋɘ.ˌmɐ̝.ˈjɐ̝n,,11-ngüman.csv
+97,28261007109,Junín de los Andes,-39.82386,-71.28742,8590,llorar,ɣɘ.ˈmɐ̝n,,11-ngüman.csv
+98,28261007209,Huiliches,-39.63992,-71.18686,8590,llorar,ŋɘ.ˈmɐ̝n,,11-ngüman.csv
+99,28271006509,Jacobacci,-41.28813,-69.55719,8590,llorar,ŋɘ.ˈmɐ̝n,,11-ngüman.csv
+100,28281000209,Cushamen,-42.23392,-71.34994,8590,llorar,ŋɘ.ˈmɐ̝j,,11-ngüman.csv
+101,28281003209,Lago Rosario,-43.24408,-71.32581,8590,llorar,ŋɘ.ˈmɐ̝n,,11-ngüman.csv
+102,28001000000,Ref. Spelling,-40.0,-75.5,21450,bajar,nɐ̝ɣɘn,nagün,11-nagün.csv
+103,28131006609,Santa Bárbara,-37.67405,-71.80186,21450,bajar,nɐ̝.ˈɣɘl,,11-nagün.csv
+104,28131007109,Cañete,-37.96722,-73.39282,21450,bajar,nɐ̝ɣ,,11-nagün.csv
+105,28131009109,Tirúa,-38.3699,-73.49067,21450,bajar,ˈnɐ̝.ɣ̞ɪ,,11-nagün.csv
+106,28131009809,Alto Bío Bío,-38.04457,-71.36344,21450,bajar,nɐ̝.ˈɣɐ̝n,,11-nagün.csv
+107,28141001209,Lumaco,-38.17584,-72.89947,21450,bajar,ˈnɐ̝.ɣɘj,,11-nagün.csv
+108,28141001409,Ercilla,-38.04926,-72.44544,21450,bajar,nɐ̝.ˈɣɪ,,11-nagün.csv
+109,28141002309,Galvarino,-38.40865,-72.78342,21450,bajar,nɐ̝.ˈɣɘn,,11-nagün.csv
+110,28141002509,Victoria,-38.35303,-72.19395,21450,bajar,nɐ̝.ˈɪn,,11-nagün.csv
+111,28141002809,Lonquimay,-38.42587,-71.37014,21450,bajar,nɐ̝.ˈɣɘn,,11-nagün.csv
+112,28141003209,Chol Chol,-38.51661,-72.97454,21450,bajar,nɐ̝.ˈɣɘn,,11-nagün.csv
+113,28141004309,Dollinco,-38.67157,-72.82837,21450,bajar,nɐ̝w.ˈpɐ̝n,,11-nagün.csv
+114,28141005109,Puerto Saavedra,-38.78431,-73.39912,21450,bajar,nɐ̝.ˈŋɘn,,11-nagün.csv
+115,28141005409,Truf Truf,-38.75576,-72.43983,21450,bajar,nɐ̝.ˈɣ̞ɘn,,11-nagün.csv
+116,28141005909,Icalma,-38.72338,-71.1847,21450,bajar,ˈnɐ̝.ɣɐ̝n,,11-nagün.csv
+117,28141006609,Cunco,-38.97601,-72.01425,21450,bajar,nɐ̝.ˈwɘn,,11-nagün.csv
+118,28141007209,Nueva Toltén,-39.20931,-73.1312,21450,bajar,nɐ̝.ˈɣ̞ɘn,,11-nagün.csv
+119,28141008509,Villarrica,-39.48612,-72.3038,21450,bajar,nɐ̝.ˈɣɘn,,11-nagün.csv
+120,28141008909,Curarrehue,-39.46788,-71.55193,21450,bajar,nɐ̝.ˈɣɐ̝n,,11-nagün.csv
+121,28151000109,Mariquina,-39.45147,-73.26457,21450,bajar,nɐ̝.ˈɣɘn,,11-nagün.csv
+122,28151000409,Lanco,-39.5046,-72.44441,21450,bajar,nɐ̝.ˈɣɘn,,11-nagün.csv
+123,28151000709,Panguipulli,-39.54399,-72.12614,21450,bajar,nɐ̝.ˈɣɐ̝n,,11-nagün.csv
+124,28151002309,Valdivia,-39.81291,-72.95438,21450,bajar,nɐ̝.ˈɣɘn,,11-nagün.csv
+125,28161001209,S. Juan de la Costa,-40.51004,-73.52129,21450,bajar,nɐ̝.ˈɣɪn,,11-nagün.csv
+126,28221005509,Chalileo,-36.42252,-66.47321,21450,bajar,nɐ̝.ˈwɘn,,11-nagün.csv
+127,28261005509,Zapala,-38.85047,-69.74997,21450,bajar,nɐ̝.ˈɣɪn,,11-nagün.csv
+128,28261007109,Junín de los Andes,-39.82386,-71.28742,21450,bajar,nɐ̝.ˈɣɘn,,11-nagün.csv
+129,28261007209,Huiliches,-39.63992,-71.18686,21450,bajar,nɐ̝.ˈɣɘn,,11-nagün.csv
+130,28281000209,Cushamen,-42.23392,-71.34994,21450,bajar,nɐ̝.ˈɣɐ̝n,,11-nagün.csv
+131,28281003209,Lago Rosario,-43.24408,-71.32581,21450,bajar,nɐ̝.ˈɣɘn,,11-nagün.csv
+132,28001000000,Ref. Spelling,-40.0,-75.5,20700,cama,nɘt̪ɐ̝nt̪ʊ,nüt’ant'u,10-nüt'ant'u.csv
+133,28131006609,Santa Bárbara,-37.67405,-71.80186,20700,cama,ˌŋɘ.ˈt̪ɐ̝n̪.t̪ʊ,,10-nüt'ant'u.csv
+134,28131009109,Tirúa,-38.3699,-73.49067,20700,cama,nɘ̆.ˈt̪ɐ̝n̪.t̪ö,,10-nüt'ant'u.csv
+135,28131009809,Alto Bío Bío,-38.04457,-71.36344,20700,cama,nɘ.ˈt̪ɐ̝n̪.t̪ö̥,,10-nüt'ant'u.csv
+136,28141000309,Angol,-37.86289,-72.68304,20700,cama,nɘ.ˈt̪ɐ̝n̪.t̪ʊ,,10-nüt'ant'u.csv
+137,28141001209,Lumaco,-38.17584,-72.89947,20700,cama,nɘ.ˈt̪ɐ̝n̪.t̪ö̥,,10-nüt'ant'u.csv
+138,28141002509,Victoria,-38.35303,-72.19395,20700,cama,nɘ̆.ˈt̪ɐ̝n̪.t̪ʊ,,10-nüt'ant'u.csv
+139,28141002809,Lonquimay,-38.42587,-71.37014,20700,cama,ŋɘ.ˈt̪ɐ̝n̪.t̪ʊ̥,,10-nüt'ant'u.csv
+140,28141003209,Chol Chol,-38.51661,-72.97454,20700,cama,ŋɘ.ˈt̪ɐ̝n̪.t̪ʊ,,10-nüt'ant'u.csv
+141,28141004309,Dollinco,-38.67157,-72.82837,20700,cama,ˌŋɘ.ˈt̪ɐ̝n̪.t̪ʊ,,10-nüt'ant'u.csv
+142,28141004509,Vilcún,-38.59695,-72.31239,20700,cama,ˌɘ.ˈt̪ɐ̝n̪.t̪ʊ,,10-nüt'ant'u.csv
+143,28141005109,Puerto Saavedra,-38.78431,-73.39912,20700,cama,ŋɘ.ˈt̪ɐ̝n̪.t̪ʊ,,10-nüt'ant'u.csv
+144,28141005409,Truf Truf,-38.75576,-72.43983,20700,cama,ŋɘ̆.ˈt̪ɐ̝n̪.t̪ʊ̥,,10-nüt'ant'u.csv
+145,28141005909,Icalma,-38.72338,-71.1847,20700,cama,ɘ.ˈt̪ʰɐ̝n̪.t̪ʰʊ,,10-nüt'ant'u.csv
+146,28141006309,Freire,-38.99144,-72.8833,20700,cama,nɘ.ˈt̪ɐ̝n̪.t̪ʊ,,10-nüt'ant'u.csv
+147,28141006609,Cunco,-38.97601,-72.01425,20700,cama,ˌŋɘ.ˈt̪ɐ̝n̪.t̪ʊ,,10-nüt'ant'u.csv
+148,28141007209,Nueva Toltén,-39.20931,-73.1312,20700,cama,nɘ.ˈt̪ɐ̝n̪.t̪ʊ,,10-nüt'ant'u.csv
+149,28141008509,Villarrica,-39.48612,-72.3038,20700,cama,ʊ.ˈt̪ɐ̝n̪.t̪ʊ,,10-nüt'ant'u.csv
+150,28141008909,Curarrehue,-39.46788,-71.55193,20700,cama,ɣɘ.ˈt̪ɐ̝n̪.t̪ö,,10-nüt'ant'u.csv
+151,28151000109,Mariquina,-39.45147,-73.26457,20700,cama,ˌnɘ.t̪ɐ̝n̪.ˈt̪ʊn,,10-nüt'ant'u.csv
+152,28151000409,Lanco,-39.5046,-72.44441,20700,cama,kt̪̩.ˈt̪ɐ̝n̪.t̪ʊ̥,,10-nüt'ant'u.csv
+153,28151000709,Panguipulli,-39.54399,-72.12614,20700,cama,ɣɘ.ˈt̪ɐ̝n̪.t̪ʊ,,10-nüt'ant'u.csv
+154,28151002309,Valdivia,-39.81291,-72.95438,20700,cama,nɘ.ˈt̪ɐ̝n̪.t̪ʊ,,10-nüt'ant'u.csv
+155,28161000309,San Pablo,-40.38308,-73.34988,20700,cama,ŋɘ.ˈt̪ɐ̝l,,10-nüt'ant'u.csv
+156,28161001209,S. Juan de la Costa,-40.51004,-73.52129,20700,cama,kɘ.ˈt͡sɐ̝n̪.t̪ö,,10-nüt'ant'u.csv
+157,28261006109,Aluminé,-39.19681,-71.05406,20700,cama,ŋɘ.ˈt̪ɐ̝n̪.t̪ʊ,,10-nüt'ant'u.csv
+158,28261007109,Junín de los Andes,-39.82386,-71.28742,20700,cama,ŋɘ̆.ˈt̪ɐ̝n̪.t̪ʊ,,10-nüt'ant'u.csv
+159,28261007209,Huiliches,-39.63992,-71.18686,20700,cama,n̩.ˈt̪ɐ̝n̪.t̪ö,,10-nüt'ant'u.csv
+160,28281000209,Cushamen,-42.23392,-71.34994,20700,cama,nɘ.ˈt̪ɐ̝n̪.t̪ʊ,,10-nüt'ant'u.csv
+161,28281002209,Futaleufú,-42.95052,-71.18351,20700,cama,n̩.ˈt̪ɐ̝n̪.t̪ʊ,,10-nüt'ant'u.csv
+162,28281003209,Lago Rosario,-43.24408,-71.32581,20700,cama,ŋɘ.ˈt̪ɐ̝n̪.t̪öw,,10-nüt'ant'u.csv
+163,28001000000,Ref. Spelling,-40.0,-75.5,20190,amigo,wën̪ɘj,wen’üy,5-wen'üy.csv
+164,28131006609,Santa Bárbara,-37.67405,-71.80186,20190,amigo,ˈwë.nɪ,,5-wen'üy.csv
+165,28131007109,Cañete,-37.96722,-73.39282,20190,amigo,wë.ˈnɪ,,5-wen'üy.csv
+166,28131009109,Tirúa,-38.3699,-73.49067,20190,amigo,wë.ˈnɪ,,5-wen'üy.csv
+167,28131009809,Alto Bío Bío,-38.04457,-71.36344,20190,amigo,wë.ˈnɪ,,5-wen'üy.csv
+168,28141000309,Angol,-37.86289,-72.68304,20190,amigo,wë.ˈnɪ,,5-wen'üy.csv
+169,28141001209,Lumaco,-38.17584,-72.89947,20190,amigo,ˈwë.nɪ,,5-wen'üy.csv
+170,28141001409,Ercilla,-38.04926,-72.44544,20190,amigo,ˈwën.nɪ,,5-wen'üy.csv
+171,28141002309,Galvarino,-38.40865,-72.78342,20190,amigo,ˈwë.nɪ,,5-wen'üy.csv
+172,28141002509,Victoria,-38.35303,-72.19395,20190,amigo,wë.ˈnɪ,,5-wen'üy.csv
+173,28141002809,Lonquimay,-38.42587,-71.37014,20190,amigo,ˈwë.nɪ,,5-wen'üy.csv
+174,28141003209,Chol Chol,-38.51661,-72.97454,20190,amigo,bwë.ˈnɘj,,5-wen'üy.csv
+175,28141004309,Dollinco,-38.67157,-72.82837,20190,amigo,wë.ˈnɪ,,5-wen'üy.csv
+176,28141004509,Vilcún,-38.59695,-72.31239,20190,amigo,ˈwë.nɪ,,5-wen'üy.csv
+177,28141005109,Puerto Saavedra,-38.78431,-73.39912,20190,amigo,wë.ˈn̪ɪj,,5-wen'üy.csv
+178,28141005409,Truf Truf,-38.75576,-72.43983,20190,amigo,wë.ˈnɪ,,5-wen'üy.csv
+179,28141005909,Icalma,-38.72338,-71.1847,20190,amigo,wë.ˈnɪ,,5-wen'üy.csv
+180,28141006309,Freire,-38.99144,-72.8833,20190,amigo,wë.ˈnɘj,,5-wen'üy.csv
+181,28141006609,Cunco,-38.97601,-72.01425,20190,amigo,wë.ˈnɪ,,5-wen'üy.csv
+182,28141007209,Nueva Toltén,-39.20931,-73.1312,20190,amigo,ˈwë.nëj,,5-wen'üy.csv
+183,28141008509,Villarrica,-39.48612,-72.3038,20190,amigo,wë.ˈnëj,,5-wen'üy.csv
+184,28141008909,Curarrehue,-39.46788,-71.55193,20190,amigo,wë.ˈnëj,,5-wen'üy.csv
+185,28151000109,Mariquina,-39.45147,-73.26457,20190,amigo,wë.ˈnëj,,5-wen'üy.csv
+186,28151000409,Lanco,-39.5046,-72.44441,20190,amigo,wë.ˈnɘj,,5-wen'üy.csv
+187,28151000709,Panguipulli,-39.54399,-72.12614,20190,amigo,wë.ˈnëj,,5-wen'üy.csv
+188,28151002309,Valdivia,-39.81291,-72.95438,20190,amigo,wë.ˈnɘj,,5-wen'üy.csv
+189,28161000309,San Pablo,-40.38308,-73.34988,20190,amigo,ɐ̝.ˈnɐ̝j,,5-wen'üy.csv
+190,28221005509,Chalileo,-36.42252,-66.47321,20190,amigo,wë.ˈnɪ,,5-wen'üy.csv
+191,28261005309,Picunches,-38.78279,-70.22884,20190,amigo,wë.ˈnɪ,,5-wen'üy.csv
+192,28261005509,Zapala,-38.85047,-69.74997,20190,amigo,wë.ˈnɪ,,5-wen'üy.csv
+193,28261006109,Aluminé,-39.19681,-71.05406,20190,amigo,wë.ˈnɪ,,5-wen'üy.csv
+194,28261007109,Junín de los Andes,-39.82386,-71.28742,20190,amigo,wë.ˈnëj,,5-wen'üy.csv
+195,28261007209,Huiliches,-39.63992,-71.18686,20190,amigo,wë.ˈnɘj,,5-wen'üy.csv
+196,28271006509,Jacobacci,-41.28813,-69.55719,20190,amigo,wë.ˈnëjç,,5-wen'üy.csv
+197,28281000209,Cushamen,-42.23392,-71.34994,20190,amigo,wë.ˈnɪ,,5-wen'üy.csv
+198,28281002209,Futaleufú,-42.95052,-71.18351,20190,amigo,wë.ˈnɪ,,5-wen'üy.csv
+199,28281003209,Lago Rosario,-43.24408,-71.32581,20190,amigo,wë.ˈnɘj,,5-wen'üy.csv
+200,28001000000,Ref. Spelling,-40.0,-75.5,6520,puerta,wɘɲɪl,wüñil,10-wüñil.csv
+201,28131009109,Tirúa,-38.3699,-73.49067,6520,puerta,wɪ.ˈʎɪn,,10-wüñil.csv
+202,28131009809,Alto Bío Bío,-38.04457,-71.36344,6520,puerta,wɪ.ˈɲɪl,,10-wüñil.csv
+203,28141001409,Ercilla,-38.04926,-72.44544,6520,puerta,öɲ.ˈmɪ,,10-wüñil.csv
+204,28141002309,Galvarino,-38.40865,-72.78342,6520,puerta,wɐ̝ʎ.ˈŋɪɲ,,10-wüñil.csv
+205,28141002509,Victoria,-38.35303,-72.19395,6520,puerta,wɘ.ˈʎɪɲ,,10-wüñil.csv
+206,28141002809,Lonquimay,-38.42587,-71.37014,6520,puerta,wɪl.ˈɲɪɲ,,10-wüñil.csv
+207,28141003209,Chol Chol,-38.51661,-72.97454,6520,puerta,wɘ.ˈɲɪl,,10-wüñil.csv
+208,28141005409,Truf Truf,-38.75576,-72.43983,6520,puerta,wɪ.ˈɲɪlɬ,,10-wüñil.csv
+209,28141006609,Cunco,-38.97601,-72.01425,6520,puerta,ɘ.ˈɲɪl,,10-wüñil.csv
+210,28141007209,Nueva Toltén,-39.20931,-73.1312,6520,puerta,wɘl.ˈɲɪɲ,,10-wüñil.csv
+211,28141008509,Villarrica,-39.48612,-72.3038,6520,puerta,ʊl.ˈɲɪn,,10-wüñil.csv
+212,28151000109,Mariquina,-39.45147,-73.26457,6520,puerta,vɘ.ˈɲɪl,,10-wüñil.csv
+213,28151000709,Panguipulli,-39.54399,-72.12614,6520,puerta,wɪ.ˈʎɪn,,10-wüñil.csv
+214,28151002309,Valdivia,-39.81291,-72.95438,6520,puerta,ʊ.ˈɲɪl,,10-wüñil.csv
+215,28261005309,Picunches,-38.78279,-70.22884,6520,puerta,wɐ̝.ˈʎen,,10-wüñil.csv
+216,28261006109,Aluminé,-39.19681,-71.05406,6520,puerta,wɘl.ˈɲɪɲ,,10-wüñil.csv
+217,28261007109,Junín de los Andes,-39.82386,-71.28742,6520,puerta,wɘ.ˈɲɪl,,10-wüñil.csv
+218,28281003209,Lago Rosario,-43.24408,-71.32581,6520,puerta,wɪ.ˈʎɪn,,10-wüñil.csv
+219,28001000000,Ref. Spelling,-40.0,-75.5,2310,mano,kʊwɘ,kuwü,4-kuwü.csv
+220,28131006609,Santa Bárbara,-37.67405,-71.80186,2310,mano,ˈkʰɘ.wɘ,,4-kuwü.csv
+221,28131007109,Cañete,-37.96722,-73.39282,2310,mano,ˈcʰɘ.wɘ,,4-kuwü.csv
+222,28131009109,Tirúa,-38.3699,-73.49067,2310,mano,ˈkɘ.wɘ,,4-kuwü.csv
+223,28131009809,Alto Bío Bío,-38.04457,-71.36344,2310,mano,kɘ.ˈwɘ,,4-kuwü.csv
+224,28141000309,Angol,-37.86289,-72.68304,2310,mano,kʊ̆.ˈwɘ,,4-kuwü.csv
+225,28141001209,Lumaco,-38.17584,-72.89947,2310,mano,ˈkʊ.ɻʊ,,4-kuwü.csv
+226,28141001409,Ercilla,-38.04926,-72.44544,2310,mano,kʊ.ˈwɘ,,4-kuwü.csv
+227,28141002309,Galvarino,-38.40865,-72.78342,2310,mano,kʊ.ˈwɘ,,4-kuwü.csv
+228,28141002509,Victoria,-38.35303,-72.19395,2310,mano,kʊ.ˈwɘ,,4-kuwü.csv
+229,28141002809,Lonquimay,-38.42587,-71.37014,2310,mano,kʰɘ.ˈwɘ,,4-kuwü.csv
+230,28141003209,Chol Chol,-38.51661,-72.97454,2310,mano,kʊ.ˈwɘ,,4-kuwü.csv
+231,28141004309,Dollinco,-38.67157,-72.82837,2310,mano,kʊ.ˈwɘ,,4-kuwü.csv
+232,28141004509,Vilcún,-38.59695,-72.31239,2310,mano,kʰʊ.ˈwɘ,,4-kuwü.csv
+233,28141005109,Puerto Saavedra,-38.78431,-73.39912,2310,mano,kʊ.ˈwɘ,,4-kuwü.csv
+234,28141005409,Truf Truf,-38.75576,-72.43983,2310,mano,kʊ.ˈwɘ,,4-kuwü.csv
+235,28141005909,Icalma,-38.72338,-71.1847,2310,mano,kɘ.ˈwɘ,,4-kuwü.csv
+236,28141006309,Freire,-38.99144,-72.8833,2310,mano,kʊ.ˈwɘ,,4-kuwü.csv
+237,28141006609,Cunco,-38.97601,-72.01425,2310,mano,kʰʊ.ˈwʊ,,4-kuwü.csv
+238,28141007209,Nueva Toltén,-39.20931,-73.1312,2310,mano,ˈkʊ.wɘ,,4-kuwü.csv
+239,28141008509,Villarrica,-39.48612,-72.3038,2310,mano,ˈkʰɘ.wɘ,,4-kuwü.csv
+240,28141008909,Curarrehue,-39.46788,-71.55193,2310,mano,kʰɘ.ˈwɘ,,4-kuwü.csv
+241,28151000109,Mariquina,-39.45147,-73.26457,2310,mano,kʊ,,4-kuwü.csv
+242,28151000409,Lanco,-39.5046,-72.44441,2310,mano,ˈkʰɘ.wɘ,,4-kuwü.csv
+243,28151000709,Panguipulli,-39.54399,-72.12614,2310,mano,kɘ.ˈwɘ,,4-kuwü.csv
+244,28151002309,Valdivia,-39.81291,-72.95438,2310,mano,ˈkʰʊ.ɣʊ,,4-kuwü.csv
+245,28161000309,San Pablo,-40.38308,-73.34988,2310,mano,ˈkʊ.wɘ,,4-kuwü.csv
+246,28161001209,S. Juan de la Costa,-40.51004,-73.52129,2310,mano,ˈkʊ.wɘ,,4-kuwü.csv
+247,28221005509,Chalileo,-36.42252,-66.47321,2310,mano,kʰɘ.ˈwɘ,,4-kuwü.csv
+248,28261005309,Picunches,-38.78279,-70.22884,2310,mano,xʊ.ˈwɘ,,4-kuwü.csv
+249,28261005509,Zapala,-38.85047,-69.74997,2310,mano,kʰɘ.ˈwɘ,,4-kuwü.csv
+250,28261006109,Aluminé,-39.19681,-71.05406,2310,mano,kʰʊ.ˈwɘ,,4-kuwü.csv
+251,28261007109,Junín de los Andes,-39.82386,-71.28742,2310,mano,kʊ.ˈwɘ,,4-kuwü.csv
+252,28261007209,Huiliches,-39.63992,-71.18686,2310,mano,kʊ.ˈwɘ,,4-kuwü.csv
+253,28271006509,Jacobacci,-41.28813,-69.55719,2310,mano,kʰɘ.ˈwɘ,,4-kuwü.csv
+254,28281000209,Cushamen,-42.23392,-71.34994,2310,mano,kɘ.ˈwɘ,,4-kuwü.csv
+255,28281002209,Futaleufú,-42.95052,-71.18351,2310,mano,xʊ.ˈwʊ,,4-kuwü.csv
+256,28281003209,Lago Rosario,-43.24408,-71.32581,2310,mano,kɘ.ˈwɘ,,4-kuwü.csv
+257,28001000000,Ref. Spelling,-40.0,-75.5,7710,bueno,kɘmë,küme,3-küme.csv
+258,28131006609,Santa Bárbara,-37.67405,-71.80186,7710,bueno,kɘ.ˈmɪ,,3-küme.csv
+259,28131007109,Cañete,-37.96722,-73.39282,7710,bueno,ˈkɘ.më,,3-küme.csv
+260,28131009109,Tirúa,-38.3699,-73.49067,7710,bueno,kʰɘ.ˈmë,,3-küme.csv
+261,28131009809,Alto Bío Bío,-38.04457,-71.36344,7710,bueno,ˈkɘ.më,,3-küme.csv
+262,28141000309,Angol,-37.86289,-72.68304,7710,bueno,kɘ.ˈmëj,,3-küme.csv
+263,28141001209,Lumaco,-38.17584,-72.89947,7710,bueno,kɘ.ˈmë,,3-küme.csv
+264,28141001409,Ercilla,-38.04926,-72.44544,7710,bueno,kɘ̆.ˈmëj,,3-küme.csv
+265,28141002309,Galvarino,-38.40865,-72.78342,7710,bueno,kʰɘ.ˈmë,,3-küme.csv
+266,28141002509,Victoria,-38.35303,-72.19395,7710,bueno,kɘ.ˈmëj,,3-küme.csv
+267,28141002809,Lonquimay,-38.42587,-71.37014,7710,bueno,kʰɘ.ˈmë,,3-küme.csv
+268,28141003209,Chol Chol,-38.51661,-72.97454,7710,bueno,kʰɘ̆.ˈmë,,3-küme.csv
+269,28141004309,Dollinco,-38.67157,-72.82837,7710,bueno,kʰɘ.ˈmëj,,3-küme.csv
+270,28141005109,Puerto Saavedra,-38.78431,-73.39912,7710,bueno,kɘ.ˈmë,,3-küme.csv
+271,28141005409,Truf Truf,-38.75576,-72.43983,7710,bueno,kʰɪ.ˈmëj,,3-küme.csv
+272,28141005909,Icalma,-38.72338,-71.1847,7710,bueno,kʰɘ.ˈmɪt͡ʃ,,3-küme.csv
+273,28141006309,Freire,-38.99144,-72.8833,7710,bueno,kɘ.ˈmë,,3-küme.csv
+274,28141006609,Cunco,-38.97601,-72.01425,7710,bueno,kɘ̆.ˈmëj,,3-küme.csv
+275,28141007209,Nueva Toltén,-39.20931,-73.1312,7710,bueno,ˈkɘ.më,,3-küme.csv
+276,28141008509,Villarrica,-39.48612,-72.3038,7710,bueno,kʰɘ.ˈmë,,3-küme.csv
+277,28141008909,Curarrehue,-39.46788,-71.55193,7710,bueno,kʰɘ.ˈmëj,,3-küme.csv
+278,28151000109,Mariquina,-39.45147,-73.26457,7710,bueno,ˈkɘ.më,,3-küme.csv
+279,28151000409,Lanco,-39.5046,-72.44441,7710,bueno,kʰɘ.ˈmëj,,3-küme.csv
+280,28151000709,Panguipulli,-39.54399,-72.12614,7710,bueno,kɘ.ˈmëj,,3-küme.csv
+281,28151002309,Valdivia,-39.81291,-72.95438,7710,bueno,kʰɘ.ˈmë,,3-küme.csv
+282,28161000309,San Pablo,-40.38308,-73.34988,7710,bueno,ˈkʰɘ.më,,3-küme.csv
+283,28161001209,S. Juan de la Costa,-40.51004,-73.52129,7710,bueno,ˈkɘ.më,,3-küme.csv
+284,28221005509,Chalileo,-36.42252,-66.47321,7710,bueno,kʰɘ.ˈmë,,3-küme.csv
+285,28261005309,Picunches,-38.78279,-70.22884,7710,bueno,kɘ̆.ˌmë.ˈɮɘ,,3-küme.csv
+286,28261005509,Zapala,-38.85047,-69.74997,7710,bueno,kʰɘ.ˈmë,,3-küme.csv
+287,28261007109,Junín de los Andes,-39.82386,-71.28742,7710,bueno,kɘ̆.ˈmë,,3-küme.csv
+288,28261007209,Huiliches,-39.63992,-71.18686,7710,bueno,kɘ.ˈmë,,3-küme.csv
+289,28271006509,Jacobacci,-41.28813,-69.55719,7710,bueno,kʰɘ̆.ˈmëj,,3-küme.csv
+290,28281000209,Cushamen,-42.23392,-71.34994,7710,bueno,kʰɘ.ˈmë,,3-küme.csv
+291,28281002209,Futaleufú,-42.95052,-71.18351,7710,bueno,kɘ.ˈmɘ,,3-küme.csv
+292,28281003209,Lago Rosario,-43.24408,-71.32581,7710,bueno,kʰɘ̆.ˈmëj,,3-küme.csv
+293,28001000000,Ref. Spelling,-40.0,-75.5,3830,cola,kɘl̪ën,kül’en,6-kül'en.csv
+294,28131006609,Santa Bárbara,-37.67405,-71.80186,3830,cola,kɘ.ˈlën,,6-kül'en.csv
+295,28131007109,Cañete,-37.96722,-73.39282,3830,cola,ˈkʰɘ.lën,,6-kül'en.csv
+296,28131009109,Tirúa,-38.3699,-73.49067,3830,cola,kɘ̆.ˈlën,,6-kül'en.csv
+297,28131009809,Alto Bío Bío,-38.04457,-71.36344,3830,cola,kl̩.ˈlën,,6-kül'en.csv
+298,28141000309,Angol,-37.86289,-72.68304,3830,cola,ɡɘ.ˈlën,,6-kül'en.csv
+299,28141001209,Lumaco,-38.17584,-72.89947,3830,cola,ˈkʰɘ.lën,,6-kül'en.csv
+300,28141001409,Ercilla,-38.04926,-72.44544,3830,cola,kʰl̩.ˈlën,,6-kül'en.csv
+301,28141002309,Galvarino,-38.40865,-72.78342,3830,cola,kɘ̆.ˈlën,,6-kül'en.csv
+302,28141002509,Victoria,-38.35303,-72.19395,3830,cola,kɘ̆.ˈlën,,6-kül'en.csv
+303,28141002809,Lonquimay,-38.42587,-71.37014,3830,cola,kʰɘ.ˈlën,,6-kül'en.csv
+304,28141003209,Chol Chol,-38.51661,-72.97454,3830,cola,kʰɘ.ˈlën,,6-kül'en.csv
+305,28141004309,Dollinco,-38.67157,-72.82837,3830,cola,kɘ̆.ˈlën,,6-kül'en.csv
+306,28141004509,Vilcún,-38.59695,-72.31239,3830,cola,kʰɘ.ˈlën,,6-kül'en.csv
+307,28141005109,Puerto Saavedra,-38.78431,-73.39912,3830,cola,kʰɘ.ˈlën,,6-kül'en.csv
+308,28141005409,Truf Truf,-38.75576,-72.43983,3830,cola,kɘ̆.ˈlën,,6-kül'en.csv
+309,28141005909,Icalma,-38.72338,-71.1847,3830,cola,kʰɘ.ˈlën,,6-kül'en.csv
+310,28141006309,Freire,-38.99144,-72.8833,3830,cola,kɘ.ˈlën,,6-kül'en.csv
+311,28141006609,Cunco,-38.97601,-72.01425,3830,cola,kɘ.ˈlën,,6-kül'en.csv
+312,28141007209,Nueva Toltén,-39.20931,-73.1312,3830,cola,kɘ.ˈlën,,6-kül'en.csv
+313,28141008509,Villarrica,-39.48612,-72.3038,3830,cola,kʰɘ.ˈlën,,6-kül'en.csv
+314,28141008909,Curarrehue,-39.46788,-71.55193,3830,cola,kl̩.ˈlën,,6-kül'en.csv
+315,28151000109,Mariquina,-39.45147,-73.26457,3830,cola,kʰɘ.ˈlën,,6-kül'en.csv
+316,28151000409,Lanco,-39.5046,-72.44441,3830,cola,kʰɘ.ˈlën,,6-kül'en.csv
+317,28151000709,Panguipulli,-39.54399,-72.12614,3830,cola,kɘ.ˈlën,,6-kül'en.csv
+318,28151002309,Valdivia,-39.81291,-72.95438,3830,cola,kʰɘ.ˈlën,,6-kül'en.csv
+319,28161000309,San Pablo,-40.38308,-73.34988,3830,cola,kʰɘ.ˈlën,,6-kül'en.csv
+320,28161001209,S. Juan de la Costa,-40.51004,-73.52129,3830,cola,kʰɘ̆.ˈɮën,,6-kül'en.csv
+321,28221005509,Chalileo,-36.42252,-66.47321,3830,cola,kö.ˈlën,,6-kül'en.csv
+322,28261005309,Picunches,-38.78279,-70.22884,3830,cola,kʰɘ̆.ˈɮën,,6-kül'en.csv
+323,28261005509,Zapala,-38.85047,-69.74997,3830,cola,kɘ.ˈlën,,6-kül'en.csv
+324,28261006109,Aluminé,-39.19681,-71.05406,3830,cola,kʰɘ̆.ˈlën,,6-kül'en.csv
+325,28261007109,Junín de los Andes,-39.82386,-71.28742,3830,cola,kl̩.ˈlën,,6-kül'en.csv
+326,28261007209,Huiliches,-39.63992,-71.18686,3830,cola,kl̩.ˈlën,,6-kül'en.csv
+327,28271006509,Jacobacci,-41.28813,-69.55719,3830,cola,kʰɘ.ˈlën,,6-kül'en.csv
+328,28281000209,Cushamen,-42.23392,-71.34994,3830,cola,kʰɘ.ˈɮën,,6-kül'en.csv
+329,28281002209,Futaleufú,-42.95052,-71.18351,3830,cola,kʰɘ.ˈlën,,6-kül'en.csv
+330,28281003209,Lago Rosario,-43.24408,-71.32581,3830,cola,kʰɘ̆.ˈlën,,6-kül'en.csv
+331,28001000000,Ref. Spelling,-40.0,-75.5,3820,cuerno,mɘt̪ɐ̝,müt’a,6-müt'a.csv
+332,28131006609,Santa Bárbara,-37.67405,-71.80186,3820,cuerno,ˈmɘ.t̪ɐ̝,,6-müt'a.csv
+333,28131007109,Cañete,-37.96722,-73.39282,3820,cuerno,ˈmɘ.t̪ɐ̝,,6-müt'a.csv
+334,28131009109,Tirúa,-38.3699,-73.49067,3820,cuerno,mɘ̆.ˈt̪ɐ̝,,6-müt'a.csv
+335,28131009809,Alto Bío Bío,-38.04457,-71.36344,3820,cuerno,mɘ.ˈt̪ɐ̝,,6-müt'a.csv
+336,28141000309,Angol,-37.86289,-72.68304,3820,cuerno,ˈmɘ.t̪ɐ̝,,6-müt'a.csv
+337,28141001209,Lumaco,-38.17584,-72.89947,3820,cuerno,ˈmɘ.tɐ̝,,6-müt'a.csv
+338,28141001409,Ercilla,-38.04926,-72.44544,3820,cuerno,ˈmɘ.t̪ɐ̝,,6-müt'a.csv
+339,28141002309,Galvarino,-38.40865,-72.78342,3820,cuerno,ˈmɘ.t̪ɐ̝,,6-müt'a.csv
+340,28141002509,Victoria,-38.35303,-72.19395,3820,cuerno,ˈmɘ.t̪ɐ̝,,6-müt'a.csv
+341,28141002809,Lonquimay,-38.42587,-71.37014,3820,cuerno,ˈmɘ.t̪ɐ̝,,6-müt'a.csv
+342,28141003209,Chol Chol,-38.51661,-72.97454,3820,cuerno,mɘ̆.ˈt̪ɐ̝,,6-müt'a.csv
+343,28141004309,Dollinco,-38.67157,-72.82837,3820,cuerno,mɘ.ˈt̪ɐ̝,,6-müt'a.csv
+344,28141004509,Vilcún,-38.59695,-72.31239,3820,cuerno,mɘ.ˈt̪ɐ̝,,6-müt'a.csv
+345,28141005109,Puerto Saavedra,-38.78431,-73.39912,3820,cuerno,ˈmɘ.t̪ɐ̝,,6-müt'a.csv
+346,28141005409,Truf Truf,-38.75576,-72.43983,3820,cuerno,mɘ.ˈt̪ɐ̝,,6-müt'a.csv
+347,28141005909,Icalma,-38.72338,-71.1847,3820,cuerno,ˈmɘ.t̪ɐ̝,,6-müt'a.csv
+348,28141006309,Freire,-38.99144,-72.8833,3820,cuerno,ˈmɘ.t̪ɐ̝,,6-müt'a.csv
+349,28141006609,Cunco,-38.97601,-72.01425,3820,cuerno,m̩.ˈt̪ɐ̝,,6-müt'a.csv
+350,28141007209,Nueva Toltén,-39.20931,-73.1312,3820,cuerno,ˈmɘ̆.d̪ɐ̝,,6-müt'a.csv
+351,28141008509,Villarrica,-39.48612,-72.3038,3820,cuerno,mɘ.ˈt̪ɐ̝,,6-müt'a.csv
+352,28141008909,Curarrehue,-39.46788,-71.55193,3820,cuerno,mɘ̆.ˈt̪ɐ̝,,6-müt'a.csv
+353,28151000109,Mariquina,-39.45147,-73.26457,3820,cuerno,ˈmɘ.t̪ɐ̝,,6-müt'a.csv
+354,28151000409,Lanco,-39.5046,-72.44441,3820,cuerno,mɘ.ˈt̪ɐ̝,,6-müt'a.csv
+355,28151000709,Panguipulli,-39.54399,-72.12614,3820,cuerno,ˈmɘ.t̪ɐ̝,,6-müt'a.csv
+356,28151002309,Valdivia,-39.81291,-72.95438,3820,cuerno,ˈmɘ.t̪ɐ̝,,6-müt'a.csv
+357,28161000309,San Pablo,-40.38308,-73.34988,3820,cuerno,mɘ.ˈt̪ɐ̝,,6-müt'a.csv
+358,28161001209,S. Juan de la Costa,-40.51004,-73.52129,3820,cuerno,ˈmɘ̆.t̪ɐ̝,,6-müt'a.csv
+359,28221005509,Chalileo,-36.42252,-66.47321,3820,cuerno,mɘ.ˈt̪ɐ̝,,6-müt'a.csv
+360,28261005309,Picunches,-38.78279,-70.22884,3820,cuerno,ˈmɘz̪.t̪ɐ̝,,6-müt'a.csv
+361,28261005509,Zapala,-38.85047,-69.74997,3820,cuerno,mɘ.ˈt̪ɐ̝,,6-müt'a.csv
+362,28261006109,Aluminé,-39.19681,-71.05406,3820,cuerno,mɘ.ˈt̪ɐ̝,,6-müt'a.csv
+363,28261007109,Junín de los Andes,-39.82386,-71.28742,3820,cuerno,mɘ̆.ˈt̪ɐ̝,,6-müt'a.csv
+364,28261007209,Huiliches,-39.63992,-71.18686,3820,cuerno,mɘ.ˈt̪ɐ̝,,6-müt'a.csv
+365,28271006509,Jacobacci,-41.28813,-69.55719,3820,cuerno,mɘ.ˈt̪ɐ̝,,6-müt'a.csv
+366,28281000209,Cushamen,-42.23392,-71.34994,3820,cuerno,mɘ.ˈt̪ɐ̝,,6-müt'a.csv
+367,28281002209,Futaleufú,-42.95052,-71.18351,3820,cuerno,m̩.ˈt̪ɐ̝,,6-müt'a.csv
+368,28281003209,Lago Rosario,-43.24408,-71.32581,3820,cuerno,mɘ.ˈt̪ɐ̝,,6-müt'a.csv
+369,28001000000,Ref. Spelling,-40.0,-75.5,20130,cochayuyo,mɘŋʊ,müngu,7-müngu.csv
+370,28131006609,Santa Bárbara,-37.67405,-71.80186,20130,cochayuyo,ˈmɘ.ŋʊ,,7-müngu.csv
+371,28131007109,Cañete,-37.96722,-73.39282,20130,cochayuyo,mɘ.ˈŋʊ,,7-müngu.csv
+372,28141000309,Angol,-37.86289,-72.68304,20130,cochayuyo,mɐ̝.ˈŋʊ,,7-müngu.csv
+373,28141001209,Lumaco,-38.17584,-72.89947,20130,cochayuyo,ˈmɘ.ɲö,,7-müngu.csv
+374,28141001409,Ercilla,-38.04926,-72.44544,20130,cochayuyo,mɘŋ,,7-müngu.csv
+375,28141005409,Truf Truf,-38.75576,-72.43983,20130,cochayuyo,ˈmʊ.ŋʊ,,7-müngu.csv
+376,28141007209,Nueva Toltén,-39.20931,-73.1312,20130,cochayuyo,ˈmɘ.nʊ,,7-müngu.csv
+377,28151000109,Mariquina,-39.45147,-73.26457,20130,cochayuyo,ˈmʊŋ.ɡʊ,,7-müngu.csv
+378,28151000709,Panguipulli,-39.54399,-72.12614,20130,cochayuyo,ˈmʊ.ŋö,,7-müngu.csv
+379,28151002309,Valdivia,-39.81291,-72.95438,20130,cochayuyo,ˈmɘ.ŋɘ,,7-müngu.csv
+380,28161000309,San Pablo,-40.38308,-73.34988,20130,cochayuyo,ˈmɘ.ŋɘ,,7-müngu.csv
+381,28161001209,S. Juan de la Costa,-40.51004,-73.52129,20130,cochayuyo,ˈmɘ.ŋʊ,,7-müngu.csv
+382,28001000000,Ref. Spelling,-40.0,-75.5,5010,dia,ɐ̝ntɘ,antü,13-antü.csv
+383,28131006609,Santa Bárbara,-37.67405,-71.80186,5010,dia,ˈɐ̝n̪.t̪ɘ,,13-antü.csv
+384,28131007109,Cañete,-37.96722,-73.39282,5010,dia,ˈɐ̝n̪.t̪ɘ,,13-antü.csv
+385,28131009109,Tirúa,-38.3699,-73.49067,5010,dia,ˈɐ̝n̪.t̪ʰɘ,,13-antü.csv
+386,28131009809,Alto Bío Bío,-38.04457,-71.36344,5010,dia,ˈɐ̝n̪.t̪ɘ,,13-antü.csv
+387,28141000309,Angol,-37.86289,-72.68304,5010,dia,ɐ̝n̪.ˈt̪ɘ,,13-antü.csv
+388,28141001409,Ercilla,-38.04926,-72.44544,5010,dia,ˈɐ̝n̪.t̪ë,,13-antü.csv
+389,28141002309,Galvarino,-38.40865,-72.78342,5010,dia,ˈɐ̝n̪.t̪ɘ,,13-antü.csv
+390,28141002509,Victoria,-38.35303,-72.19395,5010,dia,ˈɐ̝n̪.t̪ɘ,,13-antü.csv
+391,28141002809,Lonquimay,-38.42587,-71.37014,5010,dia,ɐ̝n̪.ˈt̪ɘx,,13-antü.csv
+392,28141003209,Chol Chol,-38.51661,-72.97454,5010,dia,ɐ̝n̪.ˈt̪ɘ,,13-antü.csv
+393,28141004309,Dollinco,-38.67157,-72.82837,5010,dia,ɐ̝n̪.ˈt̪ɘ,,13-antü.csv
+394,28141004509,Vilcún,-38.59695,-72.31239,5010,dia,ɐ̝n̪.ˈt̪ɘ,,13-antü.csv
+395,28141005109,Puerto Saavedra,-38.78431,-73.39912,5010,dia,ɐ̝n̪.ˈt̪ɘ,,13-antü.csv
+396,28141005409,Truf Truf,-38.75576,-72.43983,5010,dia,ɐ̝n̪.ˈt̪ɘ,,13-antü.csv
+397,28141005909,Icalma,-38.72338,-71.1847,5010,dia,ɐ̝n̪.ˈt̪ɘ,,13-antü.csv
+398,28141006309,Freire,-38.99144,-72.8833,5010,dia,ɐ̝n̪.ˈt̪ɘ,,13-antü.csv
+399,28141006609,Cunco,-38.97601,-72.01425,5010,dia,ɐ̝n̪.ˈt̪ʊ,,13-antü.csv
+400,28141007209,Nueva Toltén,-39.20931,-73.1312,5010,dia,ɐ̝n̪.ˈd̪ɘ,,13-antü.csv
+401,28141008509,Villarrica,-39.48612,-72.3038,5010,dia,ɐ̝n̪.ˈt̪ɘ,,13-antü.csv
+402,28151000109,Mariquina,-39.45147,-73.26457,5010,dia,ˈɐ̝n̪.t̪ɘ,,13-antü.csv
+403,28151000409,Lanco,-39.5046,-72.44441,5010,dia,ɐ̝n̪.ˈt̪ɘ,,13-antü.csv
+404,28151000709,Panguipulli,-39.54399,-72.12614,5010,dia,ˈɐ̝n.tɘ,,13-antü.csv
+405,28151002309,Valdivia,-39.81291,-72.95438,5010,dia,ˈɐ̝n̪.t̪ɘ,,13-antü.csv
+406,28161000309,San Pablo,-40.38308,-73.34988,5010,dia,ˈɐ̝n.tʊ,,13-antü.csv
+407,28161001209,S. Juan de la Costa,-40.51004,-73.52129,5010,dia,ˈɐ̝n̪.t̪ɘ,,13-antü.csv
+408,28221005509,Chalileo,-36.42252,-66.47321,5010,dia,ɐ̝n̪.t̪ɘ,,13-antü.csv
+409,28261005309,Picunches,-38.78279,-70.22884,5010,dia,ɐ̝n̪.ˈt̪ɘ,,13-antü.csv
+410,28261005509,Zapala,-38.85047,-69.74997,5010,dia,ˈɐ̝n̪.t̪ɘ,,13-antü.csv
+411,28261006109,Aluminé,-39.19681,-71.05406,5010,dia,ɐ̝n̪.ˈt̪ʊ,,13-antü.csv
+412,28261007109,Junín de los Andes,-39.82386,-71.28742,5010,dia,ɐ̝n̪.ˈt̪ɘ,,13-antü.csv
+413,28261007209,Huiliches,-39.63992,-71.18686,5010,dia,ɐ̝n̪.ˈt̪ɘ,,13-antü.csv
+414,28271006509,Jacobacci,-41.28813,-69.55719,5010,dia,ɐ̝n̪.ˈt̪ɘ,,13-antü.csv
+415,28281000209,Cushamen,-42.23392,-71.34994,5010,dia,ɐ̝n̪.ˈt̪ɘ,,13-antü.csv
+416,28001000000,Ref. Spelling,-40.0,-75.5,7030,rojo,këlɘ,kelü,2-kelü.csv
+417,28131006609,Santa Bárbara,-37.67405,-71.80186,7030,rojo,ˈkʰë.lɘ,,2-kelü.csv
+418,28131007109,Cañete,-37.96722,-73.39282,7030,rojo,ˈcʰë.lɘ,,2-kelü.csv
+419,28131009109,Tirúa,-38.3699,-73.49067,7030,rojo,ˈcʰë.lë,,2-kelü.csv
+420,28131009809,Alto Bío Bío,-38.04457,-71.36344,7030,rojo,kʰë.ˈlɘ,,2-kelü.csv
+421,28141000309,Angol,-37.86289,-72.68304,7030,rojo,kʰë.ˈlɘ,,2-kelü.csv
+422,28141001209,Lumaco,-38.17584,-72.89947,7030,rojo,ˈkʰël.lɪ,,2-kelü.csv
+423,28141001409,Ercilla,-38.04926,-72.44544,7030,rojo,kʰë.ˈlɪ,,2-kelü.csv
+424,28141002309,Galvarino,-38.40865,-72.78342,7030,rojo,ˈcʰë.lʊ,,2-kelü.csv
+425,28141002509,Victoria,-38.35303,-72.19395,7030,rojo,kʰë.ˈlɘ,,2-kelü.csv
+426,28141002809,Lonquimay,-38.42587,-71.37014,7030,rojo,ˈcʰë.lɘ,,2-kelü.csv
+427,28141003209,Chol Chol,-38.51661,-72.97454,7030,rojo,cʰë.ˈlɘ,,2-kelü.csv
+428,28141004309,Dollinco,-38.67157,-72.82837,7030,rojo,cʰë.ˈlɘ,,2-kelü.csv
+429,28141004509,Vilcún,-38.59695,-72.31239,7030,rojo,kë.ˈlɘɻ,,2-kelü.csv
+430,28141005109,Puerto Saavedra,-38.78431,-73.39912,7030,rojo,cʰë.ˈlɘ,,2-kelü.csv
+431,28141005409,Truf Truf,-38.75576,-72.43983,7030,rojo,kʰë.ˈlɘ,,2-kelü.csv
+432,28141005909,Icalma,-38.72338,-71.1847,7030,rojo,kë.ˈlɘ,,2-kelü.csv
+433,28141006309,Freire,-38.99144,-72.8833,7030,rojo,kʰë.ˈlɘ,,2-kelü.csv
+434,28141006609,Cunco,-38.97601,-72.01425,7030,rojo,kʰë.ˈlʊ,,2-kelü.csv
+435,28141007209,Nueva Toltén,-39.20931,-73.1312,7030,rojo,ˈkë.lɘ,,2-kelü.csv
+436,28141008509,Villarrica,-39.48612,-72.3038,7030,rojo,kʰë.ˈlɘ,,2-kelü.csv
+437,28141008909,Curarrehue,-39.46788,-71.55193,7030,rojo,kʰë.ˈlɘ,,2-kelü.csv
+438,28151000109,Mariquina,-39.45147,-73.26457,7030,rojo,ˈkʰë.lɪ,,2-kelü.csv
+439,28151000409,Lanco,-39.5046,-72.44441,7030,rojo,ˈkʰë.lɘ,,2-kelü.csv
+440,28151000709,Panguipulli,-39.54399,-72.12614,7030,rojo,ˈcʰë.lɘ,,2-kelü.csv
+441,28151002309,Valdivia,-39.81291,-72.95438,7030,rojo,ˈkʰë.lɪ,,2-kelü.csv
+442,28161000309,San Pablo,-40.38308,-73.34988,7030,rojo,ˈkʰëj.ʝʊ,,2-kelü.csv
+443,28161001209,S. Juan de la Costa,-40.51004,-73.52129,7030,rojo,ˈkʰë.ɮɪ,,2-kelü.csv
+444,28221005509,Chalileo,-36.42252,-66.47321,7030,rojo,kʰë.ˈlʊ,,2-kelü.csv
+445,28261005309,Picunches,-38.78279,-70.22884,7030,rojo,xë.ˈlɘ,,2-kelü.csv
+446,28261005509,Zapala,-38.85047,-69.74997,7030,rojo,kö.ˈlɘ,,2-kelü.csv
+447,28261006109,Aluminé,-39.19681,-71.05406,7030,rojo,cʰë.ˈlɘ,,2-kelü.csv
+448,28261007109,Junín de los Andes,-39.82386,-71.28742,7030,rojo,cë.ˈlɘ,,2-kelü.csv
+449,28261007209,Huiliches,-39.63992,-71.18686,7030,rojo,cʰë.ˈlɘ,,2-kelü.csv
+450,28271006509,Jacobacci,-41.28813,-69.55719,7030,rojo,cʰë.ˈlɘ,,2-kelü.csv
+451,28281000209,Cushamen,-42.23392,-71.34994,7030,rojo,kʰë.ˈlɘ,,2-kelü.csv
+452,28281002209,Futaleufú,-42.95052,-71.18351,7030,rojo,kʰë.ˈlʊ,,2-kelü.csv
+453,28281003209,Lago Rosario,-43.24408,-71.32581,7030,rojo,cʰë.ˈlɘ,,2-kelü.csv
+454,28001000000,Ref. Spelling,-40.0,-75.5,6260,hoja,tɐ̝pɘl̪,tapül’,7-tapül.csv
+455,28131006609,Santa Bárbara,-37.67405,-71.80186,6260,hoja,t̪ɐ̝.ˈpɘl,,7-tapül.csv
+456,28131007109,Cañete,-37.96722,-73.39282,6260,hoja,t̪ɐ̝.ˈpɘ̆l,,7-tapül.csv
+457,28131009109,Tirúa,-38.3699,-73.49067,6260,hoja,ˈt̪ɐ̝.pɘlɬ,,7-tapül.csv
+458,28131009809,Alto Bío Bío,-38.04457,-71.36344,6260,hoja,tɐ̝.pɘlɬ,,7-tapül.csv
+459,28141000309,Angol,-37.86289,-72.68304,6260,hoja,t̪ɐ̝.ˈpɘlɬ,,7-tapül.csv
+460,28141001209,Lumaco,-38.17584,-72.89947,6260,hoja,t̪ɐ̝.ˈpɘl,,7-tapül.csv
+461,28141001409,Ercilla,-38.04926,-72.44544,6260,hoja,t̪ɐ̝.ˈpɘɬ,,7-tapül.csv
+462,28141002309,Galvarino,-38.40865,-72.78342,6260,hoja,t̪ɐ̝.ˈpɘl,,7-tapül.csv
+463,28141002509,Victoria,-38.35303,-72.19395,6260,hoja,t̪ɐ̝.ˈpɘl,,7-tapül.csv
+464,28141002809,Lonquimay,-38.42587,-71.37014,6260,hoja,t̪ɐ̝.ˈpɘl,,7-tapül.csv
+465,28141003209,Chol Chol,-38.51661,-72.97454,6260,hoja,t̪ɐ̝.ˈpɘ̆l̠,,7-tapül.csv
+466,28141004309,Dollinco,-38.67157,-72.82837,6260,hoja,t̪ɐ̝.ˈpɘl,,7-tapül.csv
+467,28141004509,Vilcún,-38.59695,-72.31239,6260,hoja,t̪ɐ̝.ˈpɘl,,7-tapül.csv
+468,28141005109,Puerto Saavedra,-38.78431,-73.39912,6260,hoja,tɐ̝.ˈpɘl̪,,7-tapül.csv
+469,28141005409,Truf Truf,-38.75576,-72.43983,6260,hoja,t̪ɐ̝.ˈɸɘl,,7-tapül.csv
+470,28141005909,Icalma,-38.72338,-71.1847,6260,hoja,t̪ɐ̝.ˈpɘl,,7-tapül.csv
+471,28141006309,Freire,-38.99144,-72.8833,6260,hoja,t̪ɐ̝.ˈpɘl,,7-tapül.csv
+472,28141006609,Cunco,-38.97601,-72.01425,6260,hoja,t̪ɐ̝.ˈpɘl,,7-tapül.csv
+473,28141007209,Nueva Toltén,-39.20931,-73.1312,6260,hoja,t̪ɐ̝.ˈbɘl,,7-tapül.csv
+474,28141008509,Villarrica,-39.48612,-72.3038,6260,hoja,t̪ɐ̝.ˈpl̩,,7-tapül.csv
+475,28141008909,Curarrehue,-39.46788,-71.55193,6260,hoja,t̪ɐ̝.ˈpɘ̆l,,7-tapül.csv
+476,28151000109,Mariquina,-39.45147,-73.26457,6260,hoja,t̪ɐ̝.ˈpɘl,,7-tapül.csv
+477,28151000409,Lanco,-39.5046,-72.44441,6260,hoja,t̪ɐ̝.ˈpɘl,,7-tapül.csv
+478,28151000709,Panguipulli,-39.54399,-72.12614,6260,hoja,t̪ɐ̝.ˈpɘl,,7-tapül.csv
+479,28151002309,Valdivia,-39.81291,-72.95438,6260,hoja,t̪ɐ̝.ˈpɘl,,7-tapül.csv
+480,28161000309,San Pablo,-40.38308,-73.34988,6260,hoja,t̪ɐ̝.ˈpɘl,,7-tapül.csv
+481,28161001209,S. Juan de la Costa,-40.51004,-73.52129,6260,hoja,ˈt̪ɐ̝.pɘɬ,,7-tapül.csv
+482,28221005509,Chalileo,-36.42252,-66.47321,6260,hoja,t̪ɐ̝.ˈpɘl,,7-tapül.csv
+483,28261005309,Picunches,-38.78279,-70.22884,6260,hoja,t̪ɐ̝.ˈɸɘɬ,,7-tapül.csv
+484,28261006109,Aluminé,-39.19681,-71.05406,6260,hoja,t̪ɐ̝.ˈpɘl,,7-tapül.csv
+485,28261007109,Junín de los Andes,-39.82386,-71.28742,6260,hoja,t̪ɐ̝.ˈpɘl,,7-tapül.csv
+486,28261007209,Huiliches,-39.63992,-71.18686,6260,hoja,t̪ɐ̝.ˈpɘl,,7-tapül.csv
+487,28281000209,Cushamen,-42.23392,-71.34994,6260,hoja,t̪ɐ̝.ˈpɘ̆l,,7-tapül.csv
+488,28281003209,Lago Rosario,-43.24408,-71.32581,6260,hoja,t̪ɐ̝.ˈpɘl,,7-tapül.csv
+489,28001000000,Ref. Spelling,-40.0,-75.5,21510,tengo_hambre,ŋɘɲëɲ,ngüñeñ,11-ngüñeñ.csv
+490,28131006609,Santa Bárbara,-37.67405,-71.80186,21510,tengo_hambre,ˌŋɘ.ˈɲɘn,,11-ngüñeñ.csv
+491,28131007109,Cañete,-37.96722,-73.39282,21510,tengo_hambre,ɘ.ˈɲɘn,,11-ngüñeñ.csv
+492,28131009109,Tirúa,-38.3699,-73.49067,21510,tengo_hambre,ŋɘ.ˈɲɘn,,11-ngüñeñ.csv
+493,28131009809,Alto Bío Bío,-38.04457,-71.36344,21510,tengo_hambre,ŋɘ.ˈɲën,,11-ngüñeñ.csv
+494,28141000309,Angol,-37.86289,-72.68304,21510,tengo_hambre,ŋɘ.ˈɲën,,11-ngüñeñ.csv
+495,28141001209,Lumaco,-38.17584,-72.89947,21510,tengo_hambre,ˈŋë.nɪ,,11-ngüñeñ.csv
+496,28141001409,Ercilla,-38.04926,-72.44544,21510,tengo_hambre,ˌnɐ̝.ŋɘ.ˈɲɪɲ,,11-ngüñeñ.csv
+497,28141002309,Galvarino,-38.40865,-72.78342,21510,tengo_hambre,ŋɘ.ˌɲɘ.ˈlën,,11-ngüñeñ.csv
+498,28141002509,Victoria,-38.35303,-72.19395,21510,tengo_hambre,ŋɘ.ˈɲën,,11-ngüñeñ.csv
+499,28141002809,Lonquimay,-38.42587,-71.37014,21510,tengo_hambre,ŋɘ.ˈɲën,,11-ngüñeñ.csv
+500,28141003209,Chol Chol,-38.51661,-72.97454,21510,tengo_hambre,ŋɘ.ˈɲɪn,,11-ngüñeñ.csv
+501,28141004309,Dollinco,-38.67157,-72.82837,21510,tengo_hambre,ŋɘ.ˈɲɘn,,11-ngüñeñ.csv
+502,28141004509,Vilcún,-38.59695,-72.31239,21510,tengo_hambre,ŋɘ.ˈɲën,,11-ngüñeñ.csv
+503,28141005109,Puerto Saavedra,-38.78431,-73.39912,21510,tengo_hambre,ŋɘ.ˈɲëɲ,,11-ngüñeñ.csv
+504,28141005409,Truf Truf,-38.75576,-72.43983,21510,tengo_hambre,ŋɘ.ˈɲɪn,,11-ngüñeñ.csv
+505,28141005909,Icalma,-38.72338,-71.1847,21510,tengo_hambre,ŋɘ.ˈɲën,,11-ngüñeñ.csv
+506,28141006309,Freire,-38.99144,-72.8833,21510,tengo_hambre,ŋɘ.ˌɲɘ.ˈlën,,11-ngüñeñ.csv
+507,28141006609,Cunco,-38.97601,-72.01425,21510,tengo_hambre,ˌnɐ̝.ŋɘ.ˈjɪn,,11-ngüñeñ.csv
+508,28141007209,Nueva Toltén,-39.20931,-73.1312,21510,tengo_hambre,ŋɘ.ˈɲɘɲ,,11-ngüñeñ.csv
+509,28141008509,Villarrica,-39.48612,-72.3038,21510,tengo_hambre,ŋɘ.ˈɲën,,11-ngüñeñ.csv
+510,28141008909,Curarrehue,-39.46788,-71.55193,21510,tengo_hambre,ŋɘ.ˈjën,,11-ngüñeñ.csv
+511,28151000109,Mariquina,-39.45147,-73.26457,21510,tengo_hambre,ɲ̠ɪ.ˈɲɪn,,11-ngüñeñ.csv
+512,28151000409,Lanco,-39.5046,-72.44441,21510,tengo_hambre,ŋɘ.ɲɘ.ˈlën,,11-ngüñeñ.csv
+513,28151000709,Panguipulli,-39.54399,-72.12614,21510,tengo_hambre,ŋɘ.ˈɲɘn,,11-ngüñeñ.csv
+514,28151002309,Valdivia,-39.81291,-72.95438,21510,tengo_hambre,ŋɘ.jɘ.ˈlën,,11-ngüñeñ.csv
+515,28221005509,Chalileo,-36.42252,-66.47321,21510,tengo_hambre,ŋɘ.ˈɲëɲ,,11-ngüñeñ.csv
+516,28261005309,Picunches,-38.78279,-70.22884,21510,tengo_hambre,ŋɘ.ˈɲën,,11-ngüñeñ.csv
+517,28261005509,Zapala,-38.85047,-69.74997,21510,tengo_hambre,ŋɘ.ˈɲën,,11-ngüñeñ.csv
+518,28261006109,Aluminé,-39.19681,-71.05406,21510,tengo_hambre,ŋɘ.ˈɲën,,11-ngüñeñ.csv
+519,28261007109,Junín de los Andes,-39.82386,-71.28742,21510,tengo_hambre,ɣɘ.ˈɲën,,11-ngüñeñ.csv
+520,28261007209,Huiliches,-39.63992,-71.18686,21510,tengo_hambre,ŋɘ.ˈɲën,,11-ngüñeñ.csv
+521,28271006509,Jacobacci,-41.28813,-69.55719,21510,tengo_hambre,ŋɘ.ˈjɘn,,11-ngüñeñ.csv
+522,28281000209,Cushamen,-42.23392,-71.34994,21510,tengo_hambre,ŋɘ.ˈɲën,,11-ngüñeñ.csv
+523,28281002209,Futaleufú,-42.95052,-71.18351,21510,tengo_hambre,ˌnɐ̝.ŋɘ.ˈɲɪn,,11-ngüñeñ.csv
+524,28281003209,Lago Rosario,-43.24408,-71.32581,21510,tengo_hambre,ŋɘ.ˈɲɘn,,11-ngüñeñ.csv
+525,28001000000,Ref. Spelling,-40.0,-75.5,7010,negro,kʊʐɘ,kurü,2-kurü.csv
+526,28131006609,Santa Bárbara,-37.67405,-71.80186,7010,negro,ˈkʊ.ɻɘ,,2-kurü.csv
+527,28131007109,Cañete,-37.96722,-73.39282,7010,negro,ˈkʊ.ʐɘ,,2-kurü.csv
+528,28131009109,Tirúa,-38.3699,-73.49067,7010,negro,ˈkʊ.ɻɘ,,2-kurü.csv
+529,28131009809,Alto Bío Bío,-38.04457,-71.36344,7010,negro,ˈkʊ.ɻɘ,,2-kurü.csv
+530,28141000309,Angol,-37.86289,-72.68304,7010,negro,kö.ˈɻɘ,,2-kurü.csv
+531,28141001209,Lumaco,-38.17584,-72.89947,7010,negro,xwɘɻ,,2-kurü.csv
+532,28141001409,Ercilla,-38.04926,-72.44544,7010,negro,kʊ.ˈɻɘ,,2-kurü.csv
+533,28141002309,Galvarino,-38.40865,-72.78342,7010,negro,ˈkʊ.ɻɘ,,2-kurü.csv
+534,28141002509,Victoria,-38.35303,-72.19395,7010,negro,kʊ.ˈɻɘ,,2-kurü.csv
+535,28141002809,Lonquimay,-38.42587,-71.37014,7010,negro,ˈkʰʊ.ɻɘ,,2-kurü.csv
+536,28141003209,Chol Chol,-38.51661,-72.97454,7010,negro,kʊ.ˈɻɘ,,2-kurü.csv
+537,28141004309,Dollinco,-38.67157,-72.82837,7010,negro,kʊ.ˈʐɘ,,2-kurü.csv
+538,28141004509,Vilcún,-38.59695,-72.31239,7010,negro,kʊ̆.ˈɻɘ,,2-kurü.csv
+539,28141005109,Puerto Saavedra,-38.78431,-73.39912,7010,negro,kʊ.ˈʐɘ,,2-kurü.csv
+540,28141005409,Truf Truf,-38.75576,-72.43983,7010,negro,kʊ.ˈr̝ɘ,,2-kurü.csv
+541,28141005909,Icalma,-38.72338,-71.1847,7010,negro,kʊ.ˈɻɘ,,2-kurü.csv
+542,28141006309,Freire,-38.99144,-72.8833,7010,negro,kʰʊ.ˈɻɘ,,2-kurü.csv
+543,28141006609,Cunco,-38.97601,-72.01425,7010,negro,kʊ.ˈʐɘ,,2-kurü.csv
+544,28141007209,Nueva Toltén,-39.20931,-73.1312,7010,negro,ˈhʊ.ɻɘ,,2-kurü.csv
+545,28141008509,Villarrica,-39.48612,-72.3038,7010,negro,kʊ.ˈɻɘ,,2-kurü.csv
+546,28141008909,Curarrehue,-39.46788,-71.55193,7010,negro,kʊ.ˈɻɘ,,2-kurü.csv
+547,28151000109,Mariquina,-39.45147,-73.26457,7010,negro,kʊɻ,,2-kurü.csv
+548,28151000409,Lanco,-39.5046,-72.44441,7010,negro,ˈkʰʊ.ʐʊ,,2-kurü.csv
+549,28151000709,Panguipulli,-39.54399,-72.12614,7010,negro,ˈkʊ.ʐɘ,,2-kurü.csv
+550,28151002309,Valdivia,-39.81291,-72.95438,7010,negro,ˈkʊ.ɻɪ,,2-kurü.csv
+551,28161000309,San Pablo,-40.38308,-73.34988,7010,negro,ˈkʉ.ʂɘ,,2-kurü.csv
+552,28161001209,S. Juan de la Costa,-40.51004,-73.52129,7010,negro,ˈkʊ.ʂɘ,,2-kurü.csv
+553,28221005509,Chalileo,-36.42252,-66.47321,7010,negro,kʊ.ˈɻɘ,,2-kurü.csv
+554,28261005309,Picunches,-38.78279,-70.22884,7010,negro,xʊ.ˈɻɘ,,2-kurü.csv
+555,28261005509,Zapala,-38.85047,-69.74997,7010,negro,kʊ.ˈʐɘ,,2-kurü.csv
+556,28261006109,Aluminé,-39.19681,-71.05406,7010,negro,kʊ.ˈʐʊ,,2-kurü.csv
+557,28261007109,Junín de los Andes,-39.82386,-71.28742,7010,negro,x̞ʊ.ˈɻɘ,,2-kurü.csv
+558,28261007209,Huiliches,-39.63992,-71.18686,7010,negro,kʊ.ˈɻɘ,,2-kurü.csv
+559,28271006509,Jacobacci,-41.28813,-69.55719,7010,negro,kʊ.ˈʐɘ,,2-kurü.csv
+560,28281000209,Cushamen,-42.23392,-71.34994,7010,negro,kʊ.ˈʐɘ,,2-kurü.csv
+561,28281002209,Futaleufú,-42.95052,-71.18351,7010,negro,kʰʊ.ˈʐʊ,,2-kurü.csv
+562,28281003209,Lago Rosario,-43.24408,-71.32581,7010,negro,kʊ.ˈɻɘ,,2-kurü.csv
+563,28001000000,Ref. Spelling,-40.0,-75.5,5840,nube,ʈʂömɘ,tromü,8-tromü.csv
+564,28131006609,Santa Bárbara,-37.67405,-71.80186,5840,nube,ɖö.ˈmɘ,,8-tromü.csv
+565,28131007109,Cañete,-37.96722,-73.39282,5840,nube,ˈt͡ɹ̝̥ö.mɘ,,8-tromü.csv
+566,28131009809,Alto Bío Bío,-38.04457,-71.36344,5840,nube,t̺͡s̺ö.ˈmɘ,,8-tromü.csv
+567,28141000309,Angol,-37.86289,-72.68304,5840,nube,ˈʈ͡ʂö.mɘ,,8-tromü.csv
+568,28141001209,Lumaco,-38.17584,-72.89947,5840,nube,ˈʈ͡ʂö.mʊ,,8-tromü.csv
+569,28141002309,Galvarino,-38.40865,-72.78342,5840,nube,ˈt͡ɹ̝̥ö.mɘ,,8-tromü.csv
+570,28141002509,Victoria,-38.35303,-72.19395,5840,nube,ʈ͡ʂö.ˈmɘ,,8-tromü.csv
+571,28141002809,Lonquimay,-38.42587,-71.37014,5840,nube,ˈʈ͡ʂö.mɘɘ̥̯,,8-tromü.csv
+572,28141003209,Chol Chol,-38.51661,-72.97454,5840,nube,ʈ͡ʂö.ˈmʊ,,8-tromü.csv
+573,28141004309,Dollinco,-38.67157,-72.82837,5840,nube,t̺ö.ˈmɘ,,8-tromü.csv
+574,28141004509,Vilcún,-38.59695,-72.31239,5840,nube,ʈ͡ʂö.ˈmɘ,,8-tromü.csv
+575,28141005109,Puerto Saavedra,-38.78431,-73.39912,5840,nube,t̺͡s̺ö.mʊ,,8-tromü.csv
+576,28141005409,Truf Truf,-38.75576,-72.43983,5840,nube,ˈʈ͡ʂö.mʊ,,8-tromü.csv
+577,28141005909,Icalma,-38.72338,-71.1847,5840,nube,ʈ͡ʂö.ˈmɘ,,8-tromü.csv
+578,28141006309,Freire,-38.99144,-72.8833,5840,nube,ʈ͡ʂö.ˈmɘ,,8-tromü.csv
+579,28141007209,Nueva Toltén,-39.20931,-73.1312,5840,nube,ˈʈ͡ʂö.mɘ,,8-tromü.csv
+580,28141008509,Villarrica,-39.48612,-72.3038,5840,nube,ʐö.ˈmɘ,,8-tromü.csv
+581,28141008909,Curarrehue,-39.46788,-71.55193,5840,nube,ʈ͡ʂɐ̝w.ˈmɘ,,8-tromü.csv
+582,28151000109,Mariquina,-39.45147,-73.26457,5840,nube,ˈt͡ɹ̝̥ö.mö,,8-tromü.csv
+583,28151000409,Lanco,-39.5046,-72.44441,5840,nube,ˈʈ͡ʂö.mɘ,,8-tromü.csv
+584,28151000709,Panguipulli,-39.54399,-72.12614,5840,nube,ˈt͡ɹ̝̥ö.mɘ,,8-tromü.csv
+585,28151002309,Valdivia,-39.81291,-72.95438,5840,nube,ʈ͡ʂö.mʊ,,8-tromü.csv
+586,28161000309,San Pablo,-40.38308,-73.34988,5840,nube,t͡ɹ̝̥öː.ˈmɘɲ,,8-tromü.csv
+587,28161001209,S. Juan de la Costa,-40.51004,-73.52129,5840,nube,ʈ͡ʂö.mɘ,,8-tromü.csv
+588,28221005509,Chalileo,-36.42252,-66.47321,5840,nube,t̺͡s̺ö.ˈmɘ,,8-tromü.csv
+589,28261005309,Picunches,-38.78279,-70.22884,5840,nube,ʈ͡ʂö.ˈmɘ,,8-tromü.csv
+590,28261005509,Zapala,-38.85047,-69.74997,5840,nube,ʈ͡ʂö.ˈmɘ,,8-tromü.csv
+591,28261006109,Aluminé,-39.19681,-71.05406,5840,nube,ʈ͡ʂö.ˈmɘ,,8-tromü.csv
+592,28261007109,Junín de los Andes,-39.82386,-71.28742,5840,nube,ʈ͡ʂö.ˈmɘ,,8-tromü.csv
+593,28261007209,Huiliches,-39.63992,-71.18686,5840,nube,ʈ͡ʂö.ˈmɘ,,8-tromü.csv
+594,28271006509,Jacobacci,-41.28813,-69.55719,5840,nube,ʈ͡ʂö.ˈmɘʎ,,8-tromü.csv
+595,28281000209,Cushamen,-42.23392,-71.34994,5840,nube,ʈ͡ʂö.ˈmɘɻ,,8-tromü.csv
+596,28281003209,Lago Rosario,-43.24408,-71.32581,5840,nube,ʈ͡ʂö.ˈmɘ,,8-tromü.csv
+597,28001000000,Ref. Spelling,-40.0,-75.5,2510,pie,nɐ̝mɘn̪,namün’,4-namün.csv
+598,28131006609,Santa Bárbara,-37.67405,-71.80186,2510,pie,nɐ̝.ˈmɘn,,4-namün.csv
+599,28131007109,Cañete,-37.96722,-73.39282,2510,pie,ˈnɐ̝.mɘn,,4-namün.csv
+600,28131009109,Tirúa,-38.3699,-73.49067,2510,pie,ˈnɐ̝.mɘs̪,,4-namün.csv
+601,28131009809,Alto Bío Bío,-38.04457,-71.36344,2510,pie,nɐ̝.ˈmɘn,,4-namün.csv
+602,28141000309,Angol,-37.86289,-72.68304,2510,pie,nɐ̝.ˈmɘn,,4-namün.csv
+603,28141001209,Lumaco,-38.17584,-72.89947,2510,pie,nɐ̝.ˈmɘn,,4-namün.csv
+604,28141001409,Ercilla,-38.04926,-72.44544,2510,pie,nɐ̝.ˈmɘn,,4-namün.csv
+605,28141002309,Galvarino,-38.40865,-72.78342,2510,pie,nɐ̝.ˈmʊn,,4-namün.csv
+606,28141002509,Victoria,-38.35303,-72.19395,2510,pie,nɐ̝.ˈmɘn,,4-namün.csv
+607,28141002809,Lonquimay,-38.42587,-71.37014,2510,pie,nɐ̝.ˈmʊn,,4-namün.csv
+608,28141003209,Chol Chol,-38.51661,-72.97454,2510,pie,nɐ̝.ˈmʊn,,4-namün.csv
+609,28141004309,Dollinco,-38.67157,-72.82837,2510,pie,nɐ̝.ˈmɘn,,4-namün.csv
+610,28141004509,Vilcún,-38.59695,-72.31239,2510,pie,nɐ̝.ˈmɘn,,4-namün.csv
+611,28141005109,Puerto Saavedra,-38.78431,-73.39912,2510,pie,nɐ̝.ˈmʊn,,4-namün.csv
+612,28141005409,Truf Truf,-38.75576,-72.43983,2510,pie,nɐ̝.ˈmɘn,,4-namün.csv
+613,28141005909,Icalma,-38.72338,-71.1847,2510,pie,nɐ̝.ˈmɘn,,4-namün.csv
+614,28141006309,Freire,-38.99144,-72.8833,2510,pie,nɐ̝.ˈmɘn,,4-namün.csv
+615,28141006609,Cunco,-38.97601,-72.01425,2510,pie,nɐ̝.ˈmɘn,,4-namün.csv
+616,28141007209,Nueva Toltén,-39.20931,-73.1312,2510,pie,nɐ̝.ˈmʊn,,4-namün.csv
+617,28141008509,Villarrica,-39.48612,-72.3038,2510,pie,nɐ̝.ˈmɘn,,4-namün.csv
+618,28141008909,Curarrehue,-39.46788,-71.55193,2510,pie,nɐ̝.ˈmʊn,,4-namün.csv
+619,28151000109,Mariquina,-39.45147,-73.26457,2510,pie,nɐ̝.ˈmɘn,,4-namün.csv
+620,28151000409,Lanco,-39.5046,-72.44441,2510,pie,nɐ̝.ˈmɘn,,4-namün.csv
+621,28151000709,Panguipulli,-39.54399,-72.12614,2510,pie,nɐ̝.ˈmɘn,,4-namün.csv
+622,28151002309,Valdivia,-39.81291,-72.95438,2510,pie,nɐ̝.ˈmɘn,,4-namün.csv
+623,28161000309,San Pablo,-40.38308,-73.34988,2510,pie,ˈnɐ̝.mɘn,,4-namün.csv
+624,28161001209,S. Juan de la Costa,-40.51004,-73.52129,2510,pie,ˈnɐ̝.mʊn̪,,4-namün.csv
+625,28221005509,Chalileo,-36.42252,-66.47321,2510,pie,nɐ̝.ˈmɘn,,4-namün.csv
+626,28261005309,Picunches,-38.78279,-70.22884,2510,pie,nɐ̝.ˈmɘn,,4-namün.csv
+627,28261005509,Zapala,-38.85047,-69.74997,2510,pie,nɐ̝.ˈmʊn,,4-namün.csv
+628,28261006109,Aluminé,-39.19681,-71.05406,2510,pie,nɐ̝.ˈmɘn,,4-namün.csv
+629,28261007109,Junín de los Andes,-39.82386,-71.28742,2510,pie,nɐ̝.ˈmɘn,,4-namün.csv
+630,28261007209,Huiliches,-39.63992,-71.18686,2510,pie,nɐ̝.ˈmɘn,,4-namün.csv
+631,28281000209,Cushamen,-42.23392,-71.34994,2510,pie,nɐ̝.ˈmʊn,,4-namün.csv
+632,28281002209,Futaleufú,-42.95052,-71.18351,2510,pie,nɐ̝.ˈmʊn,,4-namün.csv
+633,28281003209,Lago Rosario,-43.24408,-71.32581,2510,pie,nɐ̝.ˈmɘn,,4-namün.csv
+634,28001000000,Ref. Spelling,-40.0,-75.5,20070,zorro,ŋɘʐɘ,ngürü,6-ngürü.csv
+635,28131006609,Santa Bárbara,-37.67405,-71.80186,20070,zorro,ˈŋɘ.ɻɘ,,6-ngürü.csv
+636,28131007109,Cañete,-37.96722,-73.39282,20070,zorro,ŋɘ.ˈʐɘ,,6-ngürü.csv
+637,28131009109,Tirúa,-38.3699,-73.49067,20070,zorro,ˈɳɘ.ɻɘ,,6-ngürü.csv
+638,28131009809,Alto Bío Bío,-38.04457,-71.36344,20070,zorro,ˈŋɘ.ɻɘ,,6-ngürü.csv
+639,28141000309,Angol,-37.86289,-72.68304,20070,zorro,ŋɘ.ˈɻɘ,,6-ngürü.csv
+640,28141001209,Lumaco,-38.17584,-72.89947,20070,zorro,ˈŋɘ.ɻɘ,,6-ngürü.csv
+641,28141001409,Ercilla,-38.04926,-72.44544,20070,zorro,ŋɘɻʂ,,6-ngürü.csv
+642,28141002309,Galvarino,-38.40865,-72.78342,20070,zorro,ˈŋɘ.ɻɘ,,6-ngürü.csv
+643,28141002509,Victoria,-38.35303,-72.19395,20070,zorro,ŋɘ.ˈɻɘ,,6-ngürü.csv
+644,28141002809,Lonquimay,-38.42587,-71.37014,20070,zorro,ˈŋɘ.ʂɘ,,6-ngürü.csv
+645,28141003209,Chol Chol,-38.51661,-72.97454,20070,zorro,ŋɘ.ˈɻɘ,,6-ngürü.csv
+646,28141004309,Dollinco,-38.67157,-72.82837,20070,zorro,ŋɘ.ˈɻɘ,,6-ngürü.csv
+647,28141004509,Vilcún,-38.59695,-72.31239,20070,zorro,ˈŋɘ.ɻɘ,,6-ngürü.csv
+648,28141005109,Puerto Saavedra,-38.78431,-73.39912,20070,zorro,ˈŋɘ.ʐɘ,,6-ngürü.csv
+649,28141005409,Truf Truf,-38.75576,-72.43983,20070,zorro,ŋɘ.ˈʐɘ,,6-ngürü.csv
+650,28141005909,Icalma,-38.72338,-71.1847,20070,zorro,ŋɘ.ˈɻɘ,,6-ngürü.csv
+651,28141006309,Freire,-38.99144,-72.8833,20070,zorro,ˈŋɘ.ɻɘ,,6-ngürü.csv
+652,28141006609,Cunco,-38.97601,-72.01425,20070,zorro,ŋɘ.ˈʐʊ,,6-ngürü.csv
+653,28141007209,Nueva Toltén,-39.20931,-73.1312,20070,zorro,ˈŋɘ.ɻɘ,,6-ngürü.csv
+654,28141008509,Villarrica,-39.48612,-72.3038,20070,zorro,ŋɘ.ˈɻɘ,,6-ngürü.csv
+655,28141008909,Curarrehue,-39.46788,-71.55193,20070,zorro,ŋɘ.ˈɻɘ,,6-ngürü.csv
+656,28151000109,Mariquina,-39.45147,-73.26457,20070,zorro,ˈŋɘ.ɻɘ,,6-ngürü.csv
+657,28151000409,Lanco,-39.5046,-72.44441,20070,zorro,ŋɘ.ˈɻɘ,,6-ngürü.csv
+658,28151000709,Panguipulli,-39.54399,-72.12614,20070,zorro,ŋɘ.ʐɘ,,6-ngürü.csv
+659,28151002309,Valdivia,-39.81291,-72.95438,20070,zorro,ˈŋɘ.ɻɘ,,6-ngürü.csv
+660,28161000309,San Pablo,-40.38308,-73.34988,20070,zorro,ˈŋɘ.rɘ,,6-ngürü.csv
+661,28161001209,S. Juan de la Costa,-40.51004,-73.52129,20070,zorro,ˈŋɘ.ʂɘ,,6-ngürü.csv
+662,28221005509,Chalileo,-36.42252,-66.47321,20070,zorro,ŋɘ.ˈɻɘ,,6-ngürü.csv
+663,28261005309,Picunches,-38.78279,-70.22884,20070,zorro,ŋɘ.ˈɻɘ,,6-ngürü.csv
+664,28261005509,Zapala,-38.85047,-69.74997,20070,zorro,ŋɘ.ˈʐɘ,,6-ngürü.csv
+665,28261006109,Aluminé,-39.19681,-71.05406,20070,zorro,ŋɘ.ˈʐɘ,,6-ngürü.csv
+666,28261007109,Junín de los Andes,-39.82386,-71.28742,20070,zorro,ŋɘ.ˈɻɘ,,6-ngürü.csv
+667,28261007209,Huiliches,-39.63992,-71.18686,20070,zorro,ŋɘ.ˈɻɘ,,6-ngürü.csv
+668,28271006509,Jacobacci,-41.28813,-69.55719,20070,zorro,ŋɘ.ˈɻɘ,,6-ngürü.csv
+669,28281000209,Cushamen,-42.23392,-71.34994,20070,zorro,ŋɘ.ˈʐɘ,,6-ngürü.csv
+670,28281002209,Futaleufú,-42.95052,-71.18351,20070,zorro,ŋɘ.ˈʐʊ,,6-ngürü.csv
+671,28281003209,Lago Rosario,-43.24408,-71.32581,20070,zorro,ŋɘ.ˈɻɘ,,6-ngürü.csv
+672,28001000000,Ref. Spelling,-40.0,-75.5,5410,fuego,kɘʈʂɐ̝l,kütral,7-kütral.csv
+673,28131006609,Santa Bárbara,-37.67405,-71.80186,5410,fuego,kɘ̆.ˈɖɐ̝l,,7-kütral.csv
+674,28131007109,Cañete,-37.96722,-73.39282,5410,fuego,kɘ̆.ˈʈ͡ʂɐ̝l,,7-kütral.csv
+675,28131009109,Tirúa,-38.3699,-73.49067,5410,fuego,kɘ̆.ˈt͡ɹ̝̥ɐ̝l,,7-kütral.csv
+676,28131009809,Alto Bío Bío,-38.04457,-71.36344,5410,fuego,kʰt̩̚.ˈt̺͡s̺ɐ̝l,,7-kütral.csv
+677,28141000309,Angol,-37.86289,-72.68304,5410,fuego,kɘ.ˈt̺͡s̺ɐ̝l,,7-kütral.csv
+678,28141001209,Lumaco,-38.17584,-72.89947,5410,fuego,kɘ.ˈʈ͡ʂɐ̝l,,7-kütral.csv
+679,28141001409,Ercilla,-38.04926,-72.44544,5410,fuego,kɘ̥̯.ˈt͡ɹ̝̥ɐ̝ɬ,,7-kütral.csv
+680,28141002309,Galvarino,-38.40865,-72.78342,5410,fuego,kʰɘ.ˈʈ͡ʂɐ̝l,,7-kütral.csv
+681,28141002509,Victoria,-38.35303,-72.19395,5410,fuego,kɘ̆.ˈʈɐ̝l,,7-kütral.csv
+682,28141002809,Lonquimay,-38.42587,-71.37014,5410,fuego,kɘ̆ʈ̚.ˈʈ͡ʂɐ̝l,,7-kütral.csv
+683,28141003209,Chol Chol,-38.51661,-72.97454,5410,fuego,kʰɘ̆.ˈʈ͡ʂɐ̝l,,7-kütral.csv
+684,28141004309,Dollinco,-38.67157,-72.82837,5410,fuego,kɘ.ˈt̺͡s̺ɐ̝l,,7-kütral.csv
+685,28141004509,Vilcún,-38.59695,-72.31239,5410,fuego,kɘ̆.ˈt̺͡s̺ɐ̝l,,7-kütral.csv
+686,28141005109,Puerto Saavedra,-38.78431,-73.39912,5410,fuego,kɘ.ˈt̺͡s̺ɐ̝l,,7-kütral.csv
+687,28141005409,Truf Truf,-38.75576,-72.43983,5410,fuego,kɘ.ˈʈ͡ʂɐ̝l,,7-kütral.csv
+688,28141005909,Icalma,-38.72338,-71.1847,5410,fuego,xɘ.ˈʈ͡ʂɐ̝l,,7-kütral.csv
+689,28141006309,Freire,-38.99144,-72.8833,5410,fuego,kɘ.ˈʈ͡ʂɐ̝l,,7-kütral.csv
+690,28141006609,Cunco,-38.97601,-72.01425,5410,fuego,kɘ̆.ˈt̺͡s̺ɐ̝l,,7-kütral.csv
+691,28141007209,Nueva Toltén,-39.20931,-73.1312,5410,fuego,ˈkɘ.t̺͡s̺ɐ̝l,,7-kütral.csv
+692,28141008509,Villarrica,-39.48612,-72.3038,5410,fuego,kɘ.ˈʈ͡ʂɐ̝l,,7-kütral.csv
+693,28141008909,Curarrehue,-39.46788,-71.55193,5410,fuego,kʰʈ̩̚.ˈʈ͡ʂɐ̝l,,7-kütral.csv
+694,28151000109,Mariquina,-39.45147,-73.26457,5410,fuego,kɘ̆.ˈt͡ɹ̝̥ɐ̝l,,7-kütral.csv
+695,28151000409,Lanco,-39.5046,-72.44441,5410,fuego,kʰɘ.ˈʈ͡ʂɐ̝l,,7-kütral.csv
+696,28151000709,Panguipulli,-39.54399,-72.12614,5410,fuego,kʰt̩̚.ˈt͡ɹ̝̥ɐ̝l,,7-kütral.csv
+697,28151002309,Valdivia,-39.81291,-72.95438,5410,fuego,kɘ.ˈʈ͡ʂɐ̝l,,7-kütral.csv
+698,28161000309,San Pablo,-40.38308,-73.34988,5410,fuego,kɘ.ˈt̺͡s̺ɐ̝l,,7-kütral.csv
+699,28161001209,S. Juan de la Costa,-40.51004,-73.52129,5410,fuego,kɘ̆.ˈʈ͡ʂɐ̝ɭ̝̥,,7-kütral.csv
+700,28221005509,Chalileo,-36.42252,-66.47321,5410,fuego,kɘ.ˈtɐ̝l,,7-kütral.csv
+701,28261005309,Picunches,-38.78279,-70.22884,5410,fuego,kʰɘ.ˈʂɐ̝l,,7-kütral.csv
+702,28261005509,Zapala,-38.85047,-69.74997,5410,fuego,kʰɘ.ˈʈ͡ʂɐ̝l,,7-kütral.csv
+703,28261006109,Aluminé,-39.19681,-71.05406,5410,fuego,kʰɘ.ˈʈ͡ʂɐ̝l,,7-kütral.csv
+704,28261007109,Junín de los Andes,-39.82386,-71.28742,5410,fuego,kʈ̩̚.ˈʈ͡ʂɐ̝l,,7-kütral.csv
+705,28261007209,Huiliches,-39.63992,-71.18686,5410,fuego,kʈ̩̚.ˈʈ͡ʂɐ̝l,,7-kütral.csv
+706,28271006509,Jacobacci,-41.28813,-69.55719,5410,fuego,kʰɘ.ˈʈ͡ʂɐ̝l,,7-kütral.csv
+707,28281000209,Cushamen,-42.23392,-71.34994,5410,fuego,kʰɘ̆.ˈʈ͡ʂɐ̝l,,7-kütral.csv
+708,28281002209,Futaleufú,-42.95052,-71.18351,5410,fuego,wç̩.ˈʈ͡ʂɐ̝l,,7-kütral.csv
+709,28281003209,Lago Rosario,-43.24408,-71.32581,5410,fuego,kʰɘ.ˈt̺͡s̺ɐ̝l,,7-kütral.csv
+710,28001000000,Ref. Spelling,-40.0,-75.5,8440,matar,l̪ɐ̝ŋɘmɘn,l’angümün,11-l'angümün.csv
+711,28131007109,Cañete,-37.96722,-73.39282,8440,matar,lɐ̝ŋ.ˈɡɘm,,11-l'angümün.csv
+712,28131009109,Tirúa,-38.3699,-73.49067,8440,matar,ˈlɐ̝.ŋɘm,,11-l'angümün.csv
+713,28131009809,Alto Bío Bío,-38.04457,-71.36344,8440,matar,ˌlɐ̝.ŋɘ.ˈmɘn,,11-l'angümün.csv
+714,28141000309,Angol,-37.86289,-72.68304,8440,matar,ˈlɐ̝.ŋɘ.ˌmɘn,,11-l'angümün.csv
+715,28141001209,Lumaco,-38.17584,-72.89947,8440,matar,ˈlɐ̝.ŋɘm.jë,,11-l'angümün.csv
+716,28141001409,Ercilla,-38.04926,-72.44544,8440,matar,ˌlɐ̝.ŋɐ̝m.ˈŋɪ,,11-l'angümün.csv
+717,28141002309,Galvarino,-38.40865,-72.78342,8440,matar,lɐ̝.ˌŋɘ.ˈmɘn,,11-l'angümün.csv
+718,28141002509,Victoria,-38.35303,-72.19395,8440,matar,ˌlɐ̝.ŋɘm.ˈɲë,,11-l'angümün.csv
+719,28141002809,Lonquimay,-38.42587,-71.37014,8440,matar,ˌlɐ̝.ŋɘ.ˈmɘn,,11-l'angümün.csv
+720,28141003209,Chol Chol,-38.51661,-72.97454,8440,matar,ˌlɐ̝.ɲɘ.ˈmɘn,,11-l'angümün.csv
+721,28141004309,Dollinco,-38.67157,-72.82837,8440,matar,ˈlɐ̝.ŋɘ.ˌmɘn,,11-l'angümün.csv
+722,28141004509,Vilcún,-38.59695,-72.31239,8440,matar,ˌlɐ̝.ˈŋɘ.mɘn,,11-l'angümün.csv
+723,28141005109,Puerto Saavedra,-38.78431,-73.39912,8440,matar,l̪ɐ̝.ˌŋɘ.ˈmɘn,,11-l'angümün.csv
+724,28141005409,Truf Truf,-38.75576,-72.43983,8440,matar,lɐ̝.ˈŋɘ.mɘn,,11-l'angümün.csv
+725,28141005909,Icalma,-38.72338,-71.1847,8440,matar,ˌlɐ̝.ŋɘ.ˈmɘj,,11-l'angümün.csv
+726,28141006309,Freire,-38.99144,-72.8833,8440,matar,lɐ̝.ˌŋɘ.ˈmɘn,,11-l'angümün.csv
+727,28141006609,Cunco,-38.97601,-72.01425,8440,matar,ˈlɐ̝.ŋɘm,,11-l'angümün.csv
+728,28141007209,Nueva Toltén,-39.20931,-73.1312,8440,matar,lɐ̝.ˌŋɘ.ˈmɘn,,11-l'angümün.csv
+729,28141008509,Villarrica,-39.48612,-72.3038,8440,matar,ˌlɐ̝.ŋɘ.ˈmɘn,,11-l'angümün.csv
+730,28141008909,Curarrehue,-39.46788,-71.55193,8440,matar,lɐ̝.ˈŋɘm,,11-l'angümün.csv
+731,28151000109,Mariquina,-39.45147,-73.26457,8440,matar,lɐ̝.ˈŋɘm,,11-l'angümün.csv
+732,28151000409,Lanco,-39.5046,-72.44441,8440,matar,lɐ̝.ˈŋɘm,,11-l'angümün.csv
+733,28151000709,Panguipulli,-39.54399,-72.12614,8440,matar,ˌlɐ̝.ŋɘ.ˈmɐ̝n,,11-l'angümün.csv
+734,28151002309,Valdivia,-39.81291,-72.95438,8440,matar,lɐ̝.ˈŋɘm,,11-l'angümün.csv
+735,28161000309,San Pablo,-40.38308,-73.34988,8440,matar,l̩.d̪ɐ̝.ˈŋɘm,,11-l'angümün.csv
+736,28161001209,S. Juan de la Costa,-40.51004,-73.52129,8440,matar,ˌlɐ̝.ŋɘ.ˈmɪn,,11-l'angümün.csv
+737,28221005509,Chalileo,-36.42252,-66.47321,8440,matar,lɐ̝.ˈŋɘm,,11-l'angümün.csv
+738,28261005309,Picunches,-38.78279,-70.22884,8440,matar,ˌlɐ̝.ŋɘ.ˈmɪ,,11-l'angümün.csv
+739,28261005509,Zapala,-38.85047,-69.74997,8440,matar,ɮɐ̝m.ˈŋën,,11-l'angümün.csv
+740,28261006109,Aluminé,-39.19681,-71.05406,8440,matar,lɐ̝.ˌŋɘm.ˈŋëj,,11-l'angümün.csv
+741,28261007109,Junín de los Andes,-39.82386,-71.28742,8440,matar,ˈlɐ̝.ŋɘ.ˌmɘn,,11-l'angümün.csv
+742,28261007209,Huiliches,-39.63992,-71.18686,8440,matar,ˌlɐ̝.ŋɘ.ˈmɪ,,11-l'angümün.csv
+743,28281000209,Cushamen,-42.23392,-71.34994,8440,matar,lɐ̝.ˌŋɘ.ˈmɘj,,11-l'angümün.csv
+744,28281002209,Futaleufú,-42.95052,-71.18351,8440,matar,lɐ̝.ˌŋɘ.ˈmɘ,,11-l'angümün.csv
+745,28281003209,Lago Rosario,-43.24408,-71.32581,8440,matar,ˌlɐ̝ŋ.ɡɘ̆.ˈmɘn,,11-l'angümün.csv
+746,28001000000,Ref. Spelling,-40.0,-75.5,5110,sol,ɐ̝nt̪ɘ,ant’ü,7-ant'ü.csv
+747,28131006609,Santa Bárbara,-37.67405,-71.80186,5110,sol,ˈɐ̝n̪.t̪ɘ,,7-ant'ü.csv
+748,28131007109,Cañete,-37.96722,-73.39282,5110,sol,ˈɐ̝n̪.t̪ɘ,,7-ant'ü.csv
+749,28131009109,Tirúa,-38.3699,-73.49067,5110,sol,ˈɐ̝n̪.t̪ʰɘ̥,,7-ant'ü.csv
+750,28131009809,Alto Bío Bío,-38.04457,-71.36344,5110,sol,ɐ̝n̪.ˈt̪ɘ,,7-ant'ü.csv
+751,28141000309,Angol,-37.86289,-72.68304,5110,sol,ɐ̝n̪.ˈt̪ɘ,,7-ant'ü.csv
+752,28141001209,Lumaco,-38.17584,-72.89947,5110,sol,ˈɐ̝n̪.t̪ɘ,,7-ant'ü.csv
+753,28141001409,Ercilla,-38.04926,-72.44544,5110,sol,ˈɐ̝n̪.ˈt̪ë,,7-ant'ü.csv
+754,28141002309,Galvarino,-38.40865,-72.78342,5110,sol,ˈɐ̝n̪.t̪ɘ,,7-ant'ü.csv
+755,28141002509,Victoria,-38.35303,-72.19395,5110,sol,ɐ̝n̪.ˈt̪ɘ,,7-ant'ü.csv
+756,28141002809,Lonquimay,-38.42587,-71.37014,5110,sol,ɐ̝n̪.ˈt̪ɘx,,7-ant'ü.csv
+757,28141003209,Chol Chol,-38.51661,-72.97454,5110,sol,ɐ̝n̪.ˈt̪ɘ,,7-ant'ü.csv
+758,28141004309,Dollinco,-38.67157,-72.82837,5110,sol,ɐ̝n̪.ˈt̪ɘ,,7-ant'ü.csv
+759,28141004509,Vilcún,-38.59695,-72.31239,5110,sol,ɐ̝n̪.ˈt̪ɘ,,7-ant'ü.csv
+760,28141005109,Puerto Saavedra,-38.78431,-73.39912,5110,sol,ɐ̝n̪.ˈt̪ɘ,,7-ant'ü.csv
+761,28141005409,Truf Truf,-38.75576,-72.43983,5110,sol,ɐ̝n̪.ˈt̪ɘ,,7-ant'ü.csv
+762,28141005909,Icalma,-38.72338,-71.1847,5110,sol,ɐ̝n̪.ˈt̪ɘ,,7-ant'ü.csv
+763,28141006309,Freire,-38.99144,-72.8833,5110,sol,ɐ̝n̪.ˈt̪ɘ,,7-ant'ü.csv
+764,28141006609,Cunco,-38.97601,-72.01425,5110,sol,ɐ̝n̪.ˈt̪ʊ,,7-ant'ü.csv
+765,28141007209,Nueva Toltén,-39.20931,-73.1312,5110,sol,ɐ̝n̪.ˈd̪ɘ,,7-ant'ü.csv
+766,28141008509,Villarrica,-39.48612,-72.3038,5110,sol,ɐ̝n̪.ˈt̪ɘ,,7-ant'ü.csv
+767,28141008909,Curarrehue,-39.46788,-71.55193,5110,sol,ɐ̝n̪.ˈt̪ɘ,,7-ant'ü.csv
+768,28151000109,Mariquina,-39.45147,-73.26457,5110,sol,ˈɐ̝n̪.t̪ɘ,,7-ant'ü.csv
+769,28151000409,Lanco,-39.5046,-72.44441,5110,sol,ɐ̝n̪.ˈt̪ɘ,,7-ant'ü.csv
+770,28151000709,Panguipulli,-39.54399,-72.12614,5110,sol,ˈɐ̝n̪.t̪ë̥,,7-ant'ü.csv
+771,28151002309,Valdivia,-39.81291,-72.95438,5110,sol,ˈɐ̝n̪.t̪͡θɘ,,7-ant'ü.csv
+772,28161000309,San Pablo,-40.38308,-73.34988,5110,sol,ˈɐ̝n̪.t̪ʊ,,7-ant'ü.csv
+773,28161001209,S. Juan de la Costa,-40.51004,-73.52129,5110,sol,ˈɐ̝n̪.t̪ɘ,,7-ant'ü.csv
+774,28221005509,Chalileo,-36.42252,-66.47321,5110,sol,ɐ̝n̪.t̪ɘ,,7-ant'ü.csv
+775,28261005309,Picunches,-38.78279,-70.22884,5110,sol,ɐ̝n̪.ˈt̪ɘ,,7-ant'ü.csv
+776,28261005509,Zapala,-38.85047,-69.74997,5110,sol,ɐ̝n̪.ˈt̪ɘ,,7-ant'ü.csv
+777,28261006109,Aluminé,-39.19681,-71.05406,5110,sol,ɐ̝n̪.ˈt̪ʊ,,7-ant'ü.csv
+778,28261007109,Junín de los Andes,-39.82386,-71.28742,5110,sol,jɐ̝n̪.ˈt̪ʊ,,7-ant'ü.csv
+779,28261007209,Huiliches,-39.63992,-71.18686,5110,sol,ɐ̝n̪.ˈt̪ɘ,,7-ant'ü.csv
+780,28271006509,Jacobacci,-41.28813,-69.55719,5110,sol,ɐ̝n̪.ˈt̪ɘ,,7-ant'ü.csv
+781,28281000209,Cushamen,-42.23392,-71.34994,5110,sol,ɐ̝n̪.ˈt̪ɘ,,7-ant'ü.csv
+782,28281002209,Futaleufú,-42.95052,-71.18351,5110,sol,ɐ̝n̪.ˈt̪ʊ,,7-ant'ü.csv
+783,28281003209,Lago Rosario,-43.24408,-71.32581,5110,sol,ɐ̝n̪.ˈt̪ɘ,,7-ant'ü.csv
+784,28001000000,Ref. Spelling,-40.0,-75.5,6220,lenya,mɐ̝mɘʎ,mamüll,7-mamüll.csv
+785,28131009809,Alto Bío Bío,-38.04457,-71.36344,6220,lenya,mɐ̝.ˈmɘʎ,,7-mamüll.csv
+786,28141001209,Lumaco,-38.17584,-72.89947,6220,lenya,mɐ̝.ˈmɘʎʎ̥,,7-mamüll.csv
+787,28141001409,Ercilla,-38.04926,-72.44544,6220,lenya,mɐ̝.ˈmɘʎʎ̥,,7-mamüll.csv
+788,28141002309,Galvarino,-38.40865,-72.78342,6220,lenya,mɐ̝.ˈmɘʎ,,7-mamüll.csv
+789,28141002509,Victoria,-38.35303,-72.19395,6220,lenya,mɐ̝.ˈmɘʎ,,7-mamüll.csv
+790,28141002809,Lonquimay,-38.42587,-71.37014,6220,lenya,mɐ̝.ˈmɘʎʎ̥,,7-mamüll.csv
+791,28141003209,Chol Chol,-38.51661,-72.97454,6220,lenya,mɐ̝.ˈmɘʎ,,7-mamüll.csv
+792,28141004309,Dollinco,-38.67157,-72.82837,6220,lenya,mɐ̝.ˈmɘʎ,,7-mamüll.csv
+793,28141005109,Puerto Saavedra,-38.78431,-73.39912,6220,lenya,mɐ̝.ˈmɘʎ̥,,7-mamüll.csv
+794,28141005409,Truf Truf,-38.75576,-72.43983,6220,lenya,mɐ̝.ˈmɘʎ,,7-mamüll.csv
+795,28141006309,Freire,-38.99144,-72.8833,6220,lenya,mɐ̝.ˈmɘʎ,,7-mamüll.csv
+796,28141006609,Cunco,-38.97601,-72.01425,6220,lenya,ˈmɐ̝.mɘʎʎ̥,,7-mamüll.csv
+797,28141007209,Nueva Toltén,-39.20931,-73.1312,6220,lenya,mɐ̝.ˈmɘʎ,,7-mamüll.csv
+798,28141008509,Villarrica,-39.48612,-72.3038,6220,lenya,mɐ̝.ˈmɘʎ,,7-mamüll.csv
+799,28141008909,Curarrehue,-39.46788,-71.55193,6220,lenya,mɐ̝.ˈmɘʎ,,7-mamüll.csv
+800,28151000109,Mariquina,-39.45147,-73.26457,6220,lenya,mɐ̝.ˈmɘʎ,,7-mamüll.csv
+801,28151000409,Lanco,-39.5046,-72.44441,6220,lenya,mɐ̝.ˈmɘʎ,,7-mamüll.csv
+802,28151000709,Panguipulli,-39.54399,-72.12614,6220,lenya,mɐ̝.ˈmɘʎ,,7-mamüll.csv
+803,28161000309,San Pablo,-40.38308,-73.34988,6220,lenya,ˈmɐ̝.mɘʎ,,7-mamüll.csv
+804,28161001209,S. Juan de la Costa,-40.51004,-73.52129,6220,lenya,ˈmɐ̝.mɘʎ̝̥,,7-mamüll.csv
+805,28221005509,Chalileo,-36.42252,-66.47321,6220,lenya,mɐ̝.ˈmɘʎ̝,,7-mamüll.csv
+806,28261005509,Zapala,-38.85047,-69.74997,6220,lenya,mɐ̝.ˈmɘʎ,,7-mamüll.csv
+807,28261006109,Aluminé,-39.19681,-71.05406,6220,lenya,mɐ̝.ˈmɘʎ,,7-mamüll.csv
+808,28261007109,Junín de los Andes,-39.82386,-71.28742,6220,lenya,mɐ̝.ˈmʷɘʎ,,7-mamüll.csv
+809,28261007209,Huiliches,-39.63992,-71.18686,6220,lenya,mɐ̝.ˈmɘʎ,,7-mamüll.csv
+810,28271006509,Jacobacci,-41.28813,-69.55719,6220,lenya,mɐ̝.ˈmɘʎ̝̥,,7-mamüll.csv
+811,28281000209,Cushamen,-42.23392,-71.34994,6220,lenya,mɐ̝.ˈmɘʎʎ̥,,7-mamüll.csv
+812,28281002209,Futaleufú,-42.95052,-71.18351,6220,lenya,mɐ̝.ˈmɘʎ̝̥,,7-mamüll.csv
+813,28281003209,Lago Rosario,-43.24408,-71.32581,6220,lenya,mɐ̝.ˈmɘn,,7-mamüll.csv
+814,28001000000,Ref. Spelling,-40.0,-75.5,7110,grande,fɘtɐ̝,füta,3-füta.csv
+815,28131006609,Santa Bárbara,-37.67405,-71.80186,7110,grande,ʋɘ.ˈt̪ɐ̝,,3-füta.csv
+816,28131007109,Cañete,-37.96722,-73.39282,7110,grande,m̩.ˌbɘ.ˈt͡ʃɐ̝,,3-füta.csv
+817,28131009809,Alto Bío Bío,-38.04457,-71.36344,7110,grande,wɘ.ˈt̪ɐ̝,,3-füta.csv
+818,28141001209,Lumaco,-38.17584,-72.89947,7110,grande,ɸɘː.ˈtʰɐ̝,,3-füta.csv
+819,28141002309,Galvarino,-38.40865,-72.78342,7110,grande,fɘ.ˈt͡ɹ̝̥ɐ̝,,3-füta.csv
+820,28141002509,Victoria,-38.35303,-72.19395,7110,grande,t̪ɐ̝,,3-füta.csv
+821,28141003209,Chol Chol,-38.51661,-72.97454,7110,grande,f̩t̪̚.ˈt̪ɐ̝,,3-füta.csv
+822,28141004309,Dollinco,-38.67157,-72.82837,7110,grande,f̞ɘ̆.ˈt̪ɐ̝,,3-füta.csv
+823,28141005109,Puerto Saavedra,-38.78431,-73.39912,7110,grande,ˈfɘ.tɐ̝,,3-füta.csv
+824,28141005409,Truf Truf,-38.75576,-72.43983,7110,grande,ɸɘ.ˈt̪ɐ̝,,3-füta.csv
+825,28141005909,Icalma,-38.72338,-71.1847,7110,grande,ˈfɘ.t̪ɘ,,3-füta.csv
+826,28141006309,Freire,-38.99144,-72.8833,7110,grande,fɘ.ˈt̺͡s̺ɐ̝,,3-füta.csv
+827,28141006609,Cunco,-38.97601,-72.01425,7110,grande,f̩.ˈt̪ɐ̝,,3-füta.csv
+828,28141008509,Villarrica,-39.48612,-72.3038,7110,grande,fɘ̆.ˈʈ͡ʂɐ̝,,3-füta.csv
+829,28141008909,Curarrehue,-39.46788,-71.55193,7110,grande,f̩t̪̚.ˈt̪ɐ̝n.mɐ̝,,3-füta.csv
+830,28151000109,Mariquina,-39.45147,-73.26457,7110,grande,ˈfɘ.t̪ɐ̝,,3-füta.csv
+831,28151000709,Panguipulli,-39.54399,-72.12614,7110,grande,ft̩̚.ˈtɐ̝ɲ.mɐ̝,,3-füta.csv
+832,28151002309,Valdivia,-39.81291,-72.95438,7110,grande,fɘ̆.ˈʃɐ̝,,3-füta.csv
+833,28161000309,San Pablo,-40.38308,-73.34988,7110,grande,ˈhɘ.t͡ʃɐ̝ɐ̝̥̯,,3-füta.csv
+834,28161001209,S. Juan de la Costa,-40.51004,-73.52129,7110,grande,ˈxʊ.t̪ɐ̝,,3-füta.csv
+835,28261006109,Aluminé,-39.19681,-71.05406,7110,grande,fʊ.ˈt̪ɐ̝j.mɐ̝,,3-füta.csv
+836,28261007109,Junín de los Andes,-39.82386,-71.28742,7110,grande,f̩t̪̚.ˈt̪ɐ̝,,3-füta.csv
+837,28261007209,Huiliches,-39.63992,-71.18686,7110,grande,ft̪̩̚.ˈt̪ɐ̝,,3-füta.csv
+838,28271006509,Jacobacci,-41.28813,-69.55719,7110,grande,f̩t̪̚.ˈʈ͡ʂɐ̝,,3-füta.csv
+839,28281000209,Cushamen,-42.23392,-71.34994,7110,grande,fɘ.ˈt̪ɐ̝,,3-füta.csv
+840,28281002209,Futaleufú,-42.95052,-71.18351,7110,grande,fɘ.ˈt̪ɐ̝,,3-füta.csv
+841,28281003209,Lago Rosario,-43.24408,-71.32581,7110,grande,f̩t̪̚.ˈt̪ɐ̝,,3-füta.csv
+842,28001000000,Ref. Spelling,-40.0,-75.5,8740,coser,ɲɪθɘfɘn,ñidüfün,11-ñidüfün.csv
+843,28131006609,Santa Bárbara,-37.67405,-71.80186,8740,coser,ˌɲɪ.ðɘ.ˈvɐ̝l,,11-ñidüfün.csv
+844,28131007109,Cañete,-37.96722,-73.39282,8740,coser,nɘ.ˈðɘv,,11-ñidüfün.csv
+845,28131009809,Alto Bío Bío,-38.04457,-71.36344,8740,coser,ˌɲɪ.ðɘ.ˈwɘn,,11-ñidüfün.csv
+846,28141000309,Angol,-37.86289,-72.68304,8740,coser,ˌɲɪ.ðɪv.kɐ̝.ˈjɐ̝n,,11-ñidüfün.csv
+847,28141001409,Ercilla,-38.04926,-72.44544,8740,coser,ˌɲɪ.θɘf.ˈkë,,11-ñidüfün.csv
+848,28141002309,Galvarino,-38.40865,-72.78342,8740,coser,ɲɪ.ˌθɘ.ˈfɘn,,11-ñidüfün.csv
+849,28141002509,Victoria,-38.35303,-72.19395,8740,coser,ˌɲɪ.ðɪv.ˈkɐ̝.pɪ,,11-ñidüfün.csv
+850,28141002809,Lonquimay,-38.42587,-71.37014,8740,coser,ɲɘ.d̪ɘf.ˈt̪ʊn,,11-ñidüfün.csv
+851,28141003209,Chol Chol,-38.51661,-72.97454,8740,coser,ˌɲɪ.ˈθɘ.fɘn,,11-ñidüfün.csv
+852,28141004309,Dollinco,-38.67157,-72.82837,8740,coser,ɲɪ.ˈθɘ.fɘn,,11-ñidüfün.csv
+853,28141004509,Vilcún,-38.59695,-72.31239,8740,coser,ˌɲë.ˈðɘf.t̪ɘn,,11-ñidüfün.csv
+854,28141005109,Puerto Saavedra,-38.78431,-73.39912,8740,coser,ɲɪ.ˈθɘ.fɘn,,11-ñidüfün.csv
+855,28141005409,Truf Truf,-38.75576,-72.43983,8740,coser,ɲɪ.ˈsɘ.ˌfɘn,,11-ñidüfün.csv
+856,28141005909,Icalma,-38.72338,-71.1847,8740,coser,ˈɲɘ.θɘf.ˌkɐ̝n,,11-ñidüfün.csv
+857,28141006309,Freire,-38.99144,-72.8833,8740,coser,ɲɘ.ˌθɘf.ˈt̪ʊn,,11-ñidüfün.csv
+858,28141006609,Cunco,-38.97601,-72.01425,8740,coser,ɲɪ.ˌsɘf.ˈt̪ʊn,,11-ñidüfün.csv
+859,28141007209,Nueva Toltén,-39.20931,-73.1312,8740,coser,ˌɲɪ.θɘ.ˈfɘn,,11-ñidüfün.csv
+860,28141008909,Curarrehue,-39.46788,-71.55193,8740,coser,ˌɲɪ.ˈʃɪf.t̪ön,,11-ñidüfün.csv
+861,28151000109,Mariquina,-39.45147,-73.26457,8740,coser,ɲɪ.ˌfɘf.ˈt̪ʊn,,11-ñidüfün.csv
+862,28151000409,Lanco,-39.5046,-72.44441,8740,coser,mʊ.ʃɘf.ˈfɘn,,11-ñidüfün.csv
+863,28151000709,Panguipulli,-39.54399,-72.12614,8740,coser,ŋɘ.ˌʃɪ.ˈfɐ̝n,,11-ñidüfün.csv
+864,28151002309,Valdivia,-39.81291,-72.95438,8740,coser,ɲɪ.ˈθɘf,,11-ñidüfün.csv
+865,28161000309,San Pablo,-40.38308,-73.34988,8740,coser,ˈɲɘ.sɘf.t̪ɘn,,11-ñidüfün.csv
+866,28161001209,S. Juan de la Costa,-40.51004,-73.52129,8740,coser,ˌɲɪ.fɘ̆.ˈt̪ɘn,,11-ñidüfün.csv
+867,28261005309,Picunches,-38.78279,-70.22884,8740,coser,ˌɲɘ.ðɪf.ˈt̪ɘ̯j,,11-ñidüfün.csv
+868,28261006109,Aluminé,-39.19681,-71.05406,8740,coser,ˌɲɪs.θʊ.ˈfɐ̝n,,11-ñidüfün.csv
+869,28261007109,Junín de los Andes,-39.82386,-71.28742,8740,coser,ˈɲɪ.θɘ.fɘn,,11-ñidüfün.csv
+870,28261007209,Huiliches,-39.63992,-71.18686,8740,coser,ɲɪ.θɘ.ˈɸ̞ɘn,,11-ñidüfün.csv
+871,28001000000,Ref. Spelling,-40.0,-75.5,8550,saber,kɪmɘn,kimün,11-kimün.csv
+872,28131006609,Santa Bárbara,-37.67405,-71.80186,8550,saber,cʰɪ.ˈmɘn,,11-kimün.csv
+873,28131007109,Cañete,-37.96722,-73.39282,8550,saber,cʰɪ.ˈmɪ,,11-kimün.csv
+874,28131009109,Tirúa,-38.3699,-73.49067,8550,saber,ˈcʰɪ.mɪ,,11-kimün.csv
+875,28131009809,Alto Bío Bío,-38.04457,-71.36344,8550,saber,tʰɪ.ˈmɘn,,11-kimün.csv
+876,28141000309,Angol,-37.86289,-72.68304,8550,saber,cʰɪ.ˈmɘn,,11-kimün.csv
+877,28141001209,Lumaco,-38.17584,-72.89947,8550,saber,ˈcʰɪm.t̪ʊ.ˌkʊn,,11-kimün.csv
+878,28141001409,Ercilla,-38.04926,-72.44544,8550,saber,çɪ.ˈmɪ,,11-kimün.csv
+879,28141002309,Galvarino,-38.40865,-72.78342,8550,saber,cʰɪ.ˈmɘn,,11-kimün.csv
+880,28141002509,Victoria,-38.35303,-72.19395,8550,saber,cɪ.ˈmɪ,,11-kimün.csv
+881,28141002809,Lonquimay,-38.42587,-71.37014,8550,saber,cʰɪ.ˈmɘn,,11-kimün.csv
+882,28141003209,Chol Chol,-38.51661,-72.97454,8550,saber,cʰɪ.ˈmɘn,,11-kimün.csv
+883,28141004309,Dollinco,-38.67157,-72.82837,8550,saber,cʰɪ.ˈmɘn,,11-kimün.csv
+884,28141004509,Vilcún,-38.59695,-72.31239,8550,saber,cʰɪ.ˈmɘn,,11-kimün.csv
+885,28141005109,Puerto Saavedra,-38.78431,-73.39912,8550,saber,cʰɪ.ˈmɘn,,11-kimün.csv
+886,28141005409,Truf Truf,-38.75576,-72.43983,8550,saber,cɪ.ˈmɘn,,11-kimün.csv
+887,28141005909,Icalma,-38.72338,-71.1847,8550,saber,cʰɪ.ˈmɘn,,11-kimün.csv
+888,28141006309,Freire,-38.99144,-72.8833,8550,saber,cɪ.ˈmɘn,,11-kimün.csv
+889,28141006609,Cunco,-38.97601,-72.01425,8550,saber,cʰɪ.ˈmɘn,,11-kimün.csv
+890,28141007209,Nueva Toltén,-39.20931,-73.1312,8550,saber,cɪ.ˈmɘn,,11-kimün.csv
+891,28141008509,Villarrica,-39.48612,-72.3038,8550,saber,cʰɪ.ˈmɘn,,11-kimün.csv
+892,28141008909,Curarrehue,-39.46788,-71.55193,8550,saber,cʰɪ.ˈmɘn,,11-kimün.csv
+893,28151000109,Mariquina,-39.45147,-73.26457,8550,saber,cɘ.ˈmɘn,,11-kimün.csv
+894,28151000409,Lanco,-39.5046,-72.44441,8550,saber,cʰɪ.ˈmɘn,,11-kimün.csv
+895,28151000709,Panguipulli,-39.54399,-72.12614,8550,saber,cʰɪ.ˈmɘn,,11-kimün.csv
+896,28151002309,Valdivia,-39.81291,-72.95438,8550,saber,cʰɪm.ˈjɘn,,11-kimün.csv
+897,28161000309,San Pablo,-40.38308,-73.34988,8550,saber,cʰɪ.ˈmɘn,,11-kimün.csv
+898,28161001209,S. Juan de la Costa,-40.51004,-73.52129,8550,saber,cʰɪ.ˈmɪn,,11-kimün.csv
+899,28221005509,Chalileo,-36.42252,-66.47321,8550,saber,cʰɪ.ˈmɘn,,11-kimün.csv
+900,28261005309,Picunches,-38.78279,-70.22884,8550,saber,çɪ.ˈmɘj,,11-kimün.csv
+901,28261005509,Zapala,-38.85047,-69.74997,8550,saber,cʰɪ.ˈmɘn,,11-kimün.csv
+902,28261006109,Aluminé,-39.19681,-71.05406,8550,saber,cʰɪ.ˈmɐ̝.fɪɲ,,11-kimün.csv
+903,28261007109,Junín de los Andes,-39.82386,-71.28742,8550,saber,cʰɪ̆.ˈmɘn,,11-kimün.csv
+904,28261007209,Huiliches,-39.63992,-71.18686,8550,saber,çɪ.ˈmɘn,,11-kimün.csv
+905,28281000209,Cushamen,-42.23392,-71.34994,8550,saber,cʰɪ.ˈmɘj,,11-kimün.csv
+906,28001000000,Ref. Spelling,-40.0,-75.5,2230,lengua,këwɘn̪,kewün’,4-kewün.csv
+907,28131006609,Santa Bárbara,-37.67405,-71.80186,2230,lengua,cʰë.ˈwɘn,,4-kewün.csv
+908,28131007109,Cañete,-37.96722,-73.39282,2230,lengua,ˈcʰë.wɘn,,4-kewün.csv
+909,28131009109,Tirúa,-38.3699,-73.49067,2230,lengua,ˈkë.wɘn,,4-kewün.csv
+910,28131009809,Alto Bío Bío,-38.04457,-71.36344,2230,lengua,kʰë.ˈwɘn,,4-kewün.csv
+911,28141000309,Angol,-37.86289,-72.68304,2230,lengua,cʰë.ˈwɘn,,4-kewün.csv
+912,28141001209,Lumaco,-38.17584,-72.89947,2230,lengua,çë.ˈwɘn,,4-kewün.csv
+913,28141001409,Ercilla,-38.04926,-72.44544,2230,lengua,kʰë.ˈwɘn,,4-kewün.csv
+914,28141002309,Galvarino,-38.40865,-72.78342,2230,lengua,cʰë.ˈwɘn,,4-kewün.csv
+915,28141002509,Victoria,-38.35303,-72.19395,2230,lengua,cʰë.ˈwɘn,,4-kewün.csv
+916,28141002809,Lonquimay,-38.42587,-71.37014,2230,lengua,cʰë.ˈwɘn,,4-kewün.csv
+917,28141003209,Chol Chol,-38.51661,-72.97454,2230,lengua,cʰë.ˈwɘn,,4-kewün.csv
+918,28141004309,Dollinco,-38.67157,-72.82837,2230,lengua,cʰë.ˈwɘn,,4-kewün.csv
+919,28141004509,Vilcún,-38.59695,-72.31239,2230,lengua,cʰë.ˈwɘn,,4-kewün.csv
+920,28141005109,Puerto Saavedra,-38.78431,-73.39912,2230,lengua,cʰë.ˈwɘn,,4-kewün.csv
+921,28141005409,Truf Truf,-38.75576,-72.43983,2230,lengua,cʰë.ˈwɘn,,4-kewün.csv
+922,28141005909,Icalma,-38.72338,-71.1847,2230,lengua,cʰë.ˈwɘn,,4-kewün.csv
+923,28141006309,Freire,-38.99144,-72.8833,2230,lengua,cʰë.ˈwɘn,,4-kewün.csv
+924,28141006609,Cunco,-38.97601,-72.01425,2230,lengua,ˌcʰë.ˈwɘn,,4-kewün.csv
+925,28141007209,Nueva Toltén,-39.20931,-73.1312,2230,lengua,cë.ˈwɘn,,4-kewün.csv
+926,28141008509,Villarrica,-39.48612,-72.3038,2230,lengua,kʰë.ˈwɘn,,4-kewün.csv
+927,28141008909,Curarrehue,-39.46788,-71.55193,2230,lengua,kʰë.ˈwɘn,,4-kewün.csv
+928,28151000109,Mariquina,-39.45147,-73.26457,2230,lengua,cʰë.ˈwɘn,,4-kewün.csv
+929,28151000409,Lanco,-39.5046,-72.44441,2230,lengua,cʰë.ˈwɘn,,4-kewün.csv
+930,28151000709,Panguipulli,-39.54399,-72.12614,2230,lengua,cʰë.ˈwɘn,,4-kewün.csv
+931,28151002309,Valdivia,-39.81291,-72.95438,2230,lengua,cʰë.ˈwɘn,,4-kewün.csv
+932,28161000309,San Pablo,-40.38308,-73.34988,2230,lengua,ˈcʰë.wɘn,,4-kewün.csv
+933,28161001209,S. Juan de la Costa,-40.51004,-73.52129,2230,lengua,ˈcʰë.wɘn̪,,4-kewün.csv
+934,28221005509,Chalileo,-36.42252,-66.47321,2230,lengua,kʰë.ˈwɘn,,4-kewün.csv
+935,28261005309,Picunches,-38.78279,-70.22884,2230,lengua,c͡çë.ˈwɘn,,4-kewün.csv
+936,28261005509,Zapala,-38.85047,-69.74997,2230,lengua,cʰë.ˈwɘn,,4-kewün.csv
+937,28261006109,Aluminé,-39.19681,-71.05406,2230,lengua,cʰë.ˈwɘn,,4-kewün.csv
+938,28261007109,Junín de los Andes,-39.82386,-71.28742,2230,lengua,cë.ˈwɘn,,4-kewün.csv
+939,28261007209,Huiliches,-39.63992,-71.18686,2230,lengua,cʰë.ˈwɘn,,4-kewün.csv
+940,28271006509,Jacobacci,-41.28813,-69.55719,2230,lengua,kʰë.ˈwɘn,,4-kewün.csv
+941,28281000209,Cushamen,-42.23392,-71.34994,2230,lengua,kʰë.ˈwɘn,,4-kewün.csv
+942,28281002209,Futaleufú,-42.95052,-71.18351,2230,lengua,fë.ˈwɘn,,4-kewün.csv
+943,28281003209,Lago Rosario,-43.24408,-71.32581,2230,lengua,cʰë.ˈwɘn,,4-kewün.csv
+944,28001000000,Ref. Spelling,-40.0,-75.5,6410,campo,lëlfɘn,lelfün,7-lelfün.csv
+945,28131006609,Santa Bárbara,-37.67405,-71.80186,6410,campo,ˈlël.vɘn,,7-lelfün.csv
+946,28131007109,Cañete,-37.96722,-73.39282,6410,campo,ˈlël.vɘn,,7-lelfün.csv
+947,28131009109,Tirúa,-38.3699,-73.49067,6410,campo,lël.ˈʋɪn,,7-lelfün.csv
+948,28131009809,Alto Bío Bío,-38.04457,-71.36344,6410,campo,lël.ˈvɘn,,7-lelfün.csv
+949,28141000309,Angol,-37.86289,-72.68304,6410,campo,lël.ˈbɘ,,7-lelfün.csv
+950,28141001209,Lumaco,-38.17584,-72.89947,6410,campo,ˈlël.vɘn,,7-lelfün.csv
+951,28141001409,Ercilla,-38.04926,-72.44544,6410,campo,lël.ˈfɘn,,7-lelfün.csv
+952,28141002309,Galvarino,-38.40865,-72.78342,6410,campo,lël.ˈfɘn,,7-lelfün.csv
+953,28141002509,Victoria,-38.35303,-72.19395,6410,campo,lël.ˈfɘn,,7-lelfün.csv
+954,28141003209,Chol Chol,-38.51661,-72.97454,6410,campo,lël.ˈfɘn,,7-lelfün.csv
+955,28141004309,Dollinco,-38.67157,-72.82837,6410,campo,lël.ˈfɘn,,7-lelfün.csv
+956,28141004509,Vilcún,-38.59695,-72.31239,6410,campo,lël.ˈfɘn,,7-lelfün.csv
+957,28141005109,Puerto Saavedra,-38.78431,-73.39912,6410,campo,lël.ˈfɘn,,7-lelfün.csv
+958,28141005409,Truf Truf,-38.75576,-72.43983,6410,campo,nël̥.ˈfɘn,,7-lelfün.csv
+959,28141005909,Icalma,-38.72338,-71.1847,6410,campo,lël.ˈfɘn,,7-lelfün.csv
+960,28141006309,Freire,-38.99144,-72.8833,6410,campo,lël.ˈfɘn,,7-lelfün.csv
+961,28141006609,Cunco,-38.97601,-72.01425,6410,campo,lël.ˈfɘn,,7-lelfün.csv
+962,28141007209,Nueva Toltén,-39.20931,-73.1312,6410,campo,lël.ˈfɘn,,7-lelfün.csv
+963,28141008509,Villarrica,-39.48612,-72.3038,6410,campo,lël.ˈfɘn,,7-lelfün.csv
+964,28141008909,Curarrehue,-39.46788,-71.55193,6410,campo,lël.ˈfɘn,,7-lelfün.csv
+965,28151000109,Mariquina,-39.45147,-73.26457,6410,campo,ˌlël.ˈfɘn,,7-lelfün.csv
+966,28151000409,Lanco,-39.5046,-72.44441,6410,campo,lël.ˈfɘn,,7-lelfün.csv
+967,28151000709,Panguipulli,-39.54399,-72.12614,6410,campo,lël.ˈfwɘn,,7-lelfün.csv
+968,28151002309,Valdivia,-39.81291,-72.95438,6410,campo,lël.ˈfɘn,,7-lelfün.csv
+969,28221005509,Chalileo,-36.42252,-66.47321,6410,campo,lël.ˈvɘn,,7-lelfün.csv
+970,28261005309,Picunches,-38.78279,-70.22884,6410,campo,ɮël̝.ˈfɘn,,7-lelfün.csv
+971,28261005509,Zapala,-38.85047,-69.74997,6410,campo,lël.ˈp͡ɸʊm,,7-lelfün.csv
+972,28261007109,Junín de los Andes,-39.82386,-71.28742,6410,campo,lël.ˈfɘn,,7-lelfün.csv
+973,28261007209,Huiliches,-39.63992,-71.18686,6410,campo,lël.ˈfɘn,,7-lelfün.csv
+974,28281000209,Cushamen,-42.23392,-71.34994,6410,campo,lëw.ˈfɘn,,7-lelfün.csv
+975,28281003209,Lago Rosario,-43.24408,-71.32581,6410,campo,lël.ˈfɘn,,7-lelfün.csv
+976,28001000000,Ref. Spelling,-40.0,-75.5,30,tres,kɘlɐ̝,küla,1-küla.csv
+977,28131006609,Santa Bárbara,-37.67405,-71.80186,30,tres,kʰɘ.ˈlɐ̝,,1-küla.csv
+978,28131007109,Cañete,-37.96722,-73.39282,30,tres,ˈkʰɘ.lɐ̝,,1-küla.csv
+979,28131009109,Tirúa,-38.3699,-73.49067,30,tres,ˈkɘ.lɐ̝,,1-küla.csv
+980,28131009809,Alto Bío Bío,-38.04457,-71.36344,30,tres,kɘ.ˈlɐ̝,,1-küla.csv
+981,28141000309,Angol,-37.86289,-72.68304,30,tres,ˈkʰɘ.lɐ̝,,1-küla.csv
+982,28141001209,Lumaco,-38.17584,-72.89947,30,tres,ˈkɘ.lɐ̝,,1-küla.csv
+983,28141001409,Ercilla,-38.04926,-72.44544,30,tres,kʰɘ.ˈlɐ̝,,1-küla.csv
+984,28141002309,Galvarino,-38.40865,-72.78342,30,tres,ˈkʰɘ.lɐ̝,,1-küla.csv
+985,28141002509,Victoria,-38.35303,-72.19395,30,tres,ˈkʰɘ.lɐ̝,,1-küla.csv
+986,28141002809,Lonquimay,-38.42587,-71.37014,30,tres,ˈkɘ.lɐ̝ɐ̝̥̯,,1-küla.csv
+987,28141003209,Chol Chol,-38.51661,-72.97454,30,tres,ˈkʰɘ.lɐ̝,,1-küla.csv
+988,28141004309,Dollinco,-38.67157,-72.82837,30,tres,kɘ̆.ˈlɐ̝,,1-küla.csv
+989,28141004509,Vilcún,-38.59695,-72.31239,30,tres,ˈkʰɘ.lɐ̝,,1-küla.csv
+990,28141005109,Puerto Saavedra,-38.78431,-73.39912,30,tres,ˈkʰɘ.lɐ̝,,1-küla.csv
+991,28141005409,Truf Truf,-38.75576,-72.43983,30,tres,kʰl̩.ˈlɐ̝,,1-küla.csv
+992,28141005909,Icalma,-38.72338,-71.1847,30,tres,kl̩.ˈlɐ̝,,1-küla.csv
+993,28141006309,Freire,-38.99144,-72.8833,30,tres,ˈkʰɘ.lɐ̝,,1-küla.csv
+994,28141006609,Cunco,-38.97601,-72.01425,30,tres,kʰɘ.ˈlɐ̝,,1-küla.csv
+995,28141007209,Nueva Toltén,-39.20931,-73.1312,30,tres,kʰɘl.ˈlɐ̝,,1-küla.csv
+996,28141008509,Villarrica,-39.48612,-72.3038,30,tres,kɘ̆l.ˈlɐ̝,,1-küla.csv
+997,28141008909,Curarrehue,-39.46788,-71.55193,30,tres,ˈkʰɘ.lɐ̝,,1-küla.csv
+998,28151000109,Mariquina,-39.45147,-73.26457,30,tres,ˈkɘ.lɐ̝,,1-küla.csv
+999,28151000409,Lanco,-39.5046,-72.44441,30,tres,kʰlɐ̝,,1-küla.csv
+1000,28151000709,Panguipulli,-39.54399,-72.12614,30,tres,ˈkʰɘ.lɐ̝,,1-küla.csv
+1001,28151002309,Valdivia,-39.81291,-72.95438,30,tres,ˈkʰɘ.lɐ̝,,1-küla.csv
+1002,28161000309,San Pablo,-40.38308,-73.34988,30,tres,ˈkʰɘ.lɐ̝,,1-küla.csv
+1003,28161001209,S. Juan de la Costa,-40.51004,-73.52129,30,tres,ˈxɘ.lə,,1-küla.csv
+1004,28221005509,Chalileo,-36.42252,-66.47321,30,tres,kʰɘ.ˈlɐ̝,,1-küla.csv
+1005,28261005309,Picunches,-38.78279,-70.22884,30,tres,kɘ.ˈɮɐ̝,,1-küla.csv
+1006,28261005509,Zapala,-38.85047,-69.74997,30,tres,kɘ.ˈlɐ̝,,1-küla.csv
+1007,28261006109,Aluminé,-39.19681,-71.05406,30,tres,kʰɘ̆.ˈlɐ̝,,1-küla.csv
+1008,28261007109,Junín de los Andes,-39.82386,-71.28742,30,tres,kl̩.ˈlɐ̝,,1-küla.csv
+1009,28261007209,Huiliches,-39.63992,-71.18686,30,tres,kʰl̥̩.ˈlɐ̝,,1-küla.csv
+1010,28271006509,Jacobacci,-41.28813,-69.55719,30,tres,kɘ̆.ˈlɐ̝,,1-küla.csv
+1011,28281000209,Cushamen,-42.23392,-71.34994,30,tres,kʰɘ.ˈlɐ̝,,1-küla.csv
+1012,28281002209,Futaleufú,-42.95052,-71.18351,30,tres,kɘ.ˈlɐ̝,,1-küla.csv
+1013,28281003209,Lago Rosario,-43.24408,-71.32581,30,tres,kʰɘ.ˈlɐ̝,,1-küla.csv
+1014,28001000000,Ref. Spelling,-40.0,-75.5,6810,camino,ʐɘpɘ,rüpü,10-rüpü.csv
+1015,28131006609,Santa Bárbara,-37.67405,-71.80186,6810,camino,ˈʐ̞ɘ.pɘ,,10-rüpü.csv
+1016,28131007109,Cañete,-37.96722,-73.39282,6810,camino,ˈɻɘ.pɘ,,10-rüpü.csv
+1017,28131009109,Tirúa,-38.3699,-73.49067,6810,camino,ˈëɻ.pʊ̥,,10-rüpü.csv
+1018,28131009809,Alto Bío Bío,-38.04457,-71.36344,6810,camino,ˈɻɘ.pɘ,,10-rüpü.csv
+1019,28141000309,Angol,-37.86289,-72.68304,6810,camino,ˈɻɘ.pɘ,,10-rüpü.csv
+1020,28141001209,Lumaco,-38.17584,-72.89947,6810,camino,ˈʐë.pʊ,,10-rüpü.csv
+1021,28141001409,Ercilla,-38.04926,-72.44544,6810,camino,ɻ̩.ˈpɘ,,10-rüpü.csv
+1022,28141002309,Galvarino,-38.40865,-72.78342,6810,camino,ˈɻɘ.pɘ,,10-rüpü.csv
+1023,28141002509,Victoria,-38.35303,-72.19395,6810,camino,ɻɘ.ˈpɘ,,10-rüpü.csv
+1024,28141002809,Lonquimay,-38.42587,-71.37014,6810,camino,ˈɻɘ.pɘ,,10-rüpü.csv
+1025,28141003209,Chol Chol,-38.51661,-72.97454,6810,camino,ɻ̩ː.ˈpʊ,,10-rüpü.csv
+1026,28141004309,Dollinco,-38.67157,-72.82837,6810,camino,ʐɘ.ˈpɘ,,10-rüpü.csv
+1027,28141004509,Vilcún,-38.59695,-72.31239,6810,camino,ɻɘ.ˈpɘ,,10-rüpü.csv
+1028,28141005109,Puerto Saavedra,-38.78431,-73.39912,6810,camino,ʐɘ.ˈpɘ,,10-rüpü.csv
+1029,28141005409,Truf Truf,-38.75576,-72.43983,6810,camino,ˈr̝ɘ.pɘ,,10-rüpü.csv
+1030,28141005909,Icalma,-38.72338,-71.1847,6810,camino,ɻɘ.ˈpɘ,,10-rüpü.csv
+1031,28141006309,Freire,-38.99144,-72.8833,6810,camino,ɻɘ.ˈpɘ,,10-rüpü.csv
+1032,28141006609,Cunco,-38.97601,-72.01425,6810,camino,ʐʊ.ˈpʊ,,10-rüpü.csv
+1033,28141007209,Nueva Toltén,-39.20931,-73.1312,6810,camino,ˈɻɘ.pɘ,,10-rüpü.csv
+1034,28141008509,Villarrica,-39.48612,-72.3038,6810,camino,ɻɘ.ˈpɘ,,10-rüpü.csv
+1035,28141008909,Curarrehue,-39.46788,-71.55193,6810,camino,ɻɘ.ˈpɘ,,10-rüpü.csv
+1036,28151000109,Mariquina,-39.45147,-73.26457,6810,camino,ˈɻɘ.pɪ,,10-rüpü.csv
+1037,28151000409,Lanco,-39.5046,-72.44441,6810,camino,ˈɖ͡ʐɘ.pɘ,,10-rüpü.csv
+1038,28151000709,Panguipulli,-39.54399,-72.12614,6810,camino,ˈɻɘ.pɘ,,10-rüpü.csv
+1039,28151002309,Valdivia,-39.81291,-72.95438,6810,camino,ˈɻɘ.pɘ,,10-rüpü.csv
+1040,28161000309,San Pablo,-40.38308,-73.34988,6810,camino,ˈʂʊ.bö,,10-rüpü.csv
+1041,28161001209,S. Juan de la Costa,-40.51004,-73.52129,6810,camino,ˈʂɘ.pɘ,,10-rüpü.csv
+1042,28221005509,Chalileo,-36.42252,-66.47321,6810,camino,ɻɘ.ˈpɘ,,10-rüpü.csv
+1043,28261005309,Picunches,-38.78279,-70.22884,6810,camino,ɻɘ.ˈɸɘ,,10-rüpü.csv
+1044,28261005509,Zapala,-38.85047,-69.74997,6810,camino,ʐɘ.ˈpɘ,,10-rüpü.csv
+1045,28261006109,Aluminé,-39.19681,-71.05406,6810,camino,ʐɘ.ˈpɘ,,10-rüpü.csv
+1046,28261007109,Junín de los Andes,-39.82386,-71.28742,6810,camino,ɻɘ.ˈɸɘ,,10-rüpü.csv
+1047,28261007209,Huiliches,-39.63992,-71.18686,6810,camino,ɻɘ.ˈpɘ,,10-rüpü.csv
+1048,28271006509,Jacobacci,-41.28813,-69.55719,6810,camino,ʐɘ.ˈpɘ,,10-rüpü.csv
+1049,28281000209,Cushamen,-42.23392,-71.34994,6810,camino,ʐʊ.ˈpɘ,,10-rüpü.csv
+1050,28281002209,Futaleufú,-42.95052,-71.18351,6810,camino,ʐɘ.ˈɸʊ,,10-rüpü.csv
+1051,28281003209,Lago Rosario,-43.24408,-71.32581,6810,camino,ɻɘ.ˈpɘ,,10-rüpü.csv
+1052,28001000000,Ref. Spelling,-40.0,-75.5,20790,noble,ɣɘlmën,gülmen,3-gülmen.csv
+1053,28131006609,Santa Bárbara,-37.67405,-71.80186,20790,noble,ɣɘl.ˈmën,,3-gülmen.csv
+1054,28131007109,Cañete,-37.96722,-73.39282,20790,noble,ɡɘl.ˈmën,,3-gülmen.csv
+1055,28131009109,Tirúa,-38.3699,-73.49067,20790,noble,ˈɪl.mën,,3-gülmen.csv
+1056,28131009809,Alto Bío Bío,-38.04457,-71.36344,20790,noble,ɘɮ.ˈmën,,3-gülmen.csv
+1057,28141001209,Lumaco,-38.17584,-72.89947,20790,noble,ɣɘl.ˈmëɲ,,3-gülmen.csv
+1058,28141001409,Ercilla,-38.04926,-72.44544,20790,noble,ɘl.ˈmën,,3-gülmen.csv
+1059,28141002309,Galvarino,-38.40865,-72.78342,20790,noble,ɘl.ˈmën,,3-gülmen.csv
+1060,28141002509,Victoria,-38.35303,-72.19395,20790,noble,ɘl.ˈmën,,3-gülmen.csv
+1061,28141003209,Chol Chol,-38.51661,-72.97454,20790,noble,ɘl.ˈmën,,3-gülmen.csv
+1062,28141005109,Puerto Saavedra,-38.78431,-73.39912,20790,noble,ɘl.ˈmën,,3-gülmen.csv
+1063,28141005409,Truf Truf,-38.75576,-72.43983,20790,noble,ɘl.ˈmën,,3-gülmen.csv
+1064,28141005909,Icalma,-38.72338,-71.1847,20790,noble,ɣɘl.ˈmën,,3-gülmen.csv
+1065,28141006309,Freire,-38.99144,-72.8833,20790,noble,ɘl.ˈmën,,3-gülmen.csv
+1066,28141006609,Cunco,-38.97601,-72.01425,20790,noble,ɘl.ˈmën,,3-gülmen.csv
+1067,28141007209,Nueva Toltén,-39.20931,-73.1312,20790,noble,ˈʊl.mën,,3-gülmen.csv
+1068,28141008509,Villarrica,-39.48612,-72.3038,20790,noble,ɘl.ˈmën,,3-gülmen.csv
+1069,28141008909,Curarrehue,-39.46788,-71.55193,20790,noble,ɣɘl.ˈmën,,3-gülmen.csv
+1070,28151000109,Mariquina,-39.45147,-73.26457,20790,noble,ɡɘ̆l.ˈmën,,3-gülmen.csv
+1071,28151000409,Lanco,-39.5046,-72.44441,20790,noble,ɣɘl.ˈmën,,3-gülmen.csv
+1072,28151000709,Panguipulli,-39.54399,-72.12614,20790,noble,ɣɘl.ˈmën,,3-gülmen.csv
+1073,28151002309,Valdivia,-39.81291,-72.95438,20790,noble,ɘl.ˈmën,,3-gülmen.csv
+1074,28161000309,San Pablo,-40.38308,-73.34988,20790,noble,ˈkɘl.mën,,3-gülmen.csv
+1075,28161001209,S. Juan de la Costa,-40.51004,-73.52129,20790,noble,ɘl.ˈmën,,3-gülmen.csv
+1076,28261007209,Huiliches,-39.63992,-71.18686,20790,noble,ɣɘl.ˈmën,,3-gülmen.csv
+1077,28271006509,Jacobacci,-41.28813,-69.55719,20790,noble,ɘl.ˈmën,,3-gülmen.csv
+1078,28281002209,Futaleufú,-42.95052,-71.18351,20790,noble,ʊɮ.ˈmën,,3-gülmen.csv
+1079,28001000000,Ref. Spelling,-40.0,-75.5,5120,luna,kɘjën,küyen,7-küyen.csv
+1080,28131006609,Santa Bárbara,-37.67405,-71.80186,5120,luna,kɘ.ˈjën,,7-küyen.csv
+1081,28131007109,Cañete,-37.96722,-73.39282,5120,luna,ˈkʊ.ʎɪn,,7-küyen.csv
+1082,28131009109,Tirúa,-38.3699,-73.49067,5120,luna,kʰɘ.ˈjën,,7-küyen.csv
+1083,28131009809,Alto Bío Bío,-38.04457,-71.36344,5120,luna,kɘ.ˈjën,,7-küyen.csv
+1084,28141000309,Angol,-37.86289,-72.68304,5120,luna,kɘ.ˈjën,,7-küyen.csv
+1085,28141001209,Lumaco,-38.17584,-72.89947,5120,luna,kɘ.ˈʝën,,7-küyen.csv
+1086,28141001409,Ercilla,-38.04926,-72.44544,5120,luna,kɘ.ˈjën,,7-küyen.csv
+1087,28141002309,Galvarino,-38.40865,-72.78342,5120,luna,kʰɘ̆.ˈʝën,,7-küyen.csv
+1088,28141002509,Victoria,-38.35303,-72.19395,5120,luna,kɘ̆.ˈjën,,7-küyen.csv
+1089,28141002809,Lonquimay,-38.42587,-71.37014,5120,luna,kɘ.ˈʝën,,7-küyen.csv
+1090,28141003209,Chol Chol,-38.51661,-72.97454,5120,luna,kʰɘ.ˈjën,,7-küyen.csv
+1091,28141004309,Dollinco,-38.67157,-72.82837,5120,luna,kʰɘ.ˈʝën,,7-küyen.csv
+1092,28141004509,Vilcún,-38.59695,-72.31239,5120,luna,kʰɘ.ˈʝën,,7-küyen.csv
+1093,28141005109,Puerto Saavedra,-38.78431,-73.39912,5120,luna,kɘ.ˈjën,,7-küyen.csv
+1094,28141005409,Truf Truf,-38.75576,-72.43983,5120,luna,kɘ.ˈʒën,,7-küyen.csv
+1095,28141005909,Icalma,-38.72338,-71.1847,5120,luna,kʰɘ.ˈjën,,7-küyen.csv
+1096,28141006309,Freire,-38.99144,-72.8833,5120,luna,kʰɘ.ˈjën,,7-küyen.csv
+1097,28141006609,Cunco,-38.97601,-72.01425,5120,luna,kɘ.ˈʒën,,7-küyen.csv
+1098,28141007209,Nueva Toltén,-39.20931,-73.1312,5120,luna,kʰɘ.ˈjën,,7-küyen.csv
+1099,28141008509,Villarrica,-39.48612,-72.3038,5120,luna,kʰɘ̆.ˈʝën,,7-küyen.csv
+1100,28141008909,Curarrehue,-39.46788,-71.55193,5120,luna,kʰɘ.ˈjën,,7-küyen.csv
+1101,28151000109,Mariquina,-39.45147,-73.26457,5120,luna,kë.ˈjɪŋ,,7-küyen.csv
+1102,28151000409,Lanco,-39.5046,-72.44441,5120,luna,kʰɘ.ˈjën,,7-küyen.csv
+1103,28151000709,Panguipulli,-39.54399,-72.12614,5120,luna,kɘ.ˈjën,,7-küyen.csv
+1104,28151002309,Valdivia,-39.81291,-72.95438,5120,luna,kʰɘ.ˈjën,,7-küyen.csv
+1105,28161000309,San Pablo,-40.38308,-73.34988,5120,luna,cʰɪ.ˈjën,,7-küyen.csv
+1106,28221005509,Chalileo,-36.42252,-66.47321,5120,luna,kʰʊ.ˈjën,,7-küyen.csv
+1107,28261005309,Picunches,-38.78279,-70.22884,5120,luna,kʰɘ.ˈjën,,7-küyen.csv
+1108,28261005509,Zapala,-38.85047,-69.74997,5120,luna,kʰɘ.ˈjën,,7-küyen.csv
+1109,28261006109,Aluminé,-39.19681,-71.05406,5120,luna,ˌkʰɘ.ˈjën,,7-küyen.csv
+1110,28261007109,Junín de los Andes,-39.82386,-71.28742,5120,luna,kɘ.ˈjën,,7-küyen.csv
+1111,28261007209,Huiliches,-39.63992,-71.18686,5120,luna,kɘ.ˈjën,,7-küyen.csv
+1112,28271006509,Jacobacci,-41.28813,-69.55719,5120,luna,kʰɘ.ˈjën,,7-küyen.csv
+1113,28281000209,Cushamen,-42.23392,-71.34994,5120,luna,kʰɘ.ˈjën,,7-küyen.csv
+1114,28281002209,Futaleufú,-42.95052,-71.18351,5120,luna,kʰɘ.ˈjën,,7-küyen.csv
+1115,28281003209,Lago Rosario,-43.24408,-71.32581,5120,luna,kʰɘ.ˈjën,,7-küyen.csv
+1116,28001000000,Ref. Spelling,-40.0,-75.5,2210,boca,wɘn̪,wün’,4-wün.csv
+1117,28131006609,Santa Bárbara,-37.67405,-71.80186,2210,boca,wɘn,,4-wün.csv
+1118,28131007109,Cañete,-37.96722,-73.39282,2210,boca,wɘn,,4-wün.csv
+1119,28131009109,Tirúa,-38.3699,-73.49067,2210,boca,wɘn,,4-wün.csv
+1120,28131009809,Alto Bío Bío,-38.04457,-71.36344,2210,boca,wɘn,,4-wün.csv
+1121,28141000309,Angol,-37.86289,-72.68304,2210,boca,wɘn,,4-wün.csv
+1122,28141001209,Lumaco,-38.17584,-72.89947,2210,boca,wɘn,,4-wün.csv
+1123,28141001409,Ercilla,-38.04926,-72.44544,2210,boca,wɘn,,4-wün.csv
+1124,28141002309,Galvarino,-38.40865,-72.78342,2210,boca,wɘn,,4-wün.csv
+1125,28141002509,Victoria,-38.35303,-72.19395,2210,boca,vɘn,,4-wün.csv
+1126,28141002809,Lonquimay,-38.42587,-71.37014,2210,boca,wɘn,,4-wün.csv
+1127,28141003209,Chol Chol,-38.51661,-72.97454,2210,boca,wɘn,,4-wün.csv
+1128,28141004309,Dollinco,-38.67157,-72.82837,2210,boca,wɘn,,4-wün.csv
+1129,28141004509,Vilcún,-38.59695,-72.31239,2210,boca,wɘn,,4-wün.csv
+1130,28141005109,Puerto Saavedra,-38.78431,-73.39912,2210,boca,ɡwɘn,,4-wün.csv
+1131,28141005409,Truf Truf,-38.75576,-72.43983,2210,boca,wɘn,,4-wün.csv
+1132,28141005909,Icalma,-38.72338,-71.1847,2210,boca,wɘn,,4-wün.csv
+1133,28141006309,Freire,-38.99144,-72.8833,2210,boca,wɘn,,4-wün.csv
+1134,28141006609,Cunco,-38.97601,-72.01425,2210,boca,wɘn,,4-wün.csv
+1135,28141007209,Nueva Toltén,-39.20931,-73.1312,2210,boca,wɘn,,4-wün.csv
+1136,28141008509,Villarrica,-39.48612,-72.3038,2210,boca,wɘn,,4-wün.csv
+1137,28141008909,Curarrehue,-39.46788,-71.55193,2210,boca,wɘn,,4-wün.csv
+1138,28151000109,Mariquina,-39.45147,-73.26457,2210,boca,wɘn,,4-wün.csv
+1139,28151000409,Lanco,-39.5046,-72.44441,2210,boca,wɘn,,4-wün.csv
+1140,28151000709,Panguipulli,-39.54399,-72.12614,2210,boca,wɘn,,4-wün.csv
+1141,28151002309,Valdivia,-39.81291,-72.95438,2210,boca,wɘn,,4-wün.csv
+1142,28161000309,San Pablo,-40.38308,-73.34988,2210,boca,m̩.ˈbɘn,,4-wün.csv
+1143,28161001209,S. Juan de la Costa,-40.51004,-73.52129,2210,boca,wɘn̪,,4-wün.csv
+1144,28221005509,Chalileo,-36.42252,-66.47321,2210,boca,wɘn,,4-wün.csv
+1145,28261005309,Picunches,-38.78279,-70.22884,2210,boca,wɘn,,4-wün.csv
+1146,28261005509,Zapala,-38.85047,-69.74997,2210,boca,wɘn,,4-wün.csv
+1147,28261006109,Aluminé,-39.19681,-71.05406,2210,boca,ʊ.ˈɘn,,4-wün.csv
+1148,28261007109,Junín de los Andes,-39.82386,-71.28742,2210,boca,wɘn,,4-wün.csv
+1149,28261007209,Huiliches,-39.63992,-71.18686,2210,boca,wɘn,,4-wün.csv
+1150,28271006509,Jacobacci,-41.28813,-69.55719,2210,boca,wɘn,,4-wün.csv
+1151,28281000209,Cushamen,-42.23392,-71.34994,2210,boca,wɘn,,4-wün.csv
+1152,28281002209,Futaleufú,-42.95052,-71.18351,2210,boca,wɘn,,4-wün.csv
+1153,28281003209,Lago Rosario,-43.24408,-71.32581,2210,boca,wɘn,,4-wün.csv
+1154,28001000000,Ref. Spelling,-40.0,-75.5,10790,persona_que_ensenya,ɐ̝θɘmtʃëfë,adümchefe,5-adümchefe.csv
+1155,28131006609,Santa Bárbara,-37.67405,-71.80186,10790,persona_que_ensenya,ɐ̝.ˌðʊm.ˈt͡ʃë.vë,,5-adümchefe.csv
+1156,28131009809,Alto Bío Bío,-38.04457,-71.36344,10790,persona_que_ensenya,ˌɐ̝.ðʊm.ˈt͡ʃë.ʋë,,5-adümchefe.csv
+1157,28141004509,Vilcún,-38.59695,-72.31239,10790,persona_que_ensenya,ɐ̝.ˌðʊm.ˈt͡ʃë.vë,,5-adümchefe.csv
+1158,28141005109,Puerto Saavedra,-38.78431,-73.39912,10790,persona_que_ensenya,ɐ̝.ˌθɘm.ˈt͡ʃë.fë,,5-adümchefe.csv
+1159,28141005409,Truf Truf,-38.75576,-72.43983,10790,persona_que_ensenya,ɐ̝.ˌsɘm.t͡ʃë.ˈfë,,5-adümchefe.csv
+1160,28141005909,Icalma,-38.72338,-71.1847,10790,persona_que_ensenya,ˌɐ̝.θʊ.mɘ̆.ˈʃë.fë,,5-adümchefe.csv
+1161,28141006309,Freire,-38.99144,-72.8833,10790,persona_que_ensenya,ˌɐ̝.θʊm.ˈt͡ʃë.fë,,5-adümchefe.csv
+1162,28141007209,Nueva Toltén,-39.20931,-73.1312,10790,persona_que_ensenya,ɐ̝.ˈθɘm.ˌt͡ʃë.fë,,5-adümchefe.csv
+1163,28141008909,Curarrehue,-39.46788,-71.55193,10790,persona_que_ensenya,ɐ̝.ˌθʊm.t͡ʃë.ˈfë,,5-adümchefe.csv
+1164,28151000109,Mariquina,-39.45147,-73.26457,10790,persona_que_ensenya,ɐ̝.ˌjɘn.ˈt͡ʃë.fë,,5-adümchefe.csv
+1165,28151000409,Lanco,-39.5046,-72.44441,10790,persona_que_ensenya,ˌɐ̝.fɘn.ˈt͡ʃë.fë,,5-adümchefe.csv
+1166,28151000709,Panguipulli,-39.54399,-72.12614,10790,persona_que_ensenya,ˌɐ̝.s̪ʊɲ.ˈt͡ʃë.fë,,5-adümchefe.csv
+1167,28151002309,Valdivia,-39.81291,-72.95438,10790,persona_que_ensenya,ˌɐ̝.θɘm.ˈʃë.fë,,5-adümchefe.csv
+1168,28261007109,Junín de los Andes,-39.82386,-71.28742,10790,persona_que_ensenya,ɐ̝.ˌθɘm.t̪ɘ̆.ˈfë,,5-adümchefe.csv
+1169,28281003209,Lago Rosario,-43.24408,-71.32581,10790,persona_que_ensenya,ɐ̝.ˌθʊm.ˈt͡ʃë.fë,,5-adümchefe.csv
+1170,28001000000,Ref. Spelling,-40.0,-75.5,20550,harina_tostada,mɘʐkë,mürke,9-mürke.csv
+1171,28131006609,Santa Bárbara,-37.67405,-71.80186,20550,harina_tostada,ˈmɘɻ.kʰë,,9-mürke.csv
+1172,28131007109,Cañete,-37.96722,-73.39282,20550,harina_tostada,mɘɻ.ˈcʰë,,9-mürke.csv
+1173,28131009109,Tirúa,-38.3699,-73.49067,20550,harina_tostada,ˈmɘɻ.kë,,9-mürke.csv
+1174,28131009809,Alto Bío Bío,-38.04457,-71.36344,20550,harina_tostada,ˈmɘɻ.kë,,9-mürke.csv
+1175,28141000309,Angol,-37.86289,-72.68304,20550,harina_tostada,mɘɻ.ˈcʰë,,9-mürke.csv
+1176,28141001209,Lumaco,-38.17584,-72.89947,20550,harina_tostada,ˈmɘɻ.cʰë,,9-mürke.csv
+1177,28141001409,Ercilla,-38.04926,-72.44544,20550,harina_tostada,ˈmɘɻ.cʰë,,9-mürke.csv
+1178,28141002309,Galvarino,-38.40865,-72.78342,20550,harina_tostada,ˈɱɘɻ.cë,,9-mürke.csv
+1179,28141002509,Victoria,-38.35303,-72.19395,20550,harina_tostada,mɘɻ.ˈkʰë,,9-mürke.csv
+1180,28141002809,Lonquimay,-38.42587,-71.37014,20550,harina_tostada,ˈmɘɻʂ.kʰë̥,,9-mürke.csv
+1181,28141003209,Chol Chol,-38.51661,-72.97454,20550,harina_tostada,mɘɻ.ˈcʰë,,9-mürke.csv
+1182,28141004309,Dollinco,-38.67157,-72.82837,20550,harina_tostada,mɘɻ.ˈcʰë,,9-mürke.csv
+1183,28141004509,Vilcún,-38.59695,-72.31239,20550,harina_tostada,ˈmɘɻ.cʰë,,9-mürke.csv
+1184,28141005109,Puerto Saavedra,-38.78431,-73.39912,20550,harina_tostada,ˈmɘɻ.cʰë,,9-mürke.csv
+1185,28141005409,Truf Truf,-38.75576,-72.43983,20550,harina_tostada,ˈmɘʐ.kë,,9-mürke.csv
+1186,28141005909,Icalma,-38.72338,-71.1847,20550,harina_tostada,mɻ̩.ˈcʰë,,9-mürke.csv
+1187,28141006309,Freire,-38.99144,-72.8833,20550,harina_tostada,ˈmɘɻ.cë,,9-mürke.csv
+1188,28141006609,Cunco,-38.97601,-72.01425,20550,harina_tostada,mɘʐ.ˈkʰë,,9-mürke.csv
+1189,28141007209,Nueva Toltén,-39.20931,-73.1312,20550,harina_tostada,ˈmɘɻ.cʰë,,9-mürke.csv
+1190,28141008509,Villarrica,-39.48612,-72.3038,20550,harina_tostada,mɘɻ.ˈcë,,9-mürke.csv
+1191,28141008909,Curarrehue,-39.46788,-71.55193,20550,harina_tostada,mɘɻ.ˈkʰë,,9-mürke.csv
+1192,28151000109,Mariquina,-39.45147,-73.26457,20550,harina_tostada,ˈmɘɻ.kʰë̥,,9-mürke.csv
+1193,28151000409,Lanco,-39.5046,-72.44441,20550,harina_tostada,mɘɻ.ˈcʰë,,9-mürke.csv
+1194,28151000709,Panguipulli,-39.54399,-72.12614,20550,harina_tostada,ˈmɘʃ.kë,,9-mürke.csv
+1195,28151002309,Valdivia,-39.81291,-72.95438,20550,harina_tostada,ˈmɘɻ.cʰë,,9-mürke.csv
+1196,28161000309,San Pablo,-40.38308,-73.34988,20550,harina_tostada,ˈmɘʂ.cʰḛ̈,,9-mürke.csv
+1197,28161001209,S. Juan de la Costa,-40.51004,-73.52129,20550,harina_tostada,ˈmɘʂ.xë,,9-mürke.csv
+1198,28261005509,Zapala,-38.85047,-69.74997,20550,harina_tostada,mɘɻ.ˈkë,,9-mürke.csv
+1199,28261006109,Aluminé,-39.19681,-71.05406,20550,harina_tostada,mɘɻ.ˈcʰë,,9-mürke.csv
+1200,28261007109,Junín de los Andes,-39.82386,-71.28742,20550,harina_tostada,mɘɻ.ˈcë,,9-mürke.csv
+1201,28271006509,Jacobacci,-41.28813,-69.55719,20550,harina_tostada,mɘɻ.ˈkʰë,,9-mürke.csv
+1202,28281002209,Futaleufú,-42.95052,-71.18351,20550,harina_tostada,mɘɻ.ˈkʰë,,9-mürke.csv
+1203,28281003209,Lago Rosario,-43.24408,-71.32581,20550,harina_tostada,mɘɻ.ˈcʰë,,9-mürke.csv
+1204,28001000000,Ref. Spelling,-40.0,-75.5,10540,vestido_lana,kɘpɐ̝m,küpam,14-küpam.csv
+1205,28131006609,Santa Bárbara,-37.67405,-71.80186,10540,vestido_lana,hɘ.ˈpɘm,,14-küpam.csv
+1206,28131007109,Cañete,-37.96722,-73.39282,10540,vestido_lana,kɘ̆.ˈpɐ̝n,,14-küpam.csv
+1207,28131009109,Tirúa,-38.3699,-73.49067,10540,vestido_lana,kp̩̚.ˈɸɐ̝m,,14-küpam.csv
+1208,28131009809,Alto Bío Bío,-38.04457,-71.36344,10540,vestido_lana,kp̩̚.ˈpɐ̝m,,14-küpam.csv
+1209,28141001209,Lumaco,-38.17584,-72.89947,10540,vestido_lana,kʊ̆.ˈpɐ̝,,14-küpam.csv
+1210,28141002309,Galvarino,-38.40865,-72.78342,10540,vestido_lana,kʰɘ.ˈpɐ̝m,,14-küpam.csv
+1211,28141002809,Lonquimay,-38.42587,-71.37014,10540,vestido_lana,kʰɘ̆.ˈpɐ̝,,14-küpam.csv
+1212,28141003209,Chol Chol,-38.51661,-72.97454,10540,vestido_lana,kʰɘ̆.ˈpɐ̝m,,14-küpam.csv
+1213,28141004309,Dollinco,-38.67157,-72.82837,10540,vestido_lana,kʰɘ̆.ˈpɐ̝m,,14-küpam.csv
+1214,28141005109,Puerto Saavedra,-38.78431,-73.39912,10540,vestido_lana,kɘ.ˈpɐ̝m,,14-küpam.csv
+1215,28141005409,Truf Truf,-38.75576,-72.43983,10540,vestido_lana,kɘ.ˈpɐ̝m,,14-küpam.csv
+1216,28141005909,Icalma,-38.72338,-71.1847,10540,vestido_lana,kɘ.ˈpɐ̝m,,14-küpam.csv
+1217,28141006309,Freire,-38.99144,-72.8833,10540,vestido_lana,kɘ̆.ˈpɐ̝m,,14-küpam.csv
+1218,28141006609,Cunco,-38.97601,-72.01425,10540,vestido_lana,kɘ̆.ˈpɐ̝m,,14-küpam.csv
+1219,28141007209,Nueva Toltén,-39.20931,-73.1312,10540,vestido_lana,kɘ̆.ˈbɐ̝m,,14-küpam.csv
+1220,28141008509,Villarrica,-39.48612,-72.3038,10540,vestido_lana,kɘ̆.ˈpɐ̝m,,14-küpam.csv
+1221,28151000109,Mariquina,-39.45147,-73.26457,10540,vestido_lana,kɘ̆.ˈpɐ̝m,,14-küpam.csv
+1222,28151000409,Lanco,-39.5046,-72.44441,10540,vestido_lana,kʊ.ˈpɐ̝m,,14-küpam.csv
+1223,28151000709,Panguipulli,-39.54399,-72.12614,10540,vestido_lana,kɘ.ˈpɐ̝m,,14-küpam.csv
+1224,28151002309,Valdivia,-39.81291,-72.95438,10540,vestido_lana,kɘ.ˈpɐ̝m,,14-küpam.csv
+1225,28261006109,Aluminé,-39.19681,-71.05406,10540,vestido_lana,kʰɘ̆.ˈpɐ̝m,,14-küpam.csv
+1226,28261007109,Junín de los Andes,-39.82386,-71.28742,10540,vestido_lana,kɘ̆.ˈpɐ̝m,,14-küpam.csv
+1227,28261007209,Huiliches,-39.63992,-71.18686,10540,vestido_lana,kɘ̥̆.ˈpɐ̝m,,14-küpam.csv
+1228,28281000209,Cushamen,-42.23392,-71.34994,10540,vestido_lana,kɘ.ˈpɐ̝n,,14-küpam.csv
+1229,28281002209,Futaleufú,-42.95052,-71.18351,10540,vestido_lana,h̩.ˈpɐ̝n,,14-küpam.csv
+1230,28281003209,Lago Rosario,-43.24408,-71.32581,10540,vestido_lana,kɘ.ˈpɐ̝m,,14-küpam.csv
+1231,28001000000,Ref. Spelling,-40.0,-75.5,4100,nombre,ɘj,üy,5-üy.csv
+1232,28131006609,Santa Bárbara,-37.67405,-71.80186,4100,nombre,ɘj,,5-üy.csv
+1233,28131007109,Cañete,-37.96722,-73.39282,4100,nombre,ɘj,,5-üy.csv
+1234,28131009809,Alto Bío Bío,-38.04457,-71.36344,4100,nombre,ɘj,,5-üy.csv
+1235,28141000309,Angol,-37.86289,-72.68304,4100,nombre,ɘj,,5-üy.csv
+1236,28141001209,Lumaco,-38.17584,-72.89947,4100,nombre,ɘj,,5-üy.csv
+1237,28141001409,Ercilla,-38.04926,-72.44544,4100,nombre,ɘjç,,5-üy.csv
+1238,28141002309,Galvarino,-38.40865,-72.78342,4100,nombre,ɘj,,5-üy.csv
+1239,28141002509,Victoria,-38.35303,-72.19395,4100,nombre,ɘj,,5-üy.csv
+1240,28141002809,Lonquimay,-38.42587,-71.37014,4100,nombre,ɘjç,,5-üy.csv
+1241,28141003209,Chol Chol,-38.51661,-72.97454,4100,nombre,ɘj,,5-üy.csv
+1242,28141004309,Dollinco,-38.67157,-72.82837,4100,nombre,ɣɘj,,5-üy.csv
+1243,28141004509,Vilcún,-38.59695,-72.31239,4100,nombre,ɘj,,5-üy.csv
+1244,28141005109,Puerto Saavedra,-38.78431,-73.39912,4100,nombre,ɘj,,5-üy.csv
+1245,28141005409,Truf Truf,-38.75576,-72.43983,4100,nombre,ɘj,,5-üy.csv
+1246,28141005909,Icalma,-38.72338,-71.1847,4100,nombre,ɘj,,5-üy.csv
+1247,28141006309,Freire,-38.99144,-72.8833,4100,nombre,ɘj,,5-üy.csv
+1248,28141006609,Cunco,-38.97601,-72.01425,4100,nombre,ɣɘjʒ,,5-üy.csv
+1249,28141007209,Nueva Toltén,-39.20931,-73.1312,4100,nombre,ɘj,,5-üy.csv
+1250,28141008509,Villarrica,-39.48612,-72.3038,4100,nombre,ɘj,,5-üy.csv
+1251,28141008909,Curarrehue,-39.46788,-71.55193,4100,nombre,ɘj,,5-üy.csv
+1252,28151000109,Mariquina,-39.45147,-73.26457,4100,nombre,ɣɘj,,5-üy.csv
+1253,28151000409,Lanco,-39.5046,-72.44441,4100,nombre,ɣ̩.ˈɡɘj,,5-üy.csv
+1254,28151000709,Panguipulli,-39.54399,-72.12614,4100,nombre,ɣɘj,,5-üy.csv
+1255,28151002309,Valdivia,-39.81291,-72.95438,4100,nombre,ɘj,,5-üy.csv
+1256,28161000309,San Pablo,-40.38308,-73.34988,4100,nombre,ɘj,,5-üy.csv
+1257,28221005509,Chalileo,-36.42252,-66.47321,4100,nombre,ɘj,,5-üy.csv
+1258,28261005309,Picunches,-38.78279,-70.22884,4100,nombre,ɘj,,5-üy.csv
+1259,28261006109,Aluminé,-39.19681,-71.05406,4100,nombre,ɘj,,5-üy.csv
+1260,28261007109,Junín de los Andes,-39.82386,-71.28742,4100,nombre,ŋ̩.ˈɡɘj,,5-üy.csv
+1261,28261007209,Huiliches,-39.63992,-71.18686,4100,nombre,ɣɘj,,5-üy.csv
+1262,28281000209,Cushamen,-42.23392,-71.34994,4100,nombre,ɘj,,5-üy.csv
+1263,28281002209,Futaleufú,-42.95052,-71.18351,4100,nombre,ɣɘj,,5-üy.csv
+1264,28281003209,Lago Rosario,-43.24408,-71.32581,4100,nombre,ɣɘj,,5-üy.csv
+1265,28001000000,Ref. Spelling,-40.0,-75.5,2610,sangre,möʎfɘɲ,mollfüñ,4-mollfüñ.csv
+1266,28131006609,Santa Bárbara,-37.67405,-71.80186,2610,sangre,ˈmöʎ.vɘn,,4-mollfüñ.csv
+1267,28131007109,Cañete,-37.96722,-73.39282,2610,sangre,ˈmöʎ.vɘɲ,,4-mollfüñ.csv
+1268,28131009109,Tirúa,-38.3699,-73.49067,2610,sangre,ˈmöʎ.vɘɪ̯,,4-mollfüñ.csv
+1269,28131009809,Alto Bío Bío,-38.04457,-71.36344,2610,sangre,möʎ.ˈvɘɲ,,4-mollfüñ.csv
+1270,28141000309,Angol,-37.86289,-72.68304,2610,sangre,möʎ.ˈvɘɲ,,4-mollfüñ.csv
+1271,28141001209,Lumaco,-38.17584,-72.89947,2610,sangre,möʎ.ˈvɘɲ,,4-mollfüñ.csv
+1272,28141001409,Ercilla,-38.04926,-72.44544,2610,sangre,möʎ.ˈfɘɲ,,4-mollfüñ.csv
+1273,28141002309,Galvarino,-38.40865,-72.78342,2610,sangre,möʎ.ˈfɘɲ,,4-mollfüñ.csv
+1274,28141002509,Victoria,-38.35303,-72.19395,2610,sangre,ˈmöʎ.fɘn,,4-mollfüñ.csv
+1275,28141002809,Lonquimay,-38.42587,-71.37014,2610,sangre,möʎʎ̥.ˈfʷɘɲ,,4-mollfüñ.csv
+1276,28141003209,Chol Chol,-38.51661,-72.97454,2610,sangre,möʎ.ˈfɘɲ,,4-mollfüñ.csv
+1277,28141004309,Dollinco,-38.67157,-72.82837,2610,sangre,möʎ.ˈfɘɲ,,4-mollfüñ.csv
+1278,28141004509,Vilcún,-38.59695,-72.31239,2610,sangre,möʎ.ˈfɘɲ,,4-mollfüñ.csv
+1279,28141005109,Puerto Saavedra,-38.78431,-73.39912,2610,sangre,möʎ.ˈfɘɲ,,4-mollfüñ.csv
+1280,28141005409,Truf Truf,-38.75576,-72.43983,2610,sangre,möʎ.ˈfʷɘɲ,,4-mollfüñ.csv
+1281,28141005909,Icalma,-38.72338,-71.1847,2610,sangre,möʎ.ˈfɘɲ,,4-mollfüñ.csv
+1282,28141006309,Freire,-38.99144,-72.8833,2610,sangre,möʎ.ˈfɘɲ,,4-mollfüñ.csv
+1283,28141006609,Cunco,-38.97601,-72.01425,2610,sangre,möʎ.ˈfɘn,,4-mollfüñ.csv
+1284,28141007209,Nueva Toltén,-39.20931,-73.1312,2610,sangre,möʎ.ˈfɘɲ,,4-mollfüñ.csv
+1285,28141008509,Villarrica,-39.48612,-72.3038,2610,sangre,möʎ.ˈfɘɲ,,4-mollfüñ.csv
+1286,28141008909,Curarrehue,-39.46788,-71.55193,2610,sangre,möʎ.ˈfɘɲ,,4-mollfüñ.csv
+1287,28151000109,Mariquina,-39.45147,-73.26457,2610,sangre,möʎ.ˈfɘ̆n,,4-mollfüñ.csv
+1288,28151000409,Lanco,-39.5046,-72.44441,2610,sangre,möl̠.ˈɸ̞ɘɲ,,4-mollfüñ.csv
+1289,28151000709,Panguipulli,-39.54399,-72.12614,2610,sangre,möʎ.ˈfʷëɲ,,4-mollfüñ.csv
+1290,28151002309,Valdivia,-39.81291,-72.95438,2610,sangre,möʎ.ˈfɘɲ,,4-mollfüñ.csv
+1291,28161000309,San Pablo,-40.38308,-73.34988,2610,sangre,möʎ̝.ˈfɘn,,4-mollfüñ.csv
+1292,28161001209,S. Juan de la Costa,-40.51004,-73.52129,2610,sangre,mʷöʎ̝̥.vɘn,,4-mollfüñ.csv
+1293,28221005509,Chalileo,-36.42252,-66.47321,2610,sangre,möʎ.ˈvɘn,,4-mollfüñ.csv
+1294,28261005309,Picunches,-38.78279,-70.22884,2610,sangre,möʎ.ˈvɘɲ,,4-mollfüñ.csv
+1295,28261005509,Zapala,-38.85047,-69.74997,2610,sangre,möʎ.ˈfɘɲ,,4-mollfüñ.csv
+1296,28261006109,Aluminé,-39.19681,-71.05406,2610,sangre,möʎ.ˈfɘɲ,,4-mollfüñ.csv
+1297,28261007109,Junín de los Andes,-39.82386,-71.28742,2610,sangre,möʎ.ˈfʷɪɲ,,4-mollfüñ.csv
+1298,28261007209,Huiliches,-39.63992,-71.18686,2610,sangre,möʎf.ˈʋɘɲ,,4-mollfüñ.csv
+1299,28271006509,Jacobacci,-41.28813,-69.55719,2610,sangre,möʎ.ˈfʷɘɲ,,4-mollfüñ.csv
+1300,28281000209,Cushamen,-42.23392,-71.34994,2610,sangre,möʎ.ˈfɘɲ,,4-mollfüñ.csv
+1301,28281002209,Futaleufú,-42.95052,-71.18351,2610,sangre,möʎ.ˈfwɪ̃,,4-mollfüñ.csv
+1302,28281003209,Lago Rosario,-43.24408,-71.32581,2610,sangre,möʎ.ˈfɘn,,4-mollfüñ.csv
+1303,28001000000,Ref. Spelling,-40.0,-75.5,20610,vino,pʊlkɘ,pulkü,9-pulkü.csv
+1304,28131006609,Santa Bárbara,-37.67405,-71.80186,20610,vino,ˈpʊl.kʊ,,9-pulkü.csv
+1305,28131007109,Cañete,-37.96722,-73.39282,20610,vino,pʰɘl.kʰö,,9-pulkü.csv
+1306,28131009109,Tirúa,-38.3699,-73.49067,20610,vino,ˈpɘl.kö,,9-pulkü.csv
+1307,28131009809,Alto Bío Bío,-38.04457,-71.36344,20610,vino,ˈpʊl.kö,,9-pulkü.csv
+1308,28141000309,Angol,-37.86289,-72.68304,20610,vino,ˈpʊl.kʊ,,9-pulkü.csv
+1309,28141001209,Lumaco,-38.17584,-72.89947,20610,vino,ˈpʊl.kʊ̥,,9-pulkü.csv
+1310,28141001409,Ercilla,-38.04926,-72.44544,20610,vino,ˈpɘ̆l.kɘ̥,,9-pulkü.csv
+1311,28141002309,Galvarino,-38.40865,-72.78342,20610,vino,ˈpʊl.kʊ,,9-pulkü.csv
+1312,28141002509,Victoria,-38.35303,-72.19395,20610,vino,pʰʊl.ˈkʊ,,9-pulkü.csv
+1313,28141002809,Lonquimay,-38.42587,-71.37014,20610,vino,ˈpʊlɬ.kʊ̥,,9-pulkü.csv
+1314,28141003209,Chol Chol,-38.51661,-72.97454,20610,vino,pʊl.ˈkʊ,,9-pulkü.csv
+1315,28141004309,Dollinco,-38.67157,-72.82837,20610,vino,pʰʊl.ˈkɘ,,9-pulkü.csv
+1316,28141004509,Vilcún,-38.59695,-72.31239,20610,vino,ˈpʰʊl.kʊ,,9-pulkü.csv
+1317,28141005109,Puerto Saavedra,-38.78431,-73.39912,20610,vino,ˈpʊl.kʊ,,9-pulkü.csv
+1318,28141005409,Truf Truf,-38.75576,-72.43983,20610,vino,ˈpʊlɬ.kö,,9-pulkü.csv
+1319,28141005909,Icalma,-38.72338,-71.1847,20610,vino,ˈpʊl.kʊ,,9-pulkü.csv
+1320,28141006309,Freire,-38.99144,-72.8833,20610,vino,ˈpʊl.kʊ,,9-pulkü.csv
+1321,28141006609,Cunco,-38.97601,-72.01425,20610,vino,pʊl.ˈkʊ,,9-pulkü.csv
+1322,28141007209,Nueva Toltén,-39.20931,-73.1312,20610,vino,ˈbʊl.kʊ,,9-pulkü.csv
+1323,28141008509,Villarrica,-39.48612,-72.3038,20610,vino,ˈpʊl.kʊ,,9-pulkü.csv
+1324,28141008909,Curarrehue,-39.46788,-71.55193,20610,vino,pʊl.ˈkʊ,,9-pulkü.csv
+1325,28151000109,Mariquina,-39.45147,-73.26457,20610,vino,ˈpɘ̆l.kʊ,,9-pulkü.csv
+1326,28151000409,Lanco,-39.5046,-72.44441,20610,vino,pʊl.ˈkʰʊ,,9-pulkü.csv
+1327,28151000709,Panguipulli,-39.54399,-72.12614,20610,vino,ˈpʊl.kö,,9-pulkü.csv
+1328,28151002309,Valdivia,-39.81291,-72.95438,20610,vino,ˈpʊl.kʰʊ,,9-pulkü.csv
+1329,28161000309,San Pablo,-40.38308,-73.34988,20610,vino,ˈbɘl.kʊ,,9-pulkü.csv
+1330,28161001209,S. Juan de la Costa,-40.51004,-73.52129,20610,vino,ˈpʊɬ.kʊ,,9-pulkü.csv
+1331,28221005509,Chalileo,-36.42252,-66.47321,20610,vino,bʊl.ˈkʊ,,9-pulkü.csv
+1332,28261005309,Picunches,-38.78279,-70.22884,20610,vino,ɸʊl.ˈkʊ,,9-pulkü.csv
+1333,28261005509,Zapala,-38.85047,-69.74997,20610,vino,ɸʊl.ˈkʊ,,9-pulkü.csv
+1334,28261006109,Aluminé,-39.19681,-71.05406,20610,vino,hʊl.ˈkʊ,,9-pulkü.csv
+1335,28261007109,Junín de los Andes,-39.82386,-71.28742,20610,vino,pʊl.ˈkʊ,,9-pulkü.csv
+1336,28261007209,Huiliches,-39.63992,-71.18686,20610,vino,pʊl.ˈkʊ,,9-pulkü.csv
+1337,28271006509,Jacobacci,-41.28813,-69.55719,20610,vino,ɸʊl.ˈkʰʊ,,9-pulkü.csv
+1338,28281000209,Cushamen,-42.23392,-71.34994,20610,vino,pʰʊl.ˈkʰʊ,,9-pulkü.csv
+1339,28281002209,Futaleufú,-42.95052,-71.18351,20610,vino,ɸʊl.ˈxʊ,,9-pulkü.csv
+1340,28281003209,Lago Rosario,-43.24408,-71.32581,20610,vino,pʊl.ˈkʊ,,9-pulkü.csv

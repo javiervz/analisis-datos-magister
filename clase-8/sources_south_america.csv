@@ -1,0 +1,589 @@
+,languages,name,family,source
+0,abip1241,Abipon,guai1249,long_grammar
+1,acha1250,Achagua,araw1281,grammar
+2,achu1248,Achuar-Shiwiar,jiva1245,long_grammar
+3,ache1246,Aché,tupi1275,grammar_sketch
+4,acro1239,Acroá,nucl1710,wordlist_or_less
+5,abis1238,Aewa,unk,phonology_or_text
+6,agua1253,Aguaruna,jiva1245,long_grammar
+7,aika1237,Aikanã,unk,grammar_sketch
+8,ajyi1238,Ajyíninka Apurucayali,araw1281,long_grammar
+9,akaw1239,Akawaio-Ingariko,cari1283,long_grammar
+10,akun1241,Akuntsu,tupi1275,long_grammar
+11,akur1238,Akurio,cari1283,wordlist_or_less
+12,alac1239,Alacalufe-Austral,kawe1237,wordlist_or_less
+13,alac1240,Alacalufe-Central,kawe1237,grammar_sketch
+14,alle1238,Allentiac,huar1251,grammar_sketch
+15,amah1246,Amahuaca,pano1259,grammar
+16,aman1266,Amanayé,tupi1275,phonology_or_text
+17,amar1274,Amarakaeri,hara1260,long_grammar
+18,ambo1252,Ambo-Pasco Quechua,quec1387,grammar_sketch
+19,amun1246,Amundava,tupi1275,wordlist_or_less
+20,anam1249,Anambé,tupi1275,grammar
+21,anau1243,Anauyá,araw1281,wordlist_or_less
+22,anda1286,Andaqui,unk,phonology_or_text
+23,ando1255,Andoa,zapa1251,phonology_or_text
+24,ando1256,Andoque,unk,long_grammar
+25,ando1254,Andoquero,huit1251,wordlist_or_less
+26,anga1316,Angaité,leng1261,wordlist_or_less
+27,ango1257,Angosturas Tunebo,chib1249,grammar_sketch
+28,anse1238,Anserma,choc1280,phonology_or_text
+29,anti1242,Antioquian,chib1249,wordlist_or_less
+30,apal1257,Apalaí,cari1283,grammar
+31,apia1247,Apiaka-Tocantins,cari1283,wordlist_or_less
+32,apia1248,Apiaká,tupi1275,phonology_or_text
+33,apin1244,Apinayé,nucl1710,long_grammar
+34,apol1242,Apolista,araw1281,wordlist_or_less
+35,apur1254,Apurinã,araw1281,long_grammar
+36,arab1268,Arabela,zapa1251,grammar_sketch
+37,arai1239,Araicu,araw1281,wordlist_or_less
+38,arao1248,Araona,pano1259,long_grammar
+39,arap1275,Arapaso,tuca1253,wordlist_or_less
+40,araw1273,Araweté,tupi1275,long_grammar
+41,araz1236,Arazaire,pano1259,wordlist_or_less
+42,areq1237,Arequipa-La Unión Quechua,quec1387,grammar_sketch
+43,arge1236,Argentine Sign Language,sign1238,long_grammar
+44,arhu1242,Arhuaco,chib1249,grammar
+45,arik1265,Arikapú,nucl1710,grammar_sketch
+46,arik1264,Arikem,tupi1275,wordlist_or_less
+47,aroa1234,Aroaqui,unk,wordlist_or_less
+48,arua1264,Aruan,araw1281,wordlist_or_less
+49,arut1244,Arutani,unk,phonology_or_text
+50,arua1263,Aruá (Amazonas State),araw1282,wordlist_or_less
+51,arua1261,Aruá (Rondonia State),tupi1275,wordlist_or_less
+52,asha1243,Asháninka,araw1281,grammar_sketch
+53,ashe1273,Ashéninka Pajonal,araw1281,grammar_sketch
+54,ashe1272,Ashéninka Perené,araw1281,long_grammar
+55,atac1235,Atacame,unk,wordlist_or_less
+56,ator1244,Atorada,araw1281,wordlist_or_less
+57,atsa1242,Atsahuaca,pano1259,wordlist_or_less
+58,ndyu1242,Aukan,indo1319,long_grammar
+59,aura1243,Aurê y Aurá,tupi1275,wordlist_or_less
+60,aush1242,Aushiri,zapa1251,wordlist_or_less
+61,avac1239,Avá-Canoeiro,tupi1275,long_grammar
+62,awac1239,Awa-Cuaiquer,barb1265,long_grammar
+63,awet1244,Awetí,tupi1275,grammar_sketch
+64,ayac1239,Ayacucho Quechua,quec1387,grammar
+65,ayor1240,Ayoreo,zamu1243,grammar_sketch
+66,baka1277,Bakairí,cari1283,grammar_sketch
+67,guar1293,Baniva de Maroa,araw1281,grammar
+68,bani1255,Baniwa do Icana,araw1281,long_grammar
+69,bara1380,Barasana-Eduria,tuca1253,long_grammar
+70,barr1251,Barro Negro Tunebo,chib1249,grammar_sketch
+71,bare1276,Baré,araw1281,grammar_sketch
+72,bari1297,Barí,chib1249,grammar_sketch
+73,baur1253,Baure,araw1281,long_grammar
+74,berb1259,Berbice Creole Dutch,indo1319,long_grammar
+75,beto1236,Betoi-Jirara,unk,grammar_sketch
+76,chim1302,Bolivar-North Chimborazo Highland Quichua,quec1387,long_grammar
+77,boli1236,Bolivian Sign Language,sign1238,wordlist_or_less
+78,bona1255,Bonari,cari1283,wordlist_or_less
+79,bora1263,Bora,bora1262,long_grammar
+80,bord1248,Border Kuna,chib1249,long_grammar
+81,boro1282,Bororo,boro1281,grammar
+82,braz1236,Brazilian Sign Language,sign1238,grammar_sketch
+83,cabi1241,Cabiyarí,araw1281,phonology_or_text
+84,cafu1238,Cafundo,indo1319,wordlist_or_less
+85,cahu1268,Cahuarano,zapa1251,wordlist_or_less
+86,caja1238,Cajamarca Quechua,quec1387,grammar
+87,caja1239,Cajatambo North Lima Quechua,quec1387,phonology_or_text
+88,cald1236,Calderón Highland Quichua,quec1387,long_grammar
+89,cams1241,Camsá,unk,grammar
+90,cana1260,Canari,barb1265,wordlist_or_less
+91,cand1248,Candoshi-Shapra,unk,grammar_sketch
+92,cane1242,Canela-Krahô,nucl1710,long_grammar
+93,cani1243,Canichana,unk,grammar_sketch
+94,capa1241,Capanahua,pano1259,grammar_sketch
+95,capo1236,Capoxo,nucl1710,wordlist_or_less
+96,arub1238,Caquetio,uncl1493,wordlist_or_less
+97,caqu1242,Caquinte,araw1281,grammar
+98,cara1271,Caramanta,choc1280,wordlist_or_less
+99,cara1272,Carapana,tuca1253,grammar
+100,cara1273,Carari,unk,wordlist_or_less
+101,cari1280,Cariay,araw1281,wordlist_or_less
+102,cari1275,Caribbean Hindustani,indo1319,grammar
+103,cari1276,Caribbean Javanese,aust1307,grammar_sketch
+104,cari1279,Carijona,cari1283,grammar_sketch
+105,cash1251,Cashibo-Cacataibo,pano1259,long_grammar
+106,cash1254,Cashinahua,pano1259,long_grammar
+107,cash1253,Cashinawa of the Tarauacá river,pano1259,wordlist_or_less
+108,cauq1239,Cauqui of Cachuy,ayma1253,grammar_sketch
+109,cavi1250,Cavineña,pano1259,long_grammar
+110,cayu1262,Cayubaba,unk,grammar_sketch
+111,cana1262,Cañar-Azuay-South Chimborazo Highland Quichua,quec1387,grammar
+112,cent2142,Central Aymara,ayma1253,long_grammar
+113,cent2150,Central Tunebo,chib1249,grammar
+114,chac1249,Cha'palaa,barb1265,grammar
+115,chac1250,Chachapoyas Quechua,quec1387,grammar_sketch
+116,chai1253,Chaima,cari1283,grammar_sketch
+117,cham1315,Chamacoco,zamu1243,grammar_sketch
+118,cham1318,Chamicuro,araw1281,phonology_or_text
+119,chan1296,Chaná,char1238,phonology_or_text
+120,chap1269,Chapakura,chap1271,wordlist_or_less
+121,char1240,Charrúa,char1238,wordlist_or_less
+122,chib1270,Chibcha,chib1249,grammar
+123,chil1264,Chilean Sign Language,sign1238,grammar_sketch
+124,chim1309,Chimila,chib1249,grammar
+125,chin1483,Chincha Quechua,quec1387,grammar
+126,chip1262,Chipaya,uruc1242,long_grammar
+127,chiq1249,Chiquián Ancash Quechua,quec1387,wordlist_or_less
+128,chir1286,Chiripá,tupi1275,grammar_sketch
+129,chir1294,Chiriva,pano1259,wordlist_or_less
+130,chol1284,Cholón,hibi1242,long_grammar
+131,chon1248,Chono,unk,wordlist_or_less
+132,chac1251,Chácobo,pano1259,long_grammar
+133,cint1239,Cinta Larga,tupi1275,grammar_sketch
+134,clas1251,Classical Quechua,quec1387,grammar
+135,coca1259,Cocama-Cocamilla,tupi1275,long_grammar
+136,coer1236,Coeruna,huit1251,wordlist_or_less
+137,cofa1242,Cofán,unk,grammar_sketch
+138,cogu1240,Cogui,chib1249,grammar_sketch
+139,inga1252,Colombian Inga,quec1387,grammar
+140,colo1249,Colombian Sign Language,sign1238,long_grammar
+141,colo1254,Colonia Tovar German,indo1319,long_grammar
+142,coro1249,Coroado-Puri,puri1261,wordlist_or_less
+143,coro1247,Corongo Ancash Quechua,quec1387,grammar
+144,coto1237,Cotoxo,kama1371,wordlist_or_less
+145,cube1242,Cubeo,tuca1253,long_grammar
+146,cuib1242,Cuiba,guah1252,long_grammar
+147,culi1244,Culina,araw1282,long_grammar
+148,cull1235,Culli,unk,wordlist_or_less
+149,cuma1240,Cumanagoto,cari1283,grammar_sketch
+150,curr1243,Curripaco,araw1281,grammar_sketch
+151,cusc1236,Cusco Quechua,quec1387,long_grammar
+152,demu1235,Demushbo,pano1259,phonology_or_text
+153,deni1241,Deni,araw1282,grammar
+154,desa1247,Desano,tuca1253,long_grammar
+155,djeo1235,Djeoromitxí,nucl1710,grammar_sketch
+156,duit1239,Duit,chib1249,phonology_or_text
+157,daww1239,Dâw,nada1235,long_grammar
+158,east2551,Eastern Apurímac Quechua,quec1387,grammar_sketch
+159,east2555,Eastern Bolivian Guaraní,tupi1275,long_grammar
+160,ecua1243,Ecuadorian Sign Language,sign1238,phonology_or_text
+161,embe1259,Emberá-Baudó,choc1280,grammar_sketch
+162,embe1260,Emberá-Catío,choc1280,grammar_sketch
+163,embe1262,Emberá-Chamí,choc1280,grammar
+164,embe1261,Emberá-Tadó,choc1280,wordlist_or_less
+165,enaw1238,Enawené-Nawé,araw1281,phonology_or_text
+166,epen1239,Epena,choc1280,grammar
+167,esee1248,Ese Ejja,pano1259,long_grammar
+168,fuln1247,Fulniô,unk,long_grammar
+169,gali1262,Galibi Carib,cari1283,long_grammar
+170,gavi1246,Gavião Do Jiparaná,tupi1275,grammar
+171,geic1236,Geico,nucl1710,wordlist_or_less
+172,guac1239,Guachi,unk,wordlist_or_less
+173,guah1255,Guahibo,guah1252,long_grammar
+174,guaj1256,Guajá,tupi1275,long_grammar
+175,guam1248,Guambiano,barb1265,grammar
+176,guam1236,Guamo,unk,wordlist_or_less
+177,guan1268,Guana (Paraguay),leng1261,grammar_sketch
+178,guar1292,Guarayu,tupi1275,grammar
+179,guat1253,Guató,unk,grammar
+180,guay1257,Guayabero,guah1252,grammar_sketch
+181,guer1242,Gueren,nucl1710,wordlist_or_less
+182,guia1246,Guianese Creole French,indo1319,long_grammar
+183,guin1258,Guinau,araw1281,wordlist_or_less
+184,creo1235,Guyanese Creole English,indo1319,grammar
+185,guen1235,Güenoa,char1238,phonology_or_text
+186,haus1240,Haush,chon1288,wordlist_or_less
+187,hibi1243,Hibito,hibi1242,wordlist_or_less
+188,hixk1239,Hixkaryána,cari1283,long_grammar
+189,yuwa1244,Hoti,jodi1234,grammar_sketch
+190,huac1244,Huachipaeri,hara1260,phonology_or_text
+191,hual1241,Huallaga Huánuco Quechua,quec1387,long_grammar
+192,huam1248,Huamalíes-Dos de Mayo Huánuco Quechua,quec1387,phonology_or_text
+193,huam1247,Huambisa,jiva1245,long_grammar
+194,yauy1235,Huangascar-Topara-Yauyos Quechua,quec1387,grammar
+195,huay1240,Huaylas Ancash Quechua,quec1387,grammar
+196,huay1241,Huaylla Wanca Quechua,quec1387,grammar
+197,huil1244,Huilliche,arau1255,grammar_sketch
+198,riog1239,Hunsrik,indo1319,phonology_or_text
+199,hupd1244,Hup,nada1235,long_grammar
+200,igna1246,Ignaciano,araw1281,long_grammar
+201,ikpe1245,Ikpeng,cari1283,grammar
+202,imba1240,Imbabura Highland Quichua,quec1387,long_grammar
+203,inga1254,Ingain,nucl1710,wordlist_or_less
+204,inma1234,Inmaculada Sign Language,sign1238,wordlist_or_less
+205,iqui1243,Iquito,zapa1251,long_grammar
+206,iran1263,Irántxe-Münkü,unk,grammar
+207,isco1239,Isconahua,pano1259,grammar
+208,iten1243,Itene,chap1271,long_grammar
+209,iton1250,Itonama,unk,grammar_sketch
+210,iyow1239,Iyo'wujwa Chorote,mata1289,grammar
+211,iyoj1235,Iyojwa'ja Chorote,mata1289,long_grammar
+212,inap1243,Iñapari,araw1281,grammar_sketch
+213,japr1238,Japrería,cari1283,grammar_sketch
+214,jaqa1244,Jaqaru,ayma1253,grammar
+215,jauj1238,Jauja Wanca Quechua,quec1387,grammar
+216,jebe1250,Jebero,cahu1265,grammar
+217,jira1235,Jirajaran,unk,phonology_or_text
+218,jora1240,Jorá,tupi1275,wordlist_or_less
+219,juma1250,Jumana,araw1281,wordlist_or_less
+220,juri1235,Juri,ticu1244,wordlist_or_less
+221,juru1256,Jurúna,tupi1275,long_grammar
+222,juma1249,Júma,tupi1275,phonology_or_text
+223,kadi1248,Kadiwéu,guai1249,grammar
+224,kain1272,Kaingang,nucl1710,grammar
+225,kais1242,Kaishana,araw1281,wordlist_or_less
+226,kaiw1246,Kaiwá,tupi1275,grammar_sketch
+227,cacu1241,Kakua,kaku1242,long_grammar
+228,kama1372,Kamakan,kama1371,phonology_or_text
+229,kama1373,Kamayurá,tupi1275,long_grammar
+230,kank1244,Kankuamo,chib1249,phonology_or_text
+231,kano1245,Kanoê,unk,long_grammar
+232,kara1500,Karajá,nucl1710,long_grammar
+233,kari1312,Karipuna,pano1259,wordlist_or_less
+234,kari1317,Karipúna,tupi1275,wordlist_or_less
+235,kari1254,Kariri,unk,long_grammar
+236,kari1311,Karitiâna,tupi1275,long_grammar
+237,karo1305,Karo (Brazil),tupi1275,long_grammar
+238,kata1270,Katawixi,katu1274,wordlist_or_less
+239,kana1291,Katukína-Kanamarí,katu1274,long_grammar
+240,kaxa1239,Kaxararí,pano1259,phonology_or_text
+241,kaxu1237,Kaxuiâna,cari1283,phonology_or_text
+242,kaya1329,Kayabí,tupi1275,grammar
+243,kaya1330,Kayapó,nucl1710,long_grammar
+244,kepk1241,Kepkiriwát,tupi1275,wordlist_or_less
+245,kimd1235,Kimda,nucl1710,wordlist_or_less
+246,kite1237,Kitemoka,chap1271,wordlist_or_less
+247,kore1283,Koreguaje,tuca1253,grammar
+248,coro1248,Koropó,nucl1710,wordlist_or_less
+249,koru1247,Korubo,pano1259,phonology_or_text
+250,guan1269,Kotiria,tuca1253,long_grammar
+251,kren1239,Krenak,nucl1710,grammar_sketch
+252,cure1236,Kueretu,tuca1253,wordlist_or_less
+253,kuik1246,Kuikúro-Kalapálo,cari1283,long_grammar
+254,kuli1255,Kulina Pano,pano1259,phonology_or_text
+255,kunz1244,Kunza,unk,grammar_sketch
+256,kuru1309,Kuruáya,tupi1275,phonology_or_text
+257,kust1238,Kustenau,araw1281,wordlist_or_less
+258,kuyu1236,Kuyubi,chap1271,phonology_or_text
+259,kwaz1243,Kwaza,unk,long_grammar
+260,kwin1243,Kwinti,indo1319,wordlist_or_less
+261,lako1248,Lakondê,namb1299,grammar
+262,lamb1276,Lambayeque Quechua,quec1387,grammar
+263,latu1238,Latundê,namb1299,grammar
+264,leco1242,Leco,unk,grammar_sketch
+265,tupi1274,Lingua Geral Paulista,tupi1275,wordlist_or_less
+266,loja1235,Loja Highland Quichua,quec1387,grammar_sketch
+267,araw1276,Lokono,araw1281,long_grammar
+268,chiq1248,Lomeriano-Ignaciano Chiquitano,unk,long_grammar
+269,lule1238,Lule,unk,grammar_sketch
+270,mabe1235,Mabenaro,pano1259,wordlist_or_less
+271,maca1260,Maca,mata1289,grammar
+272,maca1261,Macaguaje,tuca1253,wordlist_or_less
+273,maca1259,Macaguán,guah1252,grammar_sketch
+274,mach1267,Machiguenga,araw1281,grammar_sketch
+275,mach1268,Machinere,araw1281,grammar_sketch
+276,maco1239,Maco,jodi1234,long_grammar
+277,macu1260,Macuna,tuca1253,grammar_sketch
+278,macu1258,Macuni,nucl1710,wordlist_or_less
+279,macu1259,Macushi,cari1283,long_grammar
+280,jama1261,Madi,araw1282,long_grammar
+281,orej1242,Maijiki,tuca1253,grammar_sketch
+282,maip1247,Maipure-Avane,unk,grammar_sketch
+283,maku1278,Makuráp,tupi1275,grammar
+284,mala1432,Malali,nucl1710,wordlist_or_less
+285,mala1522,Malayo,chib1249,grammar
+286,mama1278,Mamaindé,namb1299,long_grammar
+287,mana1299,Manao,araw1281,phonology_or_text
+288,mand1448,Mandahuaca,araw1281,wordlist_or_less
+289,mapi1252,Mapidian-Mawayana,araw1281,phonology_or_text
+290,mapo1246,Mapoyo,cari1283,phonology_or_text
+291,mapu1245,Mapudungun,arau1255,long_grammar
+292,mara1409,Maragua,araw1281,wordlist_or_less
+293,marg1254,Margos-Yarowilca-Lauricocha Quechua,quec1387,phonology_or_text
+294,mari1442,Maritsauá,tupi1275,wordlist_or_less
+295,maru1252,Marúbo,pano1259,grammar_sketch
+296,masa1311,Masacara,kama1371,wordlist_or_less
+297,mash1270,Mashco Piro,araw1281,wordlist_or_less
+298,mata1275,Matanawí,unk,phonology_or_text
+299,mati1253,Matipuhy,cari1283,wordlist_or_less
+300,mato1253,Mato Grosso Arára,unk,wordlist_or_less
+301,mats1244,Matsés,pano1259,long_grammar
+302,mati1255,Matís,pano1259,long_grammar
+303,maxa1247,Maxakalí,nucl1710,long_grammar
+304,mayo1271,Mayoruna-Amazon,pano1259,wordlist_or_less
+305,mayo1270,Mayoruna-Jandiatuba,pano1259,wordlist_or_less
+306,mayo1272,Mayoruna-Tabatinga,pano1259,wordlist_or_less
+307,mbya1239,Mbyá Guaraní,tupi1275,grammar
+308,mehi1240,Mehináku,araw1281,long_grammar
+309,saki1248,Mekens,tupi1275,long_grammar
+310,meni1247,Menien,kama1371,wordlist_or_less
+311,mepu1234,Mepuri,unk,wordlist_or_less
+312,sanm1288,Migueleño Chiquitano,unk,phonology_or_text
+313,mill1237,Millcayac,huar1251,grammar_sketch
+314,mini1256,Minica Huitoto,huit1251,grammar
+315,miri1270,Miriti,tuca1253,wordlist_or_less
+316,moch1259,Mochica,unk,grammar
+317,moco1246,Mocoví,guai1249,long_grammar
+318,mori1273,Morike,araw1281,wordlist_or_less
+319,mose1249,Mosetén-Chimané,unk,long_grammar
+320,movi1243,Movima,unk,long_grammar
+321,muin1242,Muinane,bora1262,grammar_sketch
+322,mund1330,Mundurukú,tupi1275,long_grammar
+323,muni1258,Muniche,unk,grammar_sketch
+324,mure1235,Mure,unk,wordlist_or_less
+325,muru1274,Murui Huitoto,huit1251,long_grammar
+326,maku1246,Máku,unk,grammar_sketch
+327,nade1244,Nadëb,nada1235,long_grammar
+328,nant1250,Nanti,araw1281,grammar
+329,nape1237,Napeca,chap1271,wordlist_or_less
+330,napo1242,Napo Lowland Quechua,quec1387,grammar_sketch
+331,nawa1239,Nawa,pano1259,wordlist_or_less
+332,nhen1239,Nhengatu,tupi1275,long_grammar
+333,nina1238,Ninam,yano1268,long_grammar
+334,niva1238,Nivaclé,mata1289,long_grammar
+335,noma1263,Nomatsiguenga,araw1281,grammar_sketch
+336,nonu1241,Nonuya,huit1251,grammar_sketch
+337,nort2976,North Bolivian Quechua,quec1387,grammar_sketch
+338,nort2980,North Junín Quechua,quec1387,long_grammar
+339,krey1238,Northeastern Timbira,nucl1710,wordlist_or_less
+340,nort2979,Northern Conchucos Ancash Quechua,quec1387,grammar
+341,nort2972,Northern Emberá,choc1280,grammar
+342,nort2971,Northern Lengua,leng1261,phonology_or_text
+343,nort2973,Northern Pastaza Quichua,quec1387,grammar_sketch
+344,nuka1242,Nukak Makú,kaku1242,grammar_sketch
+345,nuku1263,Nukuini,pano1259,phonology_or_text
+346,nupo1240,Nüpode Huitoto,huit1251,phonology_or_text
+347,ocai1244,Ocaina,huit1251,long_grammar
+348,ofay1240,Ofayé,nucl1710,grammar
+349,omag1248,Omagua,tupi1275,grammar_sketch
+350,omur1241,Omurano,unk,wordlist_or_less
+351,opon1234,Opón-Carare,cari1283,wordlist_or_less
+352,orow1243,Oro Win,chap1271,grammar_sketch
+353,otii1244,Oti,unk,wordlist_or_less
+354,otom1301,Otomaco,otom1276,phonology_or_text
+355,otuk1240,Otuke,boro1281,wordlist_or_less
+356,paca1246,Pacahuara,pano1259,wordlist_or_less
+357,paca1245,Pacaraos Quechua,quec1387,grammar_sketch
+358,pait1247,Pai Tavytera,tupi1275,grammar
+359,pale1260,Palenquero,indo1319,grammar
+360,pali1279,Palikúr,araw1281,grammar
+361,palm1241,Palmela,cari1283,wordlist_or_less
+362,pana1306,Panao Huánuco Quechua,quec1387,grammar_sketch
+363,enap1235,Panare,cari1283,long_grammar
+364,pana1307,Panará,nucl1710,grammar
+365,pank1250,Pankararú,unk,wordlist_or_less
+366,pano1254,Panoan Katukína,pano1259,long_grammar
+367,pano1255,Panobo,pano1259,grammar_sketch
+368,papi1253,Papiamento,indo1319,grammar
+369,para1311,Paraguayan Guaraní,tupi1275,long_grammar
+370,para1318,Paraguayan Sign Language,sign1238,grammar_sketch
+371,para1312,Parakanã,tupi1275,grammar_sketch
+372,para1313,Paranawát,tupi1275,wordlist_or_less
+373,para1324,Parauana,unk,wordlist_or_less
+374,para1316,Paraujano,araw1281,grammar_sketch
+375,para1309,Paravilhana,cari1283,wordlist_or_less
+376,pare1272,Parecís,araw1281,long_grammar
+377,para1310,Pará Arára,cari1283,grammar
+378,para1315,Pará-Maranhão Gavião,nucl1710,grammar
+379,pass1250,Passe,araw1281,wordlist_or_less
+380,pata1262,Patamona,cari1283,phonology_or_text
+381,pata1261,Pataxó Hã-Ha-Hãe,nucl1710,wordlist_or_less
+382,paum1247,Paumari,araw1282,grammar
+383,paun1241,Paunaka,araw1281,grammar_sketch
+384,paux1235,Pauxi,cari1283,wordlist_or_less
+385,paux1236,Pauxiana,cari1283,wordlist_or_less
+386,paya1236,Payagua,unk,phonology_or_text
+387,peba1243,Peba,peba1241,wordlist_or_less
+388,pemo1248,Pemon,cari1283,long_grammar
+389,lore1243,Peruvian Amazonian Spanish,indo1319,grammar_sketch
+390,peru1235,Peruvian Sign Language,sign1238,phonology_or_text
+391,piap1246,Piapoco,araw1281,long_grammar
+392,piar1243,Piaroa,jodi1234,long_grammar
+393,pich1237,Pichis Ashéninka,araw1281,long_grammar
+394,pila1245,Pilagá,guai1249,long_grammar
+395,pime1237,Pimenteira,cari1283,wordlist_or_less
+396,pira1253,Pirahã,unk,long_grammar
+397,pisa1245,Pisamira,tuca1253,grammar_sketch
+398,play1240,Playero,guah1252,wordlist_or_less
+399,poya1241,Poyanáwa,pano1259,grammar_sketch
+400,puel1244,Puelche,unk,grammar
+401,puin1248,Puinave,unk,long_grammar
+402,pume1238,Pumé,unk,grammar_sketch
+403,puno1238,Puno Quechua,quec1387,phonology_or_text
+404,puqu1242,Puquina,unk,grammar_sketch
+405,puri1262,Puri,puri1261,phonology_or_text
+406,puru1264,Puruborá,tupi1275,phonology_or_text
+407,paez1247,Páez,unk,long_grammar
+408,pemo1245,Pémono,cari1283,phonology_or_text
+409,qawa1238,Qawasqar,kawe1237,long_grammar
+410,rama1271,Ramanos,unk,wordlist_or_less
+411,remo1250,Remo of the Blanco river,pano1259,wordlist_or_less
+412,remo1249,Remo of the Jaquirana river,pano1259,wordlist_or_less
+413,remo1248,Remo of the Moa river,pano1259,wordlist_or_less
+414,resi1247,Resígaro,araw1281,long_grammar
+415,reye1240,Reyesano,pano1259,grammar_sketch
+416,rikb1245,Rikbaktsa,nucl1710,long_grammar
+417,roco1235,Rocorona,chap1271,wordlist_or_less
+418,saba1268,Sabanê,namb1299,grammar
+419,sala1273,Salamãi,tupi1275,wordlist_or_less
+420,sanb1242,San Blas Kuna,chib1249,grammar
+421,sanm1289,San Martín Quechua,quec1387,long_grammar
+422,sana1298,Sanapaná,leng1261,grammar
+423,sant1433,Santa Ana de Tusi Pasco Quechua,quec1387,wordlist_or_less
+424,sant1432,Santiago del Estero Quichua,quec1387,long_grammar
+425,sanu1240,Sanumá,yano1268,grammar
+426,sapa1254,Sapara,cari1283,wordlist_or_less
+427,sape1238,Sapé,unk,phonology_or_text
+428,sara1340,Saramaccan,indo1319,grammar
+429,sara1331,Saraveca,araw1281,grammar_sketch
+430,sate1243,Sateré-Mawé,tupi1275,long_grammar
+431,sech1236,Sechuran,unk,wordlist_or_less
+432,seco1241,Secoya,tuca1253,grammar
+433,onaa1245,Selk'nam,chon1288,grammar
+434,sens1242,Sensi,pano1259,wordlist_or_less
+435,shan1283,Shanenawa,pano1259,grammar
+436,shar1245,Sharanahua,pano1259,grammar
+437,chay1248,Shawi,cahu1265,grammar_sketch
+438,sheb1234,Shebayo,unk,wordlist_or_less
+439,ship1254,Shipibo-Conibo,pano1259,long_grammar
+440,shua1257,Shuar,jiva1245,grammar
+441,sihu1235,Sihuas Ancash Quechua,quec1387,grammar_sketch
+442,sion1247,Siona-Tetete,tuca1253,long_grammar
+443,siri1274,Siriano,tuca1253,grammar_sketch
+444,siri1273,Sirionó,tupi1275,long_grammar
+445,sivi1235,Sivia Sign Language,sign1238,long_grammar
+446,skep1238,Skepi Creole Dutch,indo1319,wordlist_or_less
+447,sout2991,South Bolivian Quechua,quec1387,long_grammar
+448,sout3127,South Ucayali Ashéninka,araw1281,wordlist_or_less
+449,sout2996,Southern Aymara,ayma1253,long_grammar
+450,sout2992,Southern Conchucos Ancash Quechua,quec1387,grammar_sketch
+451,sout2989,Southern Lengua,leng1261,long_grammar
+452,sout2994,Southern Nambikuára,namb1299,grammar
+453,sout2990,Southern Pastaza Quechua,quec1387,grammar_sketch
+454,sran1240,Sranan Tongo,indo1319,long_grammar
+455,suru1263,Suruahá,araw1282,phonology_or_text
+456,suru1262,Suruí,tupi1275,grammar_sketch
+457,suru1261,Suruí Do Pará,tupi1275,grammar_sketch
+458,suya1243,Suyá,nucl1710,grammar
+459,sali1298,Sáliba,jodi1234,grammar
+460,saop1235,São Paulo Kaingáng,nucl1710,phonology_or_text
+461,taca1256,Tacana,pano1259,grammar_sketch
+462,tacu1234,Tacunyape,tupi1275,wordlist_or_less
+463,tall1235,Tallán,unk,wordlist_or_less
+464,tama1340,Tama (Colombia),tuca1253,wordlist_or_less
+465,tama1338,Tamanaku,cari1283,phonology_or_text
+466,tani1257,Tanimuca-Retuarã,tuca1253,long_grammar
+467,tapa1262,Taparita,otom1276,phonology_or_text
+468,tapi1253,Tapieté,tupi1275,long_grammar
+469,tapi1254,Tapirapé,tupi1275,long_grammar
+470,tari1256,Tariana,araw1281,long_grammar
+471,taru1236,Taruma,unk,wordlist_or_less
+472,tatu1247,Tatuyo,tuca1253,long_grammar
+473,taus1253,Taushiro,unk,grammar_sketch
+474,tawa1278,Tawandê,namb1299,phonology_or_text
+475,tehu1242,Tehuelche,chon1288,long_grammar
+476,emer1243,Teko,tupi1275,long_grammar
+477,tena1240,Tena Lowland Quichua,quec1387,grammar_sketch
+478,temb1276,Tenetehara,tupi1275,grammar_sketch
+479,tenh1241,Tenharim-Parintintin-Diahoi,tupi1275,grammar_sketch
+480,tere1279,Terena-Kinikinao-Chane,araw1281,grammar
+481,teus1236,Teushen,chon1288,wordlist_or_less
+482,ticu1245,Ticuna,ticu1244,long_grammar
+483,timo1237,Timote-Cuica,unk,grammar_sketch
+484,tini1245,Tinigua,unk,grammar_sketch
+485,tive1236,Tiverighotto,cari1283,wordlist_or_less
+486,toba1269,Toba,guai1249,long_grammar
+487,toba1268,Toba-Maskoy,leng1261,grammar_sketch
+488,toba1282,Tobagonian Creole English,unk,grammar
+489,toca1235,Tocantins Asurini,tupi1275,grammar_sketch
+490,toro1255,Toromono,pano1259,wordlist_or_less
+491,tora1263,Torá,chap1271,wordlist_or_less
+492,toto1306,Totoro,barb1265,long_grammar
+493,trin1277,Trinidad and Tobago Sign Language,unk,wordlist_or_less
+494,trin1276,Trinidadian Creole English,unk,grammar
+495,trin1274,Trinitario-Javeriano-Loretano,araw1281,grammar_sketch
+496,trio1238,Trió,cari1283,long_grammar
+497,trum1247,Trumai,unk,long_grammar
+498,colo1256,Tsafiki,barb1265,long_grammar
+499,tuca1252,Tucano,tuca1253,long_grammar
+500,sala1272,Tungurahua Highland Quichua,quec1387,grammar_sketch
+501,tupa1250,Tuparí,tupi1275,long_grammar
+502,tupi1273,Tupinambá,tupi1275,long_grammar
+503,turi1247,Turiwára,tupi1275,wordlist_or_less
+504,tuxi1238,Tuxináwa,pano1259,wordlist_or_less
+505,tuxa1239,Tuxá,unk,wordlist_or_less
+506,tuyu1244,Tuyuca,tuca1253,grammar_sketch
+507,uain1239,Uainuma-Mariate,araw1281,wordlist_or_less
+508,kari1301,Uaçá Creole French,indo1319,grammar
+509,ucay1237,Ucayali-Yurúa Ashéninka,araw1281,grammar_sketch
+510,uiri1238,Uirina,araw1281,wordlist_or_less
+511,umot1240,Umotína,boro1281,grammar_sketch
+512,urar1246,Urarina,unk,long_grammar
+513,uruu1244,Uru,uruc1242,long_grammar
+514,urue1240,Uru-Eu-Wau-Wau,tupi1275,grammar_sketch
+515,urub1250,Urubú-Kaapor,tupi1275,long_grammar
+516,urub1243,Urubú-Kaapor Sign Language,sign1238,wordlist_or_less
+517,urug1238,Uruguayan Sign Language,sign1238,wordlist_or_less
+518,urum1250,Urumi,tupi1275,wordlist_or_less
+519,urup1245,Urupa,chap1271,wordlist_or_less
+520,vene1237,Venezuelan Sign Language,sign1238,grammar_sketch
+521,vile1241,Vilela,unk,grammar_sketch
+522,pira1254,Wa'ikhana,tuca1253,grammar_sketch
+523,waim1255,Waimaha,tuca1253,phonology_or_text
+524,waim1253,Waimiri-Atroari,cari1283,grammar
+525,waiw1244,Waiwai,cari1283,grammar
+526,wany1246,Wanyam,chap1271,wordlist_or_less
+527,waor1240,Waorani,unk,grammar
+528,wapi1253,Wapishana,araw1281,grammar
+529,wara1303,Warao,unk,long_grammar
+530,ware1255,Warekena do San Miguel,araw1281,grammar
+531,wari1268,Wari',chap1271,long_grammar
+532,paus1244,Warázu,tupi1275,phonology_or_text
+533,waur1244,Waurá,araw1281,grammar
+534,waya1270,Wayampi,tupi1275,long_grammar
+535,waya1269,Wayana,cari1283,long_grammar
+536,wayo1238,Wayoró,tupi1275,phonology_or_text
+537,wayu1242,Wayumara,cari1283,wordlist_or_less
+538,wayu1243,Wayuu,araw1281,long_grammar
+539,west2640,Western Bolivian Guaraní,tupi1275,grammar_sketch
+540,west2651,Western Tunebo,chib1249,wordlist_or_less
+541,wich1264,Wichí Lhamtés Güisnay,mata1289,grammar
+542,wich1262,Wichí Lhamtés Nocten,mata1289,grammar
+543,wich1263,Wichí Lhamtés Vejoz,mata1289,long_grammar
+544,wira1264,Wiraféd,tupi1275,wordlist_or_less
+545,woun1238,Woun Meu,choc1280,grammar
+546,xakr1238,Xakriabá,nucl1710,wordlist_or_less
+547,xava1240,Xavánte,nucl1710,long_grammar
+548,xere1240,Xerénte,nucl1710,long_grammar
+549,xeta1241,Xetá,tupi1275,phonology_or_text
+550,xing1248,Xingú Asuriní,tupi1275,long_grammar
+551,xipa1240,Xipaya,tupi1275,grammar
+552,xiri1243,Xiriâna,araw1281,grammar
+553,xokl1240,Xokleng,nucl1710,grammar
+554,xuku1239,Xukurú,unk,wordlist_or_less
+555,yaba1248,Yabarana,cari1283,wordlist_or_less
+556,yaba1249,Yabaâna-Mainatari,araw1281,wordlist_or_less
+557,yagu1244,Yagua,peba1241,long_grammar
+558,yahu1241,Yahuna,tuca1253,wordlist_or_less
+559,yaoa1239,Yaio,cari1283,wordlist_or_less
+560,yame1242,Yameo,peba1241,grammar_sketch
+561,yami1256,Yaminahua,pano1259,grammar
+562,yana1272,Yanahuanca Pasco Quechua,quec1387,phonology_or_text
+563,yane1238,Yanesha',araw1281,grammar
+564,yano1261,Yanomamö,yano1268,long_grammar
+565,yano1262,Yanomám,yano1268,long_grammar
+566,yaro1235,Yaroame,yano1268,grammar_sketch
+567,yaru1257,Yaru,chap1271,wordlist_or_less
+568,yaru1255,Yarumá,cari1283,wordlist_or_less
+569,yavi1244,Yavitero-Pareni,araw1281,grammar_sketch
+570,yawa1261,Yawalapití,araw1281,grammar_sketch
+571,yawa1260,Yawanawa,pano1259,long_grammar
+572,maqu1238,Ye'kwana,cari1283,long_grammar
+573,yine1238,Yine,araw1281,long_grammar
+574,yora1241,Yora,pano1259,grammar_sketch
+575,yucu1253,Yucuna,araw1281,grammar_sketch
+576,yuhu1238,Yuhup,nada1235,long_grammar
+577,yukp1241,Yukpa,cari1283,grammar_sketch
+578,jupu1235,Yupua,tuca1253,wordlist_or_less
+579,yuqu1240,Yuqui,tupi1275,long_grammar
+580,yura1255,Yuracaré,unk,long_grammar
+581,yuru1243,Yurumanguí,unk,wordlist_or_less
+582,yuru1263,Yurutí,tuca1253,grammar_sketch
+583,yama1264,Yámana,unk,grammar_sketch
+584,yano1269,Yãnoma,yano1268,wordlist_or_less
+585,zamu1245,Zamuco,zamu1243,grammar_sketch
+586,zoee1240,Zo'é,tupi1275,phonology_or_text
+587,zapa1253,Záparo,zapa1251,long_grammar
