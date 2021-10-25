@@ -1,7 +1,7 @@
 ## **Instrucciones entrega 2**
 Para la **segunda entrega**, el propósito es entregar una primera versión del análisis de datos. En términos precisos, deben presentar:
 
-1. Un **informe** de máximo 5 planas (en total, incluyendo referencias), en donde se describa:
+1. Un **informe** de máximo 5 planas (en total, incluyendo referencias; sin incluir anexos!!!), en donde se describa:
     - el problema lingüístico
     - los datos
     - metodología: 1° técnicas básicas de pre-procesamiento de los datos; 2° técnicas de análisis
