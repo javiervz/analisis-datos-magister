@@ -34,6 +34,7 @@ Detalles de la **entrega 2!**
     - types
     - oraciones
     - otras unidades mínimas (como líneas del texto)
+    
 Si son datos tipológicos, deben describir:
     - número de lenguas/variantes (de una lengua)
     - familias lingüísticas involucradas (si es el caso)
