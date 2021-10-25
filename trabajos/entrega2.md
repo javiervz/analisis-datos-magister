@@ -32,6 +32,7 @@ Detalles de la **entrega 2!**
     - lengua de los textos
     - tokens
     - types
+    - la razón entre el número de types y el número de tokens: types/tokens!
     - oraciones
     - otras unidades mínimas (como líneas del texto)
 Si son datos tipológicos, deben describir:
