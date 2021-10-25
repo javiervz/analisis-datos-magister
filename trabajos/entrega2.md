@@ -43,7 +43,7 @@ Si son datos tipológicos, deben describir:
     - tener en consideración un objetivo más general que lo que están presentando. De alguna forma, los resultados que expongan ahora son una parte (o una primera mirada) de lo que esperan entregar al finalizar el curso.
     - usar alguna herramienta simple para el análisis computacional: mapas, alguna noción de distancia, frecuencias de palabras, búsqueda de alguna estructura/forma/palabra, combinaciones de palabras.
     - plantear posibles problemas/dificultades que vayan surgiendo del análisis. Esto permitirá ir mejorando los análisis. En el mundo del análisis de datos, es muy raro que todo salga perfecto desde un principio. 
-7. **Conclusiones y perspectivad futuras.** La conclusiones incluyen:
+7. **Conclusiones y perspectivas futuras.** La conclusiones incluyen:
     - reflexiones preliminares sobre la relación entre sus objetivos/preguntas y los resultados computacionales.
     - problemas/dificultades del análisis.
     - pasos siguientes: ¿Qué análisis vienen? ¿Qué esperan lograr? Recomiendo tener una perspectiva general, que pueda dividirse en partes más pequeñas. 
