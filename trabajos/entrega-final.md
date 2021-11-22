@@ -1,5 +1,5 @@
 ## **Instrucciones entrega final**
-Para la **entrega final**, el propósito es resumir los aspectos esenciales del trabajo realizado a lo largo del semestre. La idea es presentar un texto similar a un paper. Con esto en mente, deben ser concisxs y clarxs en la exposición. En términos precisos, deben presentar:
+Para la **entrega final**, el propósito es resumir los aspectos esenciales del trabajo realizado a lo largo del semestre. El **trabajo final** equivale al **65% de la nota final.** El otro **35%** corresponde a la **nota de la entrega 2.** La idea es presentar un texto similar a un paper. Con esto en mente, deben ser concisxs y clarxs en la exposición. En términos precisos, deben presentar:
 
 1. Un **informe** de máximo 7 planas (en total, incluyendo referencias), en donde se describa:
     - el problema lingüístico
