@@ -1,7 +1,7 @@
 ## **Instrucciones entrega final**
-Para la **entrega final**, el propósito es resumir los aspectos esenciales del trabajo realizado a lo largo del semestre. La idea es presentear un texto similar a un paper. Con esto en mente, deben ser concisxs y clarxs en la exposición. En términos precisos, deben presentar:
+Para la **entrega final**, el propósito es resumir los aspectos esenciales del trabajo realizado a lo largo del semestre. La idea es presentar un texto similar a un paper. Con esto en mente, deben ser concisxs y clarxs en la exposición. En términos precisos, deben presentar:
 
-1. Un **informe** de máximo 7 planas (en total, incluyendo referencias; sin incluir posibles anexos!!!), en donde se describa:
+1. Un **informe** de máximo 7 planas (en total, incluyendo referencias), en donde se describa:
     - el problema lingüístico
     - los datos
     - metodología: 1° técnicas básicas de pre-procesamiento de los datos; 2° técnicas de análisis
@@ -16,7 +16,7 @@ Para la **entrega final**, el propósito es resumir los aspectos esenciales del 
 
 Detalles de la **entrega final!**
 
-1. **Problema lingüístico.** Ya sea en forma de pregunta o afirmación, debe estar muy claro el problema lingüístico que quieren abordar. Claramente, este puede estar imbricado con la parte computacional. **Recomendación!** deben citar papers que tengan un énfasis computacional para abordar algún problema relacionado sobre lenguaje. 
+1. **Problema lingüístico.** Ya sea en forma de pregunta o afirmación, debe estar muy claro el problema lingüístico que quieren abordar. Traten de plantear hipótesis/preguntas que orienten el trabajo (e incluso los análisis computacionales). Claramente, estas puede estar imbricadas con la parte computacional. Deben citar papers que tengan un énfasis computacional para abordar algún problema relacionado sobre lenguaje. 
 2. **Objetivos.** debe estar muy claro qué objetivos lingüísticos tiene el trabajo y cómo estos se transforman/integran con una perspectiva computacional. 
 3. **Metodología.** La metodología contiene dos partes:
     - la parte que describe los datos
