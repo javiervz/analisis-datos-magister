@@ -36,7 +36,7 @@ Si son datos tipológicos, deben describir:
     - tipos de rasgos
     - número de rasgos por lengua
 5.2. **Análisis de los datos.** Les recomiendo:
-    - presentar ordenadamente los principales resultados obtenidos. Pueder sevir ordenar los resultados por objetivos o por preguntas de investigación. 
+    - presentar ordenadamente los principales resultados obtenidos. Ordene los resultados por objetivos o por preguntas de investigación. 
     - usar alguna herramienta simple para el análisis computacional: mapas, alguna noción de distancia, frecuencias de palabras, búsqueda de alguna estructura/forma/palabra, combinaciones de palabras.
     - plantear posibles problemas/dificultades que vayan surgiendo del análisis. Esto permitirá ir mejorando los análisis. En el mundo del análisis de datos, es muy raro que todo salga perfecto desde un principio. 
 7. **Conclusiones y perspectivas futuras.** La conclusiones incluyen:
